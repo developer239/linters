@@ -2,6 +2,8 @@
   "name": "linters",
   "private": true,
   "scripts": {
+    "format": "prettier --write '*/**/*.{ts,css,md,json}'",
+    "lint:ts": "eslint --ext .ts src",
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
@@ -12,8 +14,17 @@
     "packages/stylelint/*"
   ],
   "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@linters/commitlint-config": "^1.1.0",
+    "@linters/eslint-config-node": "^1.0.0",
+    "@linters/prettier-config": "^1.0.0",
     "@linters/semantic-release": "^1.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "husky": "^4.2.5",
     "lerna": "^3.20.2",
+    "lint-staged": "^10.2.2",
+    "prettier": "^2.0.5",
     "semantic-release": "^17.0.7",
     "semantic-release-monorepo": "^7.0.2"
   }
