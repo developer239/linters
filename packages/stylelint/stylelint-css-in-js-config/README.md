@@ -14,8 +14,6 @@ Create a _.stylelintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/stylelint-css-in-js-config',
-  ],
+  extends: ['@linters/stylelint-css-in-js-config'],
 }
 ```

@@ -24,8 +24,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/eslint-config-typescript'
-  ],
+  extends: ['@linters/eslint-config-typescript'],
 }
 ```

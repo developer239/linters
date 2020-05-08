@@ -17,6 +17,7 @@ $ yarn add semantic-release @linters/semantic-release -D
 ## Configuration
 
 Ensure that your CI configuration has the following **_secret_** environment variables set:
+
 - [`GH_TOKEN`](https://github.com/settings/tokens) with [`public_repo`](https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/#available-scopes) access.
 - [`NPM_TOKEN`](https://docs.npmjs.com/cli/token)
 
@@ -70,7 +71,7 @@ jobs:
         with:
           path: node_modules
           key: node-modules-${{ hashFiles('**/yarn.lock') }}
-    
+
       - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: yarn install

@@ -23,32 +23,29 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/eslint-config-angular',
-  ],
+  extends: ['@linters/eslint-config-angular'],
 }
 ```
 
-Run: 
+Run:
+
 - `yarn add @angular-eslint/schematics @angular-eslint/builder -D`
 
 Update `lint` configuration in `angular.json`:
 
 ```json
 {
-    "lint": {
-      "builder": "@angular-eslint/builder:lint",
-      "options": {
-        "eslintConfig": ".eslintrc.js",
-        "tsConfig": [
-          "tsconfig.app.json",
-          "tsconfig.spec.json",
-          "e2e/tsconfig.json"
-        ],
-        "exclude": [
-          "**/node_modules/**"
-        ]
-      }
+  "lint": {
+    "builder": "@angular-eslint/builder:lint",
+    "options": {
+      "eslintConfig": ".eslintrc.js",
+      "tsConfig": [
+        "tsconfig.app.json",
+        "tsconfig.spec.json",
+        "e2e/tsconfig.json"
+      ],
+      "exclude": ["**/node_modules/**"]
     }
+  }
 }
 ```

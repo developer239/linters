@@ -3,4 +3,7 @@ module.exports = {
     '@linters/eslint-config-node',
     'prettier',
   ],
+  rules: {
+    'max-lines': 'warn',
+  }
 }

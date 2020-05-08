@@ -1,4 +1,4 @@
-# ESLint Config  
+# ESLint Config
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code.
 
@@ -24,8 +24,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/eslint-config'
-  ],
+  extends: ['@linters/eslint-config'],
 }
 ```

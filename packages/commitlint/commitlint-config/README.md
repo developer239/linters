@@ -12,13 +12,10 @@ yarn add @linters/commitlint-config -D
 
 This shareable config can be configured in the [**commitlint** configuration file]():
 
-Create a  _commitlint.config.js configuration file_ file with the following contents:
-
+Create a _commitlint.config.js configuration file_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/commitlint-config',
-  ],
+  extends: ['@linters/commitlint-config'],
 }
 ```

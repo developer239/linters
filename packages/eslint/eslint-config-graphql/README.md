@@ -24,9 +24,7 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: [
-    '@linters/eslint-config-graphql',
-  ],
+  extends: ['@linters/eslint-config-graphql'],
 }
 ```
 
@@ -34,6 +32,6 @@ Additionally don't forget to have `.graphqlconfig` file:
 
 ```json
 {
-  "schemaPath": "schema.json",
+  "schemaPath": "schema.json"
 }
 ```
