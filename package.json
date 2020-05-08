@@ -8,9 +8,9 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@linters/semantic-release": "^1.0.0",
     "lerna": "^3.20.2",
     "semantic-release": "^17.0.7",
-    "semantic-release-monorepo": "^7.0.2",
-    "@code-quality/test-c": "^1.0.0"
+    "semantic-release-monorepo": "^7.0.2"
   }
 }
