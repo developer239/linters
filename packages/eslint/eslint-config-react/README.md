@@ -6,9 +6,9 @@
 
 This configuration uses the following plugins:
 
-- [`@linters/eslint-config`](https://github.com/code-quality-resources/eslint-config-base)
-- [`eslint-plugin-react`](https://github.com/yannickcr/eslint-plugin-react)
-- [`eslint-plugin-react-hooks`](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- `@linters/eslint-config`
+- `eslint-plugin-react`
+- `eslint-plugin-react-hooks`
 
 ## Install
 

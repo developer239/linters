@@ -6,9 +6,9 @@
 
 This configuration uses the following plugins:
 
-- [`@linters/eslint-config`](https://github.com/code-quality-resources/eslint-config-base)
-- [`@typescript-eslint/eslint-plugin`](https://github.com/typescript-eslint/typescript-eslint)
-- [`eslint-import-resolver-typescript`](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)
+- `@linters/eslint-config`
+- `@typescript-eslint/eslint-plugin`
+- `eslint-import-resolver-typescript`
 
 ## Install
 

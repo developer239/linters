@@ -6,9 +6,9 @@
 
 This configuration uses the following plugins:
 
-- [`@linters/eslint-config`](https://github.com/code-quality-resources/eslint-config-base)
-- [`eslint-plugin-node`](https://github.com/mysticatea/eslint-plugin-node)
-- [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security)
+- `@linters/eslint-config`
+- `eslint-plugin-node`
+- `eslint-plugin-security`
 
 ## Install
 
