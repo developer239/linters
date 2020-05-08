@@ -12,12 +12,15 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 
 ## Available Packages
 
-| Tool       | Package                                                                                                           | Version                                                           | 
-| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------
+| Tool       | Package                                                                                                           | Version                                                                            | 
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------
 | Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
 | Other      | [@linters/commitlint-config](packages/commitlint/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
 | Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 | Eslint     | [@linters/eslint-config](packages/eslint/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
+| Eslint     | [@linters/eslint-config-node](packages/eslint/eslint-config-node)                                                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                         | 
+| Eslint     | [@linters/eslint-config-react](packages/eslint/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]                      | 
+| Eslint     | [@linters/eslint-config-typescript](packages/eslint/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       | 
 | Eslint     | [@linters/eslint-config-graphql](packages/eslint/eslint-config-graphql)                                           | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]                        | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
@@ -40,6 +43,15 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [es-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [es-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
+
+[esnode-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-node.svg
+[esnode-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-node
+
+[esreact-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-react.svg
+[esreact-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-react
+
+[ests-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-typescript.svg
+[ests-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-typescript
 
 [esfc-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-functional.svg
 [esfc-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-functional

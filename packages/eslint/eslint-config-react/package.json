@@ -1,0 +1,37 @@
+{
+  "name": "@linters/eslint-config-react",
+  "description": "The eslint configuration for react applications you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "@babel/core": ">=7",
+    "eslint": ">=6",
+    "eslint-plugin-import": ">=2.18.0"
+  },
+  "dependencies": {
+    "@linters/eslint-config": "^1.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint-plugin-react": "7.18.3",
+    "eslint-plugin-react-hooks": "2.4.0"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "eslint-plugin-import",
+    "semantic-release",
+    "config",
+    "general",
+    "basic",
+    "react",
+    "jsx",
+    "web"
+  ]
+}
