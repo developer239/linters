@@ -55,11 +55,11 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
 
-[sljs-badge]: https://badge.fury.io/js/%40linters%2Feslint-css-in-js-config.svg
-[sljs-npm]: https://badge.fury.io/js/%40linters%2Feslint-css-in-jsconfig
+[sljs-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config.svg
+[sljs-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config
 
-[slscss-badge]: https://badge.fury.io/js/%40linters%2Feslint-scss-config.svg
-[slscss-npm]: https://badge.fury.io/js/%40linters%2Feslint-scss-config
+[slscss-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config.svg
+[slscss-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config
 
 [pr-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [pr-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
