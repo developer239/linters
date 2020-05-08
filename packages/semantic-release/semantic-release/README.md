@@ -11,7 +11,7 @@
 ## Install
 
 ```bash
-$ yarn add semantic-release @code-quality/semantic-release-config -D
+$ yarn add semantic-release @linters/semantic-release -D
 ```
 
 ## Configuration
@@ -28,14 +28,14 @@ The shareable config can be configured in the [**semantic-release** configuratio
 
 ```json
 {
-  "extends": "@code-quality/semantic-release-config",
+  "extends": "@linters/semantic-release",
   "branch": "master"
 }
 ```
 
 ## Plugins
 
-This [configuration](https://github.com/code-quality-resources/semantic-release-config/blob/master/.releaserc.json) uses the following plugins:
+This [configuration](https://github.com/developer239/linters/blob/master/packages/semantic-release/semantic-release/.releaserc.json) uses the following plugins:
 
 - [`@semantic-release/changelog`](https://github.com/semantic-release/changelog)
 - [`@semantic-release/commit-analyzer`](https://github.com/semantic-release/commit-analyzer)
