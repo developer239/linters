@@ -1,0 +1,37 @@
+{
+  "plugins": [
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "angular",
+        "releaseRules": [
+          {
+            "type": "fix",
+            "release": "patch"
+          },
+          {
+            "type": "chore",
+            "release": "patch"
+          }
+        ]
+      }
+    ],
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/npm",
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "lib/**/*.{js,ts,css}",
+          "CHANGELOG.md",
+          "README.md",
+          "package.json"
+        ]
+      }
+    ]
+  ],
+  "branches": [
+    "master"
+  ]
+}
