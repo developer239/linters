@@ -4,7 +4,7 @@
 
 ## Plugins
 
-This [configuration](https://github.com/linters-resources/eslint-config-ramda/blob/master/index.js) uses the following plugins:
+This configuration uses the following plugins:
 
 - [eslint-plugin-ramda](https://github.com/ramda/eslint-plugin-ramda)
 

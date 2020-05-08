@@ -4,7 +4,7 @@
 
 ## Plugins
 
-This [configuration](https://github.com/linters-resources/eslint-config-functional/blob/master/index.js) uses the following plugins:
+This configuration uses the following plugins:
 
 - [`eslint-plugin-functional`](https://github.com/jonaskello/eslint-plugin-functional)
 

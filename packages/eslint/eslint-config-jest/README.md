@@ -4,7 +4,7 @@
 
 ## Plugins
 
-This [configuration](https://github.com/linters-resources/eslint-config-jest/blob/master/index.js) uses the following plugins:
+This configuration uses the following plugins:
 
 - [`eslint-plugin-jest`](https://github.com/jest-community/eslint-plugin-jest)
 - [`eslint-plugin-jest-formatting`](https://github.com/dangreenisrael/eslint-plugin-jest-formatting)
