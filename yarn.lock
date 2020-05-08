@@ -957,6 +957,13 @@
   resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.0.0.tgz#efbd146f2e040995499610687ae398234d070f76"
   integrity sha512-5keNzARJMmhJ182fxOvD1llfsvot1apB2UN7Y4si8H8L/XR3d6nA7Psg1aZt+I6ZyfJ+GBxkEd88vJMULP+U/A==
 
+"@linters/stylelint-css-in-js-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-css-in-js-config/-/stylelint-css-in-js-config-1.0.0.tgz#f50063134cf9018629b12bf625c32f02043b6ced"
+  integrity sha512-na2PnEZ3pWdQk7UX4PyEqe8+88Sz1SRiT5lOOqQVnmWINd7PNqQiZujMf83PZIL8MjYIuoYbb/IhHRSoArnUvQ==
+  dependencies:
+    "@linters/stylelint-config" "^1.0.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -6817,6 +6824,11 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-native-known-styling-properties@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-known-styling-properties/-/react-native-known-styling-properties-1.0.5.tgz#dd99690d579c5136541e1df836e75088af6e7356"
+  integrity sha512-PKRW5v9Um2/7mIaUy2fxg3XugP/QyVoqnzpnkY6AUTIlfyC2c/PeEhDwEVJgTotWiFCIj2lUACQ2lsG5zp0NUQ==
+
 read-cmd-shim@^1.0.1, read-cmd-shim@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/read-cmd-shim/-/read-cmd-shim-1.0.5.tgz#87e43eba50098ba5a32d0ceb583ab8e43b961c16"
@@ -7921,6 +7933,13 @@ stylelint-order@^2.2.1:
     lodash "^4.17.10"
     postcss "^7.0.2"
     postcss-sorting "^4.1.0"
+
+stylelint-react-native@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/stylelint-react-native/-/stylelint-react-native-2.1.1.tgz#0b3b0bdbb2ea8cf9630d6cb83ae7e981598ea106"
+  integrity sha512-0MgDTnLzXZ0/KsTekiB7x3q+KEfARZuloLljHveYuXLTiRUKzrSeIYfrTuhg8pbV89Ej/YxpSjUcteEc8pzyFw==
+  dependencies:
+    react-native-known-styling-properties "^1.0.5"
 
 stylelint-scss@^3.17.1:
   version "3.17.2"

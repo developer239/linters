@@ -12,19 +12,20 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 
 ## Available Packages
 
-| Tool       | Package                                                                                 | Version                                                           | 
-| ---------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------
-| Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                 | [![@linters/semantic-release][sr-badge]][sr-npm]                  | 
-| Other      | [@linters/commitlint-config](packages/commitlint/commitlint-config)                     | [![@linters/commitlint-config][cl-badge]][cl-npm]                 | 
-| Eslint     | [@linters/eslint-config](packages/eslint/eslint-config)                                 | [![@linters/eslint-config][es-badge]][es-npm]                     | 
-| Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-functional)           | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]      | 
-| Eslint     | [@linters/eslint-config-graphql](packages/eslint/eslint-config-graphql)                 | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]       | 
-| Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-jest)                 | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]  | 
-| Eslint     | [@linters/eslint-config-ramda](packages/eslint/eslint-config-ramda)                     | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]           | 
-| Stylelint  | [@linters/stylelint-config](packages/stylelint/stylelint-config)                        | [![@linters/stylelint-config][sl-badge]][sl-npm]                  | 
-| Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint/stylelint-css-in-js-config)    | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]    | 
-| Stylelint  | [@linters/stylelint-scss-config](packages/stylelint/stylelint-scss-config)              | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]     | 
-| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                  | [![@linters/prettier-config][pr-badge]][pr-npm]                   | 
+| Tool       | Package                                                                                                           | Version                                                           | 
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------
+| Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
+| Other      | [@linters/commitlint-config](packages/commitlint/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
+| Eslint     | [@linters/eslint-config](packages/eslint/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
+| Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       | 
+| Eslint     | [@linters/eslint-config-graphql](packages/eslint/eslint-config-graphql)                                           | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]                        | 
+| Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
+| Eslint     | [@linters/eslint-config-ramda](packages/eslint/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
+| Stylelint  | [@linters/stylelint-config](packages/stylelint/stylelint-config)                                                  | [![@linters/stylelint-config][sl-badge]][sl-npm]                                   | 
+| Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint/stylelint-css-in-js-config)                              | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                     | 
+| Stylelint  | [@linters/stylelint-css-in-js-react-native-config](packages/stylelint/stylelint-css-in-js-react-native-config)    | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm]    | 
+| Stylelint  | [@linters/stylelint-scss-config](packages/stylelint/stylelint-scss-config)                                        | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]                      | 
+| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 
 ## Contributing
 **If you don't like what you see and want to make it better**, now is your chance!
@@ -57,6 +58,9 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [sljs-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config.svg
 [sljs-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config
+
+[sljsrn-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-react-native-config.svg
+[sljsrn-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-react-native-config
 
 [slscss-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config.svg
 [slscss-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config
