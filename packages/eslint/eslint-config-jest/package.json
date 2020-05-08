@@ -1,0 +1,33 @@
+{
+  "name": "@linters/eslint-config-jest",
+  "description": "The eslint for jest tests you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "23.7.0",
+    "eslint-plugin-jest-formatting": "^1.2.0"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "semantic-release",
+    "config",
+    "jest",
+    "tests",
+    "typescript",
+    "node",
+    "react",
+    "react-native"
+  ]
+}

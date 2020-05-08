@@ -1,0 +1,41 @@
+{
+  "name": "@linters/eslint-config-ramda",
+  "description": "Extension for you eslint config with Ramda helper support.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-ramda": "^2.5.1"
+  },
+  "devDependencies": {
+    "@linters/commitlint-config": "1.1.0",
+    "@linters/semantic-release-config": "1.0.1",
+    "husky": "4.2.1",
+    "semantic-release": "17.0.2"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "semantic-release",
+    "config",
+    "jest",
+    "tests",
+    "typescript",
+    "node",
+    "angular",
+    "react",
+    "ramda",
+    "functional"
+  ]
+}

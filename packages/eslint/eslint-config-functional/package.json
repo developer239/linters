@@ -1,0 +1,32 @@
+{
+  "name": "@linters/eslint-config-functional",
+  "description": "The eslint rules for functional programming you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "dependencies": {
+    "eslint-plugin-functional": "3.0.1"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "semantic-release",
+    "config",
+    "functional",
+    "typescript",
+    "react",
+    "react-native",
+    "angular",
+    "vue"
+  ]
+}

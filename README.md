@@ -12,13 +12,17 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 
 ## Available Packages
 
-| Tool       | Package                                                                                 | Version                                           | 
-| ---------- | --------------------------------------------------------------------------------------- | --------------------------------------------------
-| Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                 | [![@linters/semantic-release][sr-badge]][sr-npm]  | 
-| Other      | [@linters/commitlint](packages/commitlint/commitlint-config)                            | [![@linters/commitlint-config][cl-badge]][cl-npm] | 
-| Eslint     | [@linters/eslint](packages/eslint/eslint-config)                                        | [![@linters/eslint-config][es-badge]][es-npm]     | 
-| Stylelint  | [@linters/stylelint](packages/stylelint/stylelint-config)                               | [![@linters/stylelint-config][sl-badge]][sl-npm]  | 
-| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                  | [![@linters/prettier-config][pr-badge]][pr-npm]   | 
+| Tool       | Package                                                                                 | Version                                                           | 
+| ---------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------
+| Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                 | [![@linters/semantic-release][sr-badge]][sr-npm]                  | 
+| Other      | [@linters/commitlint](packages/commitlint/commitlint-config)                            | [![@linters/commitlint-config][cl-badge]][cl-npm]                 | 
+| Eslint     | [@linters/eslint](packages/eslint/eslint-config)                                        | [![@linters/eslint-config][es-badge]][es-npm]                     | 
+| Eslint     | [@linters/eslint-functional](packages/eslint/eslint-config-functional)                  | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]      | 
+| Eslint     | [@linters/eslint-graphql](packages/eslint/eslint-config-graphql)                        | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]       | 
+| Eslint     | [@linters/eslint-jest](packages/eslint/eslint-config-jest)                              | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]  | 
+| Eslint     | [@linters/eslint-ramda](packages/eslint/eslint-config-ramda)                            | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]           | 
+| Stylelint  | [@linters/stylelint](packages/stylelint/stylelint-config)                               | [![@linters/stylelint-config][sl-badge]][sl-npm]                  | 
+| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                  | [![@linters/prettier-config][pr-badge]][pr-npm]                   | 
 
 ## Contributing
 **If you don't like what you see and want to make it better**, now is your chance!
@@ -33,6 +37,18 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [es-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [es-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
+
+[esfc-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-functional.svg
+[esfc-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-functional
+
+[esgql-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-graphql.svg
+[esgql-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-graphql
+
+[esjest-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-jest.svg
+[esjest-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-jest
+
+[esrm-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-ramda.svg
+[esrm-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-ramda
 
 [sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
