@@ -1,0 +1,16 @@
+{
+  "name": "linters",
+  "private": true,
+  "scripts": {
+    "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "semantic-release": "^17.0.7",
+    "semantic-release-monorepo": "^7.0.2",
+    "@code-quality/test-c": "^1.0.0"
+  }
+}
