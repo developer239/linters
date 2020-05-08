@@ -15,7 +15,7 @@
     "eslint": ">=6"
   },
   "dependencies": {
-    "eslint-plugin-jest": "23.7.0",
+    "eslint-plugin-jest": "23.9.0",
     "eslint-plugin-jest-formatting": "^1.2.0"
   },
   "keywords": [
