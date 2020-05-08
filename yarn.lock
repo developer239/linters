@@ -7934,10 +7934,10 @@ stylelint-order@^2.2.1:
     postcss "^7.0.2"
     postcss-sorting "^4.1.0"
 
-stylelint-react-native@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/stylelint-react-native/-/stylelint-react-native-2.1.1.tgz#0b3b0bdbb2ea8cf9630d6cb83ae7e981598ea106"
-  integrity sha512-0MgDTnLzXZ0/KsTekiB7x3q+KEfARZuloLljHveYuXLTiRUKzrSeIYfrTuhg8pbV89Ej/YxpSjUcteEc8pzyFw==
+stylelint-react-native@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/stylelint-react-native/-/stylelint-react-native-2.2.0.tgz#a2b129a46b8fc1954608b1237999a8c1c915690e"
+  integrity sha512-r5eIvGqU0zbqtUmYBXJfbIL8JSpdOTMnjf6/hh8MfaixxV+D68ecVn9hHVQUt94XkrN1nI3FLvIuHnxYnnpaEg==
   dependencies:
     react-native-known-styling-properties "^1.0.5"
 
