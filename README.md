@@ -19,12 +19,14 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 | Eslint     | [@linters/eslint-config](packages/eslint/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
 | Eslint     | [@linters/eslint-config-node](packages/eslint/eslint-config-node)                                                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                         | 
-| Eslint     | [@linters/eslint-config-react](packages/eslint/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]                      | 
+| Eslint     | [@linters/eslint-config-react](packages/eslint/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]               | 
+| Eslint     | [@linters/eslint-config-react-native](packages/eslint/eslint-config-react-native)                                 | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]             | 
 | Eslint     | [@linters/eslint-config-typescript](packages/eslint/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       | 
 | Eslint     | [@linters/eslint-config-graphql](packages/eslint/eslint-config-graphql)                                           | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]                        | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
 | Eslint     | [@linters/eslint-config-ramda](packages/eslint/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
+| Eslint     | [@linters/eslint-config-angular](packages/eslint/eslint-config-angular)                                           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                          | 
 | Stylelint  | [@linters/stylelint-config](packages/stylelint/stylelint-config)                                                  | [![@linters/stylelint-config][sl-badge]][sl-npm]                                   | 
 | Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint/stylelint-css-in-js-config)                              | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                     | 
 | Stylelint  | [@linters/stylelint-css-in-js-react-native-config](packages/stylelint/stylelint-css-in-js-react-native-config)    | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm]    | 
@@ -50,6 +52,9 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [esreact-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-react.svg
 [esreact-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-react
 
+[esreacrn-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-react-native.svg
+[esreacrn-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-react-native
+
 [ests-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-typescript.svg
 [ests-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-typescript
 
@@ -64,6 +69,9 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [esrm-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-ramda.svg
 [esrm-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-ramda
+
+[esng-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-angular.svg
+[esng-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-angular
 
 [sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config

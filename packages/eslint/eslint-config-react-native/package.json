@@ -1,0 +1,33 @@
+{
+  "name": "@linters/eslint-config-react-native",
+  "description": "The eslint config for react native applications you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6",
+    "eslint-plugin-import": ">=2.18.0"
+  },
+  "dependencies": {
+    "@linters/eslint-config-react": "1.0.0",
+    "eslint-plugin-react-native": "3.8.1"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "eslint-plugin-import",
+    "semantic-release",
+    "config",
+    "general",
+    "basic",
+    "react-native",
+    "native"
+  ]
+}
