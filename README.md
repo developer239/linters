@@ -22,6 +22,8 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | Eslint     | [@linters/eslint-jest](packages/eslint/eslint-config-jest)                              | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]  | 
 | Eslint     | [@linters/eslint-ramda](packages/eslint/eslint-config-ramda)                            | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]           | 
 | Stylelint  | [@linters/stylelint](packages/stylelint/stylelint-config)                               | [![@linters/stylelint-config][sl-badge]][sl-npm]                  | 
+| Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint/stylelint-css-in-js-config)    | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]    | 
+| Stylelint  | [@linters/stylelint-scss-config](packages/stylelint/stylelint-scss-config)              | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]     | 
 | Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                  | [![@linters/prettier-config][pr-badge]][pr-npm]                   | 
 
 ## Contributing
@@ -52,6 +54,12 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
+
+[sljs-badge]: https://badge.fury.io/js/%40linters%2Feslint-css-in-js-config.svg
+[sljs-npm]: https://badge.fury.io/js/%40linters%2Feslint-css-in-jsconfig
+
+[slscss-badge]: https://badge.fury.io/js/%40linters%2Feslint-scss-config.svg
+[slscss-npm]: https://badge.fury.io/js/%40linters%2Feslint-scss-config
 
 [pr-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
 [pr-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
