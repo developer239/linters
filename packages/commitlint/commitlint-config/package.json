@@ -1,0 +1,19 @@
+{
+  "name": "@linters/commitlint-config",
+  "description": "The commitlint config you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "commitlint",
+    "config",
+    "semantic-release"
+  ]
+}

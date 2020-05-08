@@ -10,11 +10,15 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 - [CommitLint](https://github.com/conventional-changelog/commitlint) 
 - [Semantic Release](https://github.com/semantic-release/github)
 
-## Available flavors
+## Available Packages
 
 | Tool       | Package                                                                                 | Version                                           | 
 | ---------- | --------------------------------------------------------------------------------------- | --------------------------------------------------
-| Other      | [@linters/semantic-release](packages/semantic-release)                                  | [![@strv/commitlint-config][sr-badge]][sr-npm]    | 
+| Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                 | [![@linters/semantic-release][sr-badge]][sr-npm]  | 
+| Other      | [@linters/commitlint](packages/commitlint/commitlint-config)                            | [![@linters/commitlint-config][cl-badge]][cl-npm] | 
+| Eslint     | [@linters/eslint](packages/eslint/eslint-config)                                        | [![@linters/eslint-config][es-badge]][es-npm]     | 
+| Stylelint  | [@linters/stylelint](packages/stylelint/stylelint-config)                               | [![@linters/stylelint-config][sl-badge]][sl-npm]  | 
+| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                  | [![@linters/prettier-config][pr-badge]][pr-npm]   | 
 
 ## Contributing
 **If you don't like what you see and want to make it better**, now is your chance!
@@ -23,3 +27,15 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [sr-badge]: https://badge.fury.io/js/%40linters%2Fsemantic-release.svg
 [sr-npm]: https://badge.fury.io/js/%40linters%2Fsemantic-release
+
+[cl-badge]: https://badge.fury.io/js/%40linters%commitlint-config.svg
+[cl-npm]: https://badge.fury.io/js/%40linters%commitlint-config
+
+[es-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
+[es-npm]: https://badge.fury.io/js/%40linters%eslint-config
+
+[sl-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
+[sl-npm]: https://badge.fury.io/js/%40linters%eslint-config
+
+[pr-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
+[pr-npm]: https://badge.fury.io/js/%40linters%eslint-config

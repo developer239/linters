@@ -1,0 +1,30 @@
+{
+  "name": "@linters/eslint-config",
+  "description": "The base eslint config you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "dependencies": {
+    "eslint-plugin-absolute-import": "^1.4.4",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-unused-imports": "^0.1.2"
+  },
+  "keywords": [
+    "eslint",
+    "code-style",
+    "eslint-plugin-import",
+    "semantic-release",
+    "config",
+    "general"
+  ]
+}

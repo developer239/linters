@@ -5,7 +5,11 @@
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
-    "packages/semantic-release/*"
+    "packages/commitlint/*",
+    "packages/eslint/*",
+    "packages/prettier/*",
+    "packages/semantic-release/*",
+    "packages/stylelint/*"
   ],
   "devDependencies": {
     "@linters/semantic-release": "^1.0.0",

@@ -1,0 +1,26 @@
+{
+  "name": "@linters/prettier-config",
+  "description": "The prettier config you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "prettier": ">=1.19.1"
+  },
+  "keywords": [
+    "npm",
+    "prettier",
+    "config",
+    "react",
+    "react-native",
+    "angular",
+    "vue"
+  ]
+}
