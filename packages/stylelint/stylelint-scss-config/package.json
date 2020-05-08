@@ -1,0 +1,32 @@
+{
+  "name": "@linters/stylelint-scss-config",
+  "description": "The SCSS style lint config you have been looking for.",
+  "version": "0.0.1",
+  "repository": "https://github.com/developer239/linters",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "dependencies": {
+    "@linters/stylelint-config": "^1.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-scss": "^3.17.1"
+  },
+  "peerDependencies": {
+    "prettier": ">=1.18.2",
+    "stylelint": ">=11.0.0"
+  },
+  "keywords": [
+    "config",
+    "stylelint",
+    "styled-components",
+    "scss",
+    "react",
+    "angular",
+    "vue"
+  ]
+}
