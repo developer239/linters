@@ -3,9 +3,6 @@ module.exports = {
     '@commitlint/config-conventional',
   ],
   rules: {
-    'body-leading-blank': [
-      2,
-      'always',
-    ],
+    'body-leading-blank': [2, 'always'],
   },
 }
