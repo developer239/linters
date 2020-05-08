@@ -28,14 +28,14 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [sr-badge]: https://badge.fury.io/js/%40linters%2Fsemantic-release.svg
 [sr-npm]: https://badge.fury.io/js/%40linters%2Fsemantic-release
 
-[cl-badge]: https://badge.fury.io/js/%40linters%commitlint-config.svg
-[cl-npm]: https://badge.fury.io/js/%40linters%commitlint-config
+[cl-badge]: https://badge.fury.io/js/%40linters%2Fcommitlint-config.svg
+[cl-npm]: https://badge.fury.io/js/%40linters%2Fcommitlint-config
 
-[es-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
-[es-npm]: https://badge.fury.io/js/%40linters%eslint-config
+[es-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
+[es-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
 
-[sl-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
-[sl-npm]: https://badge.fury.io/js/%40linters%eslint-config
+[sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
+[sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
 
-[pr-badge]: https://badge.fury.io/js/%40linters%eslint-config.svg
-[pr-npm]: https://badge.fury.io/js/%40linters%eslint-config
+[pr-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
+[pr-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
