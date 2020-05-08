@@ -16,6 +16,7 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------
 | Other      | [@linters/semantic-release](packages/semantic-release/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
 | Other      | [@linters/commitlint-config](packages/commitlint/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
+| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 | Eslint     | [@linters/eslint-config](packages/eslint/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       | 
 | Eslint     | [@linters/eslint-config-graphql](packages/eslint/eslint-config-graphql)                                           | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]                        | 
@@ -25,7 +26,6 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint/stylelint-css-in-js-config)                              | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                     | 
 | Stylelint  | [@linters/stylelint-css-in-js-react-native-config](packages/stylelint/stylelint-css-in-js-react-native-config)    | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm]    | 
 | Stylelint  | [@linters/stylelint-scss-config](packages/stylelint/stylelint-scss-config)                                        | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]                      | 
-| Prettier   | [@linters/prettier](packages/prettier/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 
 ## Contributing
 **If you don't like what you see and want to make it better**, now is your chance!
