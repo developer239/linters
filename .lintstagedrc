@@ -1,6 +1,6 @@
   {
   "*.{js,json}": [
-    "eslint --fix",
-    "prettier --write"
+    "prettier --write",
+    "eslint --fix"
   ],
 }
