@@ -1,7 +1,7 @@
 {
   "name": "@linters/semantic-release",
   "description": "The semantic release configuration you have been looking for.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "repository": "https://github.com/developer239/linters",
   "main": ".releaserc.json",
   "publishConfig": {
