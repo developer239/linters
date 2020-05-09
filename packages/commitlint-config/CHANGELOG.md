@@ -1,3 +1,10 @@
+# [@linters/commitlint-config-v1.3.1](https://github.com/developer239/linters/compare/@linters/commitlint-config-v1.3.0...@linters/commitlint-config-v1.3.1) (2020-05-09)
+
+
+### Bug Fixes
+
+* make commitlint work ([e4ebd84](https://github.com/developer239/linters/commit/e4ebd84861215ad378b7dd6e69dcbbe9543b2147))
+
 # [@linters/commitlint-config-v1.3.0](https://github.com/developer239/linters/compare/@linters/commitlint-config-v1.2.0...@linters/commitlint-config-v1.3.0) (2020-05-09)
 
 
