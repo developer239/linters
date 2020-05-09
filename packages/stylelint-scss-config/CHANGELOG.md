@@ -1,3 +1,10 @@
+# [@linters/stylelint-scss-config-v1.2.1](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.2.0...@linters/stylelint-scss-config-v1.2.1) (2020-05-09)
+
+
+### Bug Fixes
+
+* stylelints documentation ([d129b29](https://github.com/developer239/linters/commit/d129b29f2a4049758645b9183156f9f781fd5f37))
+
 # [@linters/stylelint-scss-config-v1.2.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.1.0...@linters/stylelint-scss-config-v1.2.0) (2020-05-09)
 
 
