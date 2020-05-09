@@ -15,5 +15,8 @@
     "commitlint",
     "config",
     "semantic-release"
-  ]
+  ],
+  "dependencies": {
+    "@commitlint/config-conventional": "^8.3.4"
+  }
 }
