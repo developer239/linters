@@ -1101,15 +1101,6 @@
   resolved "https://registry.yarnpkg.com/@linters/commitlint-config/-/commitlint-config-1.2.0.tgz#c9065ca7654056b56f18ca354b3b43fdd374c11e"
   integrity sha512-2Gjo5sTNI5lPlCnAP0jCzMFVDwSQa1dDIcx5oIpS4h9OtyFNnDyQVmyfBXTrTemc3lKnIiYPQGM3RWx37CdcmA==
 
-"@linters/eslint-config-node@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config-node/-/eslint-config-node-1.1.0.tgz#9b9b5c28c946319aa60139d2e39e32b590802d65"
-  integrity sha512-Mosh+K5I1U1Z4ChEmzGlto+8zcHhzaOs7bY+7pGI2HcXp0AsqHoIhIIGfGkokk3g6sbBH6rNRtG8AQQ32JXA1A==
-  dependencies:
-    "@linters/eslint-config" "^1.0.0"
-    eslint-plugin-node "^11.0.0"
-    eslint-plugin-security "^1.4.0"
-
 "@linters/eslint-config-react@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.0.0.tgz#26b36749319d32cad2dc66270d032a7441ca830d"
@@ -1119,16 +1110,6 @@
     babel-eslint "^10.0.3"
     eslint-plugin-react "7.18.3"
     eslint-plugin-react-hooks "2.4.0"
-
-"@linters/eslint-config-typescript@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config-typescript/-/eslint-config-typescript-1.1.0.tgz#67a16ab849bcd9f5932d026ccd3b2e3bea619d22"
-  integrity sha512-Rct5HQdQ1g27jSblleENabIG9UoaRGabdwMLdJRqDQrUTDV5qRuhpmDa8MncVRDZ56qiz3RPdmhJNpNXCJbSDw==
-  dependencies:
-    "@linters/eslint-config" "^1.0.0"
-    "@typescript-eslint/eslint-plugin" "2.20.0"
-    "@typescript-eslint/parser" "2.20.0"
-    eslint-import-resolver-typescript "^2.0.0"
 
 "@linters/eslint-config@^1.0.0", "@linters/eslint-config@^1.2.0":
   version "1.2.0"
