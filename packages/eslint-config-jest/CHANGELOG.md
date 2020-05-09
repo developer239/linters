@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.2.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.2.0...@linters/eslint-config-jest-v1.2.1) (2020-05-09)
+
+
+### Bug Fixes
+
+* remove carets from dependency versions ([b74b8b3](https://github.com/developer239/linters/commit/b74b8b3b4c4c2e3afe3c1c9130262844ae515364))
+
 # [@linters/eslint-config-jest-v1.2.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.1.0...@linters/eslint-config-jest-v1.2.0) (2020-05-09)
 
 
