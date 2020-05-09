@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-angular",
   "description": "The eslint config for Angular applications you have been looking for.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
