@@ -1,3 +1,10 @@
+# [@linters/semantic-release-v1.4.0](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.3.0...@linters/semantic-release-v1.4.0) (2020-05-09)
+
+
+### Features
+
+* move changelog plugin after npm ([d778f25](https://github.com/developer239/linters/commit/d778f25a91a617069ad1bd1d97fdfeae9fc130e9))
+
 # [@linters/semantic-release-v1.3.0](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.2.1...@linters/semantic-release-v1.3.0) (2020-05-09)
 
 
