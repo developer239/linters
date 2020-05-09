@@ -15,10 +15,10 @@
     "eslint": ">=6"
   },
   "dependencies": {
-    "@angular-eslint/eslint-plugin": "^0.0.1-alpha.29",
-    "@angular-eslint/eslint-plugin-template": "^0.0.1-alpha.29",
-    "@angular-eslint/template-parser": "^0.0.1-alpha.29",
-    "@linters/eslint-config-typescript": "^1.0.0"
+    "@angular-eslint/eslint-plugin": "0.0.1-alpha.29",
+    "@angular-eslint/eslint-plugin-template": "0.0.1-alpha.29",
+    "@angular-eslint/template-parser": "0.0.1-alpha.29",
+    "@linters/eslint-config-typescript": "1.0.0"
   },
   "keywords": [
     "eslint",
