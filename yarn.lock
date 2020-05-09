@@ -1096,11 +1096,6 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
-"@linters/commitlint-config@^1.1.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@linters/commitlint-config/-/commitlint-config-1.2.0.tgz#c9065ca7654056b56f18ca354b3b43fdd374c11e"
-  integrity sha512-2Gjo5sTNI5lPlCnAP0jCzMFVDwSQa1dDIcx5oIpS4h9OtyFNnDyQVmyfBXTrTemc3lKnIiYPQGM3RWx37CdcmA==
-
 "@linters/eslint-config-react@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.0.0.tgz#26b36749319d32cad2dc66270d032a7441ca830d"
@@ -1110,32 +1105,6 @@
     babel-eslint "^10.0.3"
     eslint-plugin-react "7.18.3"
     eslint-plugin-react-hooks "2.4.0"
-
-"@linters/eslint-config@^1.0.0", "@linters/eslint-config@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.2.0.tgz#035ebe25966b96c78b1c6eac585b6770c2a4ca99"
-  integrity sha512-ogPYW+6d1+8DZ6rD9UzUc79p+gP9minm76hJKUt4EHZm3LgnBdhvt0haERezCYhu67GjbEcLLyCxjvx47wBEbw==
-  dependencies:
-    eslint-plugin-absolute-import "^1.4.4"
-    eslint-plugin-import "^2.20.1"
-    eslint-plugin-unused-imports "^0.1.2"
-
-"@linters/prettier-config@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/prettier-config/-/prettier-config-1.1.0.tgz#5f825152e1d252a2b060dc08daa7360ec45b6ef0"
-  integrity sha512-5HD0KJjcOx/jvZ690kgPQHzqgkk72RDcRgDbl7BkVDrU6pVEEHM6FGOyrJS3zn8b8Dtsh1rhKkSDVksL5e+ypw==
-
-"@linters/stylelint-config@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.1.0.tgz#aa34429442f00a5cb63108ea7642e784e8c1b176"
-  integrity sha512-gXGHeDwukxKPl6DIgrl1fY2g+kMEULoPvsZga095KmYpGlD1myuO3Z1wLrcc1IqP8zZUiSopEkdWU5mrE8E2zw==
-
-"@linters/stylelint-css-in-js-config@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/stylelint-css-in-js-config/-/stylelint-css-in-js-config-1.1.0.tgz#56243a3f24deb9a7bf77fdd4cd349d06357a912c"
-  integrity sha512-8ns8ZFx6GCa3hLG5Mz4fu5IQMfuwFZllyBuOMlcB3ectNfu62IXjwIOU+aLHEXy9dChCPutkP+ghmQmPTLVDGQ==
-  dependencies:
-    "@linters/stylelint-config" "^1.0.0"
 
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
