@@ -17,5 +17,3 @@ module.exports = {
   extends: ['@linters/stylelint-scss-config'],
 }
 ```
-
-Trigger release.
