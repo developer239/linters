@@ -1,3 +1,4 @@
 {
-  "extends": "@linters/semantic-release"
+  "extends": "@linters/semantic-release",
+  "branch": "master"
 }

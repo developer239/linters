@@ -1096,20 +1096,6 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
-"@linters/commitlint-config@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@linters/commitlint-config/-/commitlint-config-1.1.0.tgz#2458a966a41e5009bf1ca5cc97b6653561f97b9a"
-  integrity sha512-fAKUIS0f0gEqC8DLVko5jwX94OfVCatdixVBeNa0IHHyRmPFgPww5GksOF0DcdFcUN9o/tv/jir8Y/k080DAGw==
-
-"@linters/eslint-config-node@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config-node/-/eslint-config-node-1.0.0.tgz#40d5828ee9ee276791ef3100008a254db5f7a58a"
-  integrity sha512-kMdxLJ3tkoHSMfydRg5HGCFk8ldVAlJbR31OkVHFuwZtd6GNgdxTyd5tmeOkU4Z4nIqIiYHj7QPtoW83CvVpzg==
-  dependencies:
-    "@linters/eslint-config" "^1.0.0"
-    eslint-plugin-node "^11.0.0"
-    eslint-plugin-security "^1.4.0"
-
 "@linters/eslint-config-react@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.0.0.tgz#26b36749319d32cad2dc66270d032a7441ca830d"
@@ -1138,11 +1124,6 @@
     eslint-plugin-absolute-import "^1.4.4"
     eslint-plugin-import "^2.20.1"
     eslint-plugin-unused-imports "^0.1.2"
-
-"@linters/prettier-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@linters/prettier-config/-/prettier-config-1.0.0.tgz#784920e7c2f7a517c2a209fdba1b59c989f5e77a"
-  integrity sha512-bUOMcRwTa7Fbd0LUEGw9kUG1ITKdRPQuSS3ITAad0mpimI6NOxfgYsQnWIvoRZ4cVMkEhfTeETbHtOF73R1jhA==
 
 "@linters/stylelint-config@^1.0.0":
   version "1.0.0"
