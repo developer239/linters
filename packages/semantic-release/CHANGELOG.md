@@ -1,3 +1,10 @@
+# [@linters/semantic-release-v1.3.0](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.2.1...@linters/semantic-release-v1.3.0) (2020-05-09)
+
+
+### Features
+
+* flatten project structure ([c6af765](https://github.com/developer239/linters/commit/c6af765b1de34223f2703e128c80838f0cb9e0fd))
+
 # [@linters/semantic-release-v1.2.1](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.2.0...@linters/semantic-release-v1.2.1) (2020-05-08)
 
 # [@linters/semantic-release-v1.2.0](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.1.0...@linters/semantic-release-v1.2.0) (2020-05-08)
