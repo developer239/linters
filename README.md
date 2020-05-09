@@ -23,7 +23,7 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | Eslint     | [@linters/eslint-config-react-native](packages/eslint-config-react-native)                                 | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]             | 
 | Eslint     | [@linters/eslint-config-typescript](packages/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
 | Eslint     | [@linters/eslint-config-functional](packages/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       |  
-| Eslint     | [@linters/eslint-config-functional](packages/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
+| Eslint     | [@linters/eslint-config-jest](packages/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
 | Eslint     | [@linters/eslint-config-ramda](packages/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
 | Eslint     | [@linters/eslint-config-angular](packages/eslint-config-angular)                                           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                          | 
 | Stylelint  | [@linters/stylelint-config](packages/stylelint-config)                                                  | [![@linters/stylelint-config][sl-badge]][sl-npm]                                   | 
