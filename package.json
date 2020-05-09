@@ -4,7 +4,7 @@
   "scripts": {
     "format": "prettier --write '*/**/*.{ts,css,md,json}'",
     "lint:ts": "eslint --ext .js packages",
-    "semantic-release": "lerna exec --concurrency 5 -- npx --no-install semantic-release -e semantic-release-monorepo"
+    "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
     "packages/*"
