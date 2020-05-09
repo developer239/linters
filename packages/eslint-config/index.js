@@ -371,7 +371,6 @@ module.exports = {
     //
     // Eslint Plugin Unused Import
     //
-
     'unused-imports/no-unused-imports': 2,
     'unused-imports/no-unused-vars': 2,
   },
