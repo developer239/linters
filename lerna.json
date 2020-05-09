@@ -1,10 +1,6 @@
 {
   "packages": [
-    "packages/commitlint/*",
-    "packages/eslint/*",
-    "packages/prettier/*",
-    "packages/semantic-release/*",
-    "packages/stylelint/*"
+    "packages/*"
   ],
   "version": "independent",
   "npmClient": "yarn",

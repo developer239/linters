@@ -1,4 +1,4 @@
-const base = require('@linters/eslint-config')
+const base = require('packages/eslint-config')
 
 module.exports = {
   extends: require.resolve('@linters/eslint-config'),

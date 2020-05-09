@@ -7,11 +7,7 @@
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
-    "packages/commitlint/*",
-    "packages/eslint/*",
-    "packages/prettier/*",
-    "packages/semantic-release/*",
-    "packages/stylelint/*"
+    "packages/*"
   ],
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
