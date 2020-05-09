@@ -1,3 +1,10 @@
+# [@linters/stylelint-css-in-js-config-v1.2.2](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config-v1.2.1...@linters/stylelint-css-in-js-config-v1.2.2) (2020-05-09)
+
+
+### Bug Fixes
+
+* remove carets from dependency versions ([b74b8b3](https://github.com/developer239/linters/commit/b74b8b3b4c4c2e3afe3c1c9130262844ae515364))
+
 # [@linters/stylelint-css-in-js-config-v1.2.1](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config-v1.2.0...@linters/stylelint-css-in-js-config-v1.2.1) (2020-05-09)
 
 
