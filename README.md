@@ -22,8 +22,7 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | Eslint     | [@linters/eslint-config-react](packages/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]               | 
 | Eslint     | [@linters/eslint-config-react-native](packages/eslint-config-react-native)                                 | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]             | 
 | Eslint     | [@linters/eslint-config-typescript](packages/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
-| Eslint     | [@linters/eslint-config-functional](packages/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       | 
-| Eslint     | [@linters/eslint-config-graphql](packages/eslint-config-graphql)                                           | [![@linters/eslint-config-graphql][esgql-badge]][esgql-npm]                        | 
+| Eslint     | [@linters/eslint-config-functional](packages/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       |  
 | Eslint     | [@linters/eslint-config-functional](packages/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
 | Eslint     | [@linters/eslint-config-ramda](packages/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
 | Eslint     | [@linters/eslint-config-angular](packages/eslint-config-angular)                                           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                          | 
@@ -60,9 +59,6 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 
 [esfc-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-functional.svg
 [esfc-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-functional
-
-[esgql-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-graphql.svg
-[esgql-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-graphql
 
 [esjest-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-jest.svg
 [esjest-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-jest
