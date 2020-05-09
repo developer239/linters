@@ -14,22 +14,22 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 
 | Tool       | Package                                                                                                           | Version                                                                            | 
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------
-| Other      | [@linters/semantic-release](packages/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
-| Other      | [@linters/commitlint-config](packages/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
-| Prettier   | [@linters/prettier](packages/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
-| Eslint     | [@linters/eslint-config](packages/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
-| Eslint     | [@linters/eslint-config-node](packages/eslint-config-node)                                                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                         | 
-| Eslint     | [@linters/eslint-config-react](packages/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]               | 
-| Eslint     | [@linters/eslint-config-react-native](packages/eslint-config-react-native)                                 | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]             | 
-| Eslint     | [@linters/eslint-config-typescript](packages/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
-| Eslint     | [@linters/eslint-config-functional](packages/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       |  
-| Eslint     | [@linters/eslint-config-functional](packages/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
-| Eslint     | [@linters/eslint-config-ramda](packages/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
-| Eslint     | [@linters/eslint-config-angular](packages/eslint-config-angular)                                           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                          | 
-| Stylelint  | [@linters/stylelint-config](packages/stylelint-config)                                                  | [![@linters/stylelint-config][sl-badge]][sl-npm]                                   | 
-| Stylelint  | [@linters/stylelint-css-in-js-config](packages/stylelint-css-in-js-config)                              | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                     | 
-| Stylelint  | [@linters/stylelint-css-in-js-react-native-config](packages/stylelint-css-in-js-react-native-config)    | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm]    | 
-| Stylelint  | [@linters/stylelint-scss-config](packages/stylelint-scss-config)                                        | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]                      | 
+| Other      | [@linters/semantic-release](packages-test/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
+| Other      | [@linters/commitlint-config](packages-test/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
+| Prettier   | [@linters/prettier](packages-test/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
+| Eslint     | [@linters/eslint-config](packages-test/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
+| Eslint     | [@linters/eslint-config-node](packages-test/eslint-config-node)                                                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                         | 
+| Eslint     | [@linters/eslint-config-react](packages-test/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]               | 
+| Eslint     | [@linters/eslint-config-react-native](packages-test/eslint-config-react-native)                                 | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]             | 
+| Eslint     | [@linters/eslint-config-typescript](packages-test/eslint-config-typescript)                                     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]                       | 
+| Eslint     | [@linters/eslint-config-functional](packages-test/eslint-config-functional)                                     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]                       |  
+| Eslint     | [@linters/eslint-config-functional](packages-test/eslint-config-jest)                                           | [![@linters/eslint-config-functional][esjest-badge]][esjest-npm]                   | 
+| Eslint     | [@linters/eslint-config-ramda](packages-test/eslint-config-ramda)                                               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                            | 
+| Eslint     | [@linters/eslint-config-angular](packages-test/eslint-config-angular)                                           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                          | 
+| Stylelint  | [@linters/stylelint-config](packages-test/stylelint-config)                                                  | [![@linters/stylelint-config][sl-badge]][sl-npm]                                   | 
+| Stylelint  | [@linters/stylelint-css-in-js-config](packages-test/stylelint-css-in-js-config)                              | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                     | 
+| Stylelint  | [@linters/stylelint-css-in-js-react-native-config](packages-test/stylelint-css-in-js-react-native-config)    | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm]    | 
+| Stylelint  | [@linters/stylelint-scss-config](packages-test/stylelint-scss-config)                                        | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]                      | 
 
 ## Contributing
 **If you don't like what you see and want to make it better**, now is your chance!

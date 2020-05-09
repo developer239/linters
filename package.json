@@ -3,11 +3,11 @@
   "private": true,
   "scripts": {
     "format": "prettier --write '*/**/*.{ts,css,md,json}'",
-    "lint:ts": "eslint --ext .js packages",
-    "semantic-release": "lerna exec --concurrency 15 -- npx --no-install semantic-release -e semantic-release-monorepo"
+    "lint:ts": "eslint --ext .js packages-test",
+    "semantic-release": "lerna exec --concurrency 5 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
-    "packages/*"
+    "packages-test/*"
   ],
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
