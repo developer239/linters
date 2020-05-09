@@ -14,7 +14,7 @@
     "@linters/commitlint-config": "^1.1.0",
     "@linters/eslint-config-node": "^1.0.0",
     "@linters/prettier-config": "^1.0.0",
-    "@linters/semantic-release": "^1.0.0",
+    "@linters/semantic-release": "^1.4.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
     "husky": "^4.2.5",

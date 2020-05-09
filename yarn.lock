@@ -1096,6 +1096,20 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
+"@linters/commitlint-config@^1.1.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@linters/commitlint-config/-/commitlint-config-1.2.0.tgz#c9065ca7654056b56f18ca354b3b43fdd374c11e"
+  integrity sha512-2Gjo5sTNI5lPlCnAP0jCzMFVDwSQa1dDIcx5oIpS4h9OtyFNnDyQVmyfBXTrTemc3lKnIiYPQGM3RWx37CdcmA==
+
+"@linters/eslint-config-node@^1.0.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config-node/-/eslint-config-node-1.1.0.tgz#9b9b5c28c946319aa60139d2e39e32b590802d65"
+  integrity sha512-Mosh+K5I1U1Z4ChEmzGlto+8zcHhzaOs7bY+7pGI2HcXp0AsqHoIhIIGfGkokk3g6sbBH6rNRtG8AQQ32JXA1A==
+  dependencies:
+    "@linters/eslint-config" "^1.0.0"
+    eslint-plugin-node "^11.0.0"
+    eslint-plugin-security "^1.4.0"
+
 "@linters/eslint-config-react@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.0.0.tgz#26b36749319d32cad2dc66270d032a7441ca830d"
@@ -1124,6 +1138,22 @@
     eslint-plugin-absolute-import "^1.4.4"
     eslint-plugin-import "^2.20.1"
     eslint-plugin-unused-imports "^0.1.2"
+
+"@linters/prettier-config@^1.0.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@linters/prettier-config/-/prettier-config-1.1.0.tgz#5f825152e1d252a2b060dc08daa7360ec45b6ef0"
+  integrity sha512-5HD0KJjcOx/jvZ690kgPQHzqgkk72RDcRgDbl7BkVDrU6pVEEHM6FGOyrJS3zn8b8Dtsh1rhKkSDVksL5e+ypw==
+
+"@linters/semantic-release@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@linters/semantic-release/-/semantic-release-1.4.0.tgz#71f04e534175ce050202c8d4a5026a73e0b4a629"
+  integrity sha512-2er9O02CpGC6u7eWDxCqbwJ9oyO6BXLHABkvKxVGJ68uQMXInd5QDufsM/I2+iyumtcZHLH55c1o4Myd06sl9Q==
+  dependencies:
+    "@semantic-release/changelog" "5.0.1"
+    "@semantic-release/commit-analyzer" "8.0.1"
+    "@semantic-release/git" "9.0.0"
+    "@semantic-release/npm" "7.0.5"
+    "@semantic-release/release-notes-generator" "9.0.1"
 
 "@linters/stylelint-config@^1.0.0":
   version "1.0.0"
