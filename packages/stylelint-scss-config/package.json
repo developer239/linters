@@ -1,7 +1,7 @@
 {
   "name": "@linters/stylelint-scss-config",
   "description": "The SCSS style lint config you have been looking for.",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
