@@ -27,8 +27,6 @@
       "@semantic-release/git",
       {
         "assets": [
-          "lib/**/*.{js,ts,css}",
-          "README.md",
           "CHANGELOG.md",
           "package.json"
         ]
