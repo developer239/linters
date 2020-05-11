@@ -1,3 +1,10 @@
+# [@linters/semantic-release-v1.5.2](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.5.1...@linters/semantic-release-v1.5.2) (2020-05-11)
+
+
+### Bug Fixes
+
+* semantic-release dependencies ([290edd0](https://github.com/developer239/linters/commit/290edd052c84fbc2817cedb74532a59478b5cc9c))
+
 # [@linters/semantic-release-v1.5.1](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.5.0...@linters/semantic-release-v1.5.1) (2020-05-09)
 
 
