@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "format": "prettier --write '*/**/*.{ts,css,md,json}'",
+    "format": "prettier --write '*/**/*.{js,md,json}'",
     "lint:ts":  "eslint --ext .js packages",
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
