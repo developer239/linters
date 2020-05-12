@@ -47,7 +47,6 @@ This [configuration](https://github.com/developer239/linters/blob/master/package
 ### GitHub workflows
 
 If you're [configuring GitHub actions](https://help.github.com/en/articles/configuring-a-workflow) the following yaml configuration will help you do just that:
-
 ```yml
 name: release
 
