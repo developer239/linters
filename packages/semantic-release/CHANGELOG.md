@@ -1,3 +1,10 @@
+# [@linters/semantic-release-v1.5.3](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.5.2...@linters/semantic-release-v1.5.3) (2020-05-12)
+
+
+### Bug Fixes
+
+* test release flow ([12eff72](https://github.com/developer239/linters/commit/12eff72943d47af0425096758956aad7c472ac54))
+
 # [@linters/semantic-release-v1.5.2](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.5.1...@linters/semantic-release-v1.5.2) (2020-05-11)
 
 
