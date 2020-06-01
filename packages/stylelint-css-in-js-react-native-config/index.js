@@ -8,7 +8,7 @@ module.exports = {
     // Disable base rules
     //
 
-    'unit-blacklist': ['px'],
+    'unit-blacklist': ['rem'],
 
     //
     // React Native Plugin
