@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.2.2](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.2.1...@linters/eslint-config-jest-v1.2.2) (2020-06-01)
+
+
+### Bug Fixes
+
+* use strict jest formatting config ([4252c44](https://github.com/developer239/linters/commit/4252c4493f8e5fc8a8d13bee3eab2cdd4fa47c81))
+
 # [@linters/eslint-config-jest-v1.2.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.2.0...@linters/eslint-config-jest-v1.2.1) (2020-05-09)
 
 
