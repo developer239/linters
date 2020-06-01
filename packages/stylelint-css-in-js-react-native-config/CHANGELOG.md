@@ -1,3 +1,10 @@
+# [@linters/stylelint-css-in-js-react-native-config-v1.3.3](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.3.2...@linters/stylelint-css-in-js-react-native-config-v1.3.3) (2020-06-01)
+
+
+### Bug Fixes
+
+* blacklist rems instead of px ([0985e56](https://github.com/developer239/linters/commit/0985e565021d310f5ed33eea688b2c0bf9bf5459))
+
 # [@linters/stylelint-css-in-js-react-native-config-v1.3.2](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.3.1...@linters/stylelint-css-in-js-react-native-config-v1.3.2) (2020-05-09)
 
 
