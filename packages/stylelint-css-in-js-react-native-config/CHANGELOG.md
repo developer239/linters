@@ -1,3 +1,10 @@
+# [@linters/stylelint-css-in-js-react-native-config-v1.4.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.3.3...@linters/stylelint-css-in-js-react-native-config-v1.4.0) (2020-09-20)
+
+
+### Features
+
+* bump dependencies ([f5c3076](https://github.com/developer239/linters/commit/f5c30761339a7b87c2c8fb79992457d12f3bcaaa))
+
 # [@linters/stylelint-css-in-js-react-native-config-v1.3.3](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.3.2...@linters/stylelint-css-in-js-react-native-config-v1.3.3) (2020-06-01)
 
 
