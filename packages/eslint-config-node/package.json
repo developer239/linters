@@ -16,7 +16,7 @@
     "eslint-plugin-import": ">=2.18.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "1.4.0",
+    "@linters/eslint-config": "1.5.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-security": "1.4.0"
   },
