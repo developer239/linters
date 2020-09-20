@@ -49,15 +49,11 @@ module.exports = {
       readonly: 'array',
     }],
     '@typescript-eslint/await-thenable': 'error',
-    '@typescript-eslint/ban-ts-ignore': 'warn',
     '@typescript-eslint/brace-style': 'error',
-    '@typescript-eslint/camelcase': 'warn',
-    '@typescript-eslint/class-name-casing': 'error',
     '@typescript-eslint/consistent-type-assertions': 'error',
     "@typescript-eslint/consistent-type-definitions": ["error", "interface"],
     '@typescript-eslint/explicit-function-return-type': 0,
     '@typescript-eslint/explicit-member-accessibility': 0,
-    '@typescript-eslint/generic-type-naming': [2, '^T[A-Z][a-zA-Z]+$'],
     '@typescript-eslint/interface-name-prefix': 0,
     '@typescript-eslint/member-delimiter-style': ['error', {
       multiline: {
@@ -124,6 +120,38 @@ module.exports = {
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unbound-method': 0,
     '@typescript-eslint/unified-signatures': 'error',
+    "@typescript-eslint/naming-convention": [
+      "error",
+      {
+        "selector": "memberLike",
+        "modifiers": ["private"],
+        "format": ["camelCase"],
+        "leadingUnderscore": "forbid"
+      },
+      { "selector": "variableLike", "format": ["camelCase"] },
+      {
+        "selector": "variable",
+        "types": ["boolean"],
+        "format": ["PascalCase"],
+        "prefix": ["is", "should", "has", "can", "did", "will"]
+      },
+      {
+        "selector": "typeParameter",
+        "format": ["PascalCase"],
+        "custom": {
+          "regex": "((^T[A-Z][a-zA-Z]{2,}))+$",
+          "match": true
+        }
+      },
+      {
+        "selector": "interface",
+        "format": ["PascalCase"],
+        "custom": {
+          "regex": "^I[A-Z]",
+          "match": false
+        }
+      },
+    ],
 
     //
     // Eslint Plugin unused Imports
