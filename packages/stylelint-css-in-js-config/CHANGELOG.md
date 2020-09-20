@@ -1,3 +1,10 @@
+# [@linters/stylelint-css-in-js-config-v1.3.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config-v1.2.2...@linters/stylelint-css-in-js-config-v1.3.0) (2020-09-20)
+
+
+### Features
+
+* bump dependencies ([f5c3076](https://github.com/developer239/linters/commit/f5c30761339a7b87c2c8fb79992457d12f3bcaaa))
+
 # [@linters/stylelint-css-in-js-config-v1.2.2](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config-v1.2.1...@linters/stylelint-css-in-js-config-v1.2.2) (2020-05-09)
 
 
