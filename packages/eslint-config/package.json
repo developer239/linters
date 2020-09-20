@@ -28,7 +28,7 @@
     "general"
   ],
   "devDependencies": {
-    "semantic-release": "17.0.7",
-    "semantic-release-monorepo": "7.0.2"
+    "semantic-release": "17.1.2",
+    "semantic-release-monorepo": "7.0.3"
   }
 }
