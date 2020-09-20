@@ -1202,6 +1202,47 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
+"@linters/eslint-config-react@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.4.0.tgz#9d639d5a16b9fbc509ec3aa0e3113dab01743d26"
+  integrity sha512-C7UaWboffm+0p126ZZaAtwFAqNLhQikITYhvB4cIrEmfwqNw9gil4ykBfgTfTyaDgbUfeLwNpAW1hSxsBUWETg==
+  dependencies:
+    "@linters/eslint-config" "1.4.0"
+    babel-eslint "10.1.0"
+    eslint-plugin-react "7.20.6"
+    eslint-plugin-react-hooks "4.1.2"
+
+"@linters/eslint-config-typescript@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config-typescript/-/eslint-config-typescript-1.5.0.tgz#28a816e914e3d94ab15694e7a82d16e96997d623"
+  integrity sha512-4bvnL8O2aWP/1rO8to2gbzED8Kt2EvwHFwDJIojMJocGs4ovAwznvgJbg16OBHS/cEhaaQHv7bxLfOghhrACHQ==
+  dependencies:
+    "@linters/eslint-config" "1.4.0"
+    "@typescript-eslint/eslint-plugin" "4.1.1"
+    "@typescript-eslint/parser" "4.1.1"
+    eslint-import-resolver-typescript "2.3.0"
+
+"@linters/eslint-config@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.4.0.tgz#ee2224384ac4b7bd45b0fd848a74f779ae5dd93f"
+  integrity sha512-+EqhRsaFMJFsFGrOq/UMTgJBLMfQdFs0YE99vxj8qz8ojOCiLN3IMYB+IWhTZZ2mad65zbUdRsYU7KoxvYndpQ==
+  dependencies:
+    eslint-plugin-absolute-import "1.4.4"
+    eslint-plugin-import "2.22.0"
+    eslint-plugin-unused-imports "0.1.3"
+
+"@linters/stylelint-config@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.0.0.tgz#efbd146f2e040995499610687ae398234d070f76"
+  integrity sha512-5keNzARJMmhJ182fxOvD1llfsvot1apB2UN7Y4si8H8L/XR3d6nA7Psg1aZt+I6ZyfJ+GBxkEd88vJMULP+U/A==
+
+"@linters/stylelint-css-in-js-config@1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-css-in-js-config/-/stylelint-css-in-js-config-1.2.2.tgz#f5693959759f326597e0df81b18bd4efe53ea776"
+  integrity sha512-EfIA80C/b+w2rqMFpOrR695o9IBrBks/7PEo0ZYjNGemEcDET7rQ1aRtd0YiWH9e+h6DwBpS/1Y2nJdSNUef0g==
+  dependencies:
+    "@linters/stylelint-config" "1.0.0"
+
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@marionebl/sander/-/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"
