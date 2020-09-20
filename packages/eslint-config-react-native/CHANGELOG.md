@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-native-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.4.0...@linters/eslint-config-react-native-v1.5.0) (2020-09-20)
+
+
+### Features
+
+* update react-native and css-in-js-react-native ([f4a18cb](https://github.com/developer239/linters/commit/f4a18cb00aef2919e41e7d92e382b941247f6132))
+
 # [@linters/eslint-config-react-native-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.3.0...@linters/eslint-config-react-native-v1.4.0) (2020-09-20)
 
 
