@@ -1,3 +1,10 @@
+# [@linters/commitlint-config-v1.4.0](https://github.com/developer239/linters/compare/@linters/commitlint-config-v1.3.1...@linters/commitlint-config-v1.4.0) (2020-09-20)
+
+
+### Features
+
+* bump more dependencies 💣 ([86b07ba](https://github.com/developer239/linters/commit/86b07ba0e9e9e7333dac4dc5bd9c1b6d8d7bf6ff))
+
 # [@linters/commitlint-config-v1.3.1](https://github.com/developer239/linters/compare/@linters/commitlint-config-v1.3.0...@linters/commitlint-config-v1.3.1) (2020-05-09)
 
 
