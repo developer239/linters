@@ -1,3 +1,10 @@
+# [@linters/stylelint-scss-config-v1.3.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.2.2...@linters/stylelint-scss-config-v1.3.0) (2020-09-20)
+
+
+### Features
+
+* bump dependencies 💣 ([9a81b77](https://github.com/developer239/linters/commit/9a81b773be6e80179c959a4672a7e037721bbd5c))
+
 # [@linters/stylelint-scss-config-v1.2.2](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.2.1...@linters/stylelint-scss-config-v1.2.2) (2020-05-09)
 
 
