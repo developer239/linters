@@ -4,7 +4,7 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "format": "prettier --write '*/**/*.{js,md,json}'",
-    "lint:ts":  "eslint --ext .js packages",
+    "lint:ts": "eslint --ext .js packages",
     "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
@@ -22,7 +22,7 @@
     "@semantic-release/npm": "7.0.5",
     "@semantic-release/release-notes-generator": "9.0.1",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-import": "^2.22.0",
     "husky": "^4.2.5",
     "lerna": "^3.20.2",
     "lint-staged": "^10.2.2",
