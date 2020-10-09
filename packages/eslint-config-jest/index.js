@@ -1,6 +1,6 @@
 module.exports = {
   extends: ['plugin:jest-formatting/strict'],
-  plugins: ['jest', 'jest-formatting'],
+  plugins: ['jest', 'jest-formatting', 'no-only-tests'],
   overrides: [{
     files: ['**/__tests__/**/*.[jt]s?(x)', '**/?(*.)+(spec|test).[jt]s?(x)'],
     env: {
@@ -51,5 +51,11 @@ module.exports = {
     'jest/prefer-to-be-undefined': 'error',
     'jest/prefer-to-contain': 'error',
     'jest/prefer-to-have-length': 'error',
+
+    //
+    // No Only
+    //
+
+    'no-only-tests/no-only-tests': 'error'
   },
 }
