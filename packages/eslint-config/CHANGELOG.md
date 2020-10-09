@@ -1,3 +1,10 @@
+# [@linters/eslint-config-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.5.0...@linters/eslint-config-v1.6.0) (2020-10-09)
+
+
+### Features
+
+* update import/extensions rule ([ee293e4](https://github.com/developer239/linters/commit/ee293e4dd6b5c092ff7a7a3c244fad5b1a7b54cf))
+
 # [@linters/eslint-config-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.4.0...@linters/eslint-config-v1.5.0) (2020-09-20)
 
 
