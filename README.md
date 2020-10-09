@@ -16,7 +16,7 @@ Collection of shareable configurations for commonly used code quality tools. Ava
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------
 | Other      | [@linters/semantic-release](packages/semantic-release)                                           | [![@linters/semantic-release][sr-badge]][sr-npm]                                   | 
 | Other      | [@linters/commitlint-config](packages/commitlint-config)                                               | [![@linters/commitlint-config][cl-badge]][cl-npm]                                  | 
-| Prettier   | [@linters/prettier](packages/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
+| Prettier   | [@linters/prettier-config](packages/prettier-config)                                                            | [![@linters/prettier-config][pr-badge]][pr-npm]                                    | 
 | Eslint     | [@linters/eslint-config](packages/eslint-config)                                                           | [![@linters/eslint-config][es-badge]][es-npm]                                      | 
 | Eslint     | [@linters/eslint-config-node](packages/eslint-config-node)                                                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                         | 
 | Eslint     | [@linters/eslint-config-react](packages/eslint-config-react)                                               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]               | 
@@ -69,8 +69,8 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [esng-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-angular.svg
 [esng-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-angular
 
-[sl-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
-[sl-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
+[sl-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-config.svg
+[sl-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-config
 
 [sljs-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config.svg
 [sljs-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-css-in-js-config
@@ -81,5 +81,5 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [slscss-badge]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config.svg
 [slscss-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config
 
-[pr-badge]: https://badge.fury.io/js/%40linters%2Feslint-config.svg
-[pr-npm]: https://badge.fury.io/js/%40linters%2Feslint-config
+[pr-badge]: https://badge.fury.io/js/%40linters%2Fprettier-config.svg
+[pr-npm]: https://badge.fury.io/js/%40linters%2Fprettier-config
