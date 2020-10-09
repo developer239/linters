@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.3.0...@linters/eslint-config-jest-v1.4.0) (2020-10-09)
+
+
+### Features
+
+* disable only tests in eslint jest config ([f8f38ef](https://github.com/developer239/linters/commit/f8f38efac0ef9c456434348a86014ef5ac73cdf0))
+
 # [@linters/eslint-config-jest-v1.3.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.2.2...@linters/eslint-config-jest-v1.3.0) (2020-09-20)
 
 
