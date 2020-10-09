@@ -341,7 +341,7 @@ module.exports = {
     'import/namespace': 'error',
     'import/no-absolute-path': 'error',
     'import/export': 'error',
-    'import/extensions': ['warn', 'never'],
+    'import/extensions': ['warn', 'never', { "css": "always" }],
     'import/no-anonymous-default-export': ['warn', {
       allowObject: true,
       allowArray: true,
