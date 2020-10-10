@@ -1214,6 +1214,15 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
+"@linters/eslint-config@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.5.0.tgz#1f0366d58f51550640fa17a350512b9e8ae217ee"
+  integrity sha512-KqY2y7tosnGQGskRu1Qm9tk1O/c58dRvJTHcMuG5fzBiYm12ANYdSG+9sM3c6IO7UpeK1eJ87X4wK4Mm6nGuOQ==
+  dependencies:
+    eslint-plugin-absolute-import "1.4.4"
+    eslint-plugin-import "2.22.0"
+    eslint-plugin-unused-imports "0.1.3"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -3667,11 +3676,6 @@ eslint-plugin-jest@24.0.2:
   integrity sha512-DSBLNpkKDOpUJQkTGSs5sVJWsu0nDyQ2rYxkr0Eh7nrkc5bMUr/dlDbtTj3l8y6UaCVsem6rryF1OZrKnz1S5g==
   dependencies:
     "@typescript-eslint/experimental-utils" "^4.0.1"
-
-eslint-plugin-no-only-tests@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-no-only-tests/-/eslint-plugin-no-only-tests-2.4.0.tgz#7d565434aa7d16ccc7eea957c391d98f827332ca"
-  integrity sha512-azP9PwQYfGtXJjW273nIxQH9Ygr+5/UyeW2wEjYoDtVYPI+WPKwbj0+qcAKYUXFZLRumq4HKkFaoDBAwBoXImQ==
 
 eslint-plugin-node@11.1.0:
   version "11.1.0"

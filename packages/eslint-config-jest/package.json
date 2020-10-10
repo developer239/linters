@@ -16,8 +16,7 @@
   },
   "dependencies": {
     "eslint-plugin-jest": "24.0.2",
-    "eslint-plugin-jest-formatting": "2.0.0",
-    "eslint-plugin-no-only-tests": "^2.4.0"
+    "eslint-plugin-jest-formatting": "2.0.0"
   },
   "keywords": [
     "eslint",
