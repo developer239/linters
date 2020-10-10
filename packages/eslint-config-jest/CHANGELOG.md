@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.4.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.4.0...@linters/eslint-config-jest-v1.4.1) (2020-10-10)
+
+
+### Bug Fixes
+
+* remove no-only-tests ([7acf3f3](https://github.com/developer239/linters/commit/7acf3f36598e2a1df8589798c2f14b4e799163d3))
+
 # [@linters/eslint-config-jest-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.3.0...@linters/eslint-config-jest-v1.4.0) (2020-10-09)
 
 
