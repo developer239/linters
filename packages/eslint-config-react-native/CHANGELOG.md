@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-native-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.5.0...@linters/eslint-config-react-native-v1.6.0) (2020-11-07)
+
+
+### Features
+
+* update react-native dependencies ([fe6d095](https://github.com/developer239/linters/commit/fe6d09503307f43ad97a73cef30fff344a45df98))
+
 # [@linters/eslint-config-react-native-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.4.0...@linters/eslint-config-react-native-v1.5.0) (2020-09-20)
 
 
