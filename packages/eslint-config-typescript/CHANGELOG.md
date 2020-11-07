@@ -1,3 +1,13 @@
+# [@linters/eslint-config-typescript-v1.6.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.6.0...@linters/eslint-config-typescript-v1.6.1) (2020-11-07)
+
+
+### Bug Fixes
+
+* allow _ in params ([fbf5285](https://github.com/developer239/linters/commit/fbf52853c48a9bb93172731049ddda200398c739))
+* match regex expression ([2128406](https://github.com/developer239/linters/commit/21284060dc8c7cee32e87dc6be86e4fbc6450b86))
+* no shadow in typescript configuration ([11d5d75](https://github.com/developer239/linters/commit/11d5d75e0cda6c70f9a969e528cd25e5e195cac7))
+* use typescript import resolver ([4c3517c](https://github.com/developer239/linters/commit/4c3517c67e2e9b5c99f7b8caac701b68abee7dc9))
+
 # [@linters/eslint-config-typescript-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.5.0...@linters/eslint-config-typescript-v1.6.0) (2020-09-20)
 
 
