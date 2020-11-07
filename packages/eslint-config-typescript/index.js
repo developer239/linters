@@ -151,6 +151,9 @@ module.exports = {
       },
     ],
 
+    'no-shadow': 0,
+    '@typescript-eslint/no-shadow': 2,
+
     //
     // Eslint Plugin unused Imports
     //
