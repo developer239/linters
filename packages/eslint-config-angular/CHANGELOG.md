@@ -1,3 +1,10 @@
+# [@linters/eslint-config-angular-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.4.0...@linters/eslint-config-angular-v1.5.0) (2020-11-07)
+
+
+### Features
+
+* update more dependencies ([725f196](https://github.com/developer239/linters/commit/725f1960edaf3145f7c6dcb89d77548abc1e28da))
+
 # [@linters/eslint-config-angular-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.3.0...@linters/eslint-config-angular-v1.4.0) (2020-09-20)
 
 
