@@ -16,8 +16,8 @@
     "eslint-plugin-import": ">=2.18.0"
   },
   "dependencies": {
-    "@linters/eslint-config-react": "1.5.0",
-    "eslint-plugin-react-native": "3.9.1"
+    "@linters/eslint-config-react": "1.6.0",
+    "eslint-plugin-react-native": "3.10.0"
   },
   "keywords": [
     "eslint",
