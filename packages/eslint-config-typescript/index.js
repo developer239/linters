@@ -1,18 +1,8 @@
-const base = require('@linters/eslint-config')
-
 module.exports = {
   extends: require.resolve('@linters/eslint-config'),
   settings: {
     'import/resolver': {
-      node: {
-        ...base.settings['import/resolver'].node,
-        extensions: [
-          ...base.settings['import/resolver'].node.extensions,
-          '.ts',
-          '.tsx',
-          '.d.ts',
-        ],
-      },
+      typescript: {}
     },
   },
   parser: '@typescript-eslint/parser',
