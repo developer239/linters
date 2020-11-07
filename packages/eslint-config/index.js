@@ -2,7 +2,6 @@ module.exports = {
   plugins: [
     'import',
     'absolute-import',
-    'unused-imports',
   ],
   settings: {
     'import/resolver': {
