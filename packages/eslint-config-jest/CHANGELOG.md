@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.4.2](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.4.1...@linters/eslint-config-jest-v1.4.2) (2020-11-07)
+
+
+### Bug Fixes
+
+* rename deprecated rules ([8ec1ca4](https://github.com/developer239/linters/commit/8ec1ca4a70fc9815ccda5ad977c73e9ba55eb94e))
+
 # [@linters/eslint-config-jest-v1.4.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.4.0...@linters/eslint-config-jest-v1.4.1) (2020-10-10)
 
 
