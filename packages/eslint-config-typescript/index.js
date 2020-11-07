@@ -148,7 +148,7 @@ module.exports = {
         "format": ["PascalCase"],
         "custom": {
           "regex": "^I[A-Z]",
-          "match": false
+          "match": true
         }
       },
     ],
@@ -157,12 +157,9 @@ module.exports = {
     // Eslint Plugin unused Imports
     //
 
-    '@typescript-eslint/no-unused-vars': 0,
+    '@typescript-eslint/no-unused-vars': 2,
 
     'unused-imports/no-unused-imports': 0,
     'unused-imports/no-unused-imports-ts': 2,
-
-    'unused-imports/no-unused-vars': 0,
-    'unused-imports/no-unused-vars-ts': 2,
   },
 }
