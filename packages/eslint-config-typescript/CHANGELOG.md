@@ -1,3 +1,10 @@
+# [@linters/eslint-config-typescript-v1.8.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.8.0...@linters/eslint-config-typescript-v1.8.1) (2020-11-07)
+
+
+### Bug Fixes
+
+* parameter regex ([5c063a0](https://github.com/developer239/linters/commit/5c063a07199df13664df7a7cd8f055b7a4b692cf))
+
 # [@linters/eslint-config-typescript-v1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.7.0...@linters/eslint-config-typescript-v1.8.0) (2020-11-07)
 
 
