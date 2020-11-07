@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-v1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.7.0...@linters/eslint-config-react-v1.7.1) (2020-11-07)
+
+
+### Bug Fixes
+
+* failed package import ([6e2b43e](https://github.com/developer239/linters/commit/6e2b43e32a7b665b0cbc900e0618a8151c8ed6a2))
+
 # [@linters/eslint-config-react-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.6.0...@linters/eslint-config-react-v1.7.0) (2020-11-07)
 
 
