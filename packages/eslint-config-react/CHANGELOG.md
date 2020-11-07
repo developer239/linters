@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.6.0...@linters/eslint-config-react-v1.7.0) (2020-11-07)
+
+
+### Features
+
+* update more dependencies ([725f196](https://github.com/developer239/linters/commit/725f1960edaf3145f7c6dcb89d77548abc1e28da))
+
 # [@linters/eslint-config-react-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.5.0...@linters/eslint-config-react-v1.6.0) (2020-11-07)
 
 
