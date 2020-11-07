@@ -1,3 +1,10 @@
+# [@linters/eslint-config-functional-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-functional-v1.3.0...@linters/eslint-config-functional-v1.4.0) (2020-11-07)
+
+
+### Features
+
+* update dependencies ([36b9fb0](https://github.com/developer239/linters/commit/36b9fb0e9a51c60a4d527aca9c8e3d5718379b26))
+
 # [@linters/eslint-config-functional-v1.3.0](https://github.com/developer239/linters/compare/@linters/eslint-config-functional-v1.2.0...@linters/eslint-config-functional-v1.3.0) (2020-09-20)
 
 
