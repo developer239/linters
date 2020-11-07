@@ -1,3 +1,10 @@
+# [@linters/eslint-config-typescript-v1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.7.0...@linters/eslint-config-typescript-v1.8.0) (2020-11-07)
+
+
+### Features
+
+* update more dependencies ([725f196](https://github.com/developer239/linters/commit/725f1960edaf3145f7c6dcb89d77548abc1e28da))
+
 # [@linters/eslint-config-typescript-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.6.1...@linters/eslint-config-typescript-v1.7.0) (2020-11-07)
 
 
