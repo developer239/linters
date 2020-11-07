@@ -1,3 +1,10 @@
+# [@linters/eslint-config-v1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.7.0...@linters/eslint-config-v1.8.0) (2020-11-07)
+
+
+### Features
+
+* remove eslint-plugin-unused-imports ([453ef30](https://github.com/developer239/linters/commit/453ef30132c00215356a38e7f1dbf97bedd8eede))
+
 # [@linters/eslint-config-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.6.0...@linters/eslint-config-v1.7.0) (2020-11-07)
 
 
