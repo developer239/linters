@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "eslint-plugin-absolute-import": "1.4.4",
-    "eslint-plugin-import": "2.22.0",
-    "eslint-plugin-unused-imports": "0.1.3"
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-unused-imports": "1.0.0"
   },
   "keywords": [
     "eslint",
@@ -28,7 +28,7 @@
     "general"
   ],
   "devDependencies": {
-    "semantic-release": "17.1.2",
+    "semantic-release": "17.2.2",
     "semantic-release-monorepo": "7.0.3"
   }
 }
