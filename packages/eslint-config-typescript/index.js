@@ -129,7 +129,7 @@ module.exports = {
         "selector": 'parameter',
         "format": null,
         "custom": {
-          "regex": "/^_+$|^[a-z][A-Za-z1-9$]*$/",
+          "regex": "^_+$|^[a-z][A-Za-z1-9$]*$",
           "match": true
         }
       },
