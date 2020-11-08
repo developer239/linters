@@ -81,6 +81,7 @@ module.exports = {
     '@typescript-eslint/no-unnecessary-type-arguments': 'error',
     '@typescript-eslint/no-unnecessary-type-assertion': 'error',
     '@typescript-eslint/no-untyped-public-signature': 0,
+    'no-use-before-define': 0,
     '@typescript-eslint/no-use-before-define': ['error', {
       functions: false,
       classes: false,
@@ -110,50 +111,47 @@ module.exports = {
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unbound-method': 0,
     '@typescript-eslint/unified-signatures': 'error',
-    "@typescript-eslint/naming-convention": [
-      "error",
+    '@typescript-eslint/naming-convention': [
+      'error',
       {
-        "selector": "memberLike",
-        "modifiers": ["private"],
-        "format": ["camelCase"],
-        "leadingUnderscore": "forbid"
-      },
-      { "selector": "variableLike", "format": ["camelCase"] },
-      {
-        "selector": "variable",
-        "types": ["boolean"],
-        "format": ["PascalCase"],
-        "prefix": ["is", "should", "has", "can", "did", "will"]
+        selector: 'memberLike',
+        modifiers: ['private'],
+        format: ['camelCase'],
+        leadingUnderscore: 'forbid',
       },
       {
-        "selector": 'parameter',
-        "format": null,
-        "custom": {
-          "regex": "^_+$|^[a-z][A-Za-z1-9$]*$",
-          "match": true
-        }
+        selector: 'variable',
+        types: ['boolean'],
+        format: ['PascalCase'],
+        prefix: ['is', 'should', 'has', 'can', 'did', 'will'],
       },
       {
-        "selector": "typeParameter",
-        "format": ["PascalCase"],
-        "custom": {
-          "regex": "((^T[A-Z][a-zA-Z]{2,}))+$",
-          "match": true
-        }
+        selector: 'parameter',
+        format: null,
+        custom: {
+          regex: '^_+$|^[a-z][A-Za-z1-9$]*$',
+          match: true,
+        },
       },
       {
-        "selector": "interface",
-        "format": ["PascalCase"],
-        "custom": {
-          "regex": "^I[A-Z]",
-          "match": true
-        }
+        selector: 'typeParameter',
+        format: ['PascalCase'],
+        custom: {
+          regex: '((^T[A-Z][a-zA-Z]{2,}))+$',
+          match: true,
+        },
+      },
+      {
+        selector: 'interface',
+        format: ['PascalCase'],
+        custom: {
+          regex: '^I[A-Z]',
+          match: true,
+        },
       },
     ],
-
     'no-shadow': 0,
     '@typescript-eslint/no-shadow': 2,
-
     '@typescript-eslint/no-unused-vars': 2,
   },
 }
