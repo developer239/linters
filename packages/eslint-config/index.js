@@ -1,8 +1,5 @@
 module.exports = {
-  plugins: [
-    'import',
-    'absolute-import',
-  ],
+  plugins: ['import', 'absolute-import'],
   settings: {
     'import/resolver': {
       node: {
@@ -13,7 +10,6 @@ module.exports = {
     },
   },
   rules: {
-
     //
     // Possible errors
     //
@@ -66,13 +62,13 @@ module.exports = {
     'array-callback-return': 'error',
     'block-scoped-var': 'error',
     'class-methods-use-this': 0,
-    'complexity': ['error', 7],
+    complexity: ['error', 7],
     'consistent-return': 1,
-    'curly': 'error',
+    curly: 'error',
     'default-case': 1,
     'default-param-last': 'error',
     'dot-notation': 'error',
-    'eqeqeq': 'error',
+    eqeqeq: 'error',
     'grouped-accessor-pairs': 'error',
     'guard-for-in': 'error',
     'max-classes-per-file': 0,
@@ -117,10 +113,13 @@ module.exports = {
     'no-sequences': 'error',
     'no-throw-literal': 'error',
     'no-unmodified-loop-condition': 'error',
-    'no-unused-expressions': ['error', {
-      allowShortCircuit: true,
-      allowTernary: true,
-    }],
+    'no-unused-expressions': [
+      'error',
+      {
+        allowShortCircuit: true,
+        allowTernary: true,
+      },
+    ],
     'no-unused-labels': 'error',
     'no-useless-call': 'error',
     'no-useless-catch': 'error',
@@ -132,12 +131,12 @@ module.exports = {
     'prefer-named-capture-group': 'warn',
     'prefer-promise-reject-errors': 'error',
     'prefer-regex-literals': 'warn',
-    'radix': 'error',
+    radix: 'error',
     'require-await': 'error',
     'require-unicode-regexp': 'error',
     'vars-on-top': 'error',
     'wrap-iife': 'error',
-    'yoda': 'error',
+    yoda: 'error',
 
     //
     // Variables
@@ -148,21 +147,22 @@ module.exports = {
     'no-label-var': 'error',
     'no-shadow': 'error',
     'no-shadow-restricted-names': 'error',
-    'no-undef': ['error', {
-      typeof: true,
-    }],
+    'no-undef': [
+      'error',
+      {
+        typeof: true,
+      },
+    ],
     'no-undefined': 0,
     'no-unused-vars': 0,
-    'no-use-before-define': ['error', {
-      functions: false,
-      classes: false,
-    }],
-    'callback-return': ['error', [
-      'cb',
-      'callback',
-      'next',
-      'done',
-    ]],
+    'no-use-before-define': [
+      'error',
+      {
+        functions: false,
+        classes: false,
+      },
+    ],
+    'callback-return': ['error', ['cb', 'callback', 'next', 'done']],
     'handle-callback-err': ['error', '^.*(e|E)rr(or)?'],
 
     //
@@ -173,22 +173,32 @@ module.exports = {
     'array-bracket-spacing': ['error', 'never'],
     'array-element-newline': ['error', 'consistent'],
     'block-spacing': ['error', 'always'],
-    'brace-style': ['error', '1tbs', {
-      allowSingleLine: true,
-    }],
-    'camelcase': 'warn',
+    'brace-style': [
+      'error',
+      '1tbs',
+      {
+        allowSingleLine: true,
+      },
+    ],
+    camelcase: 'warn',
     'capitalized-comments': 0,
-    'comma-dangle': ['error', {
-      'arrays': 'always-multiline',
-      'objects': 'always-multiline',
-      'imports': 'always-multiline',
-      'exports': 'always-multiline',
-      'functions': 'never'
-    }],
-    'comma-spacing': ['error', {
-      before: false,
-      after: true,
-    }],
+    'comma-dangle': [
+      'error',
+      {
+        arrays: 'always-multiline',
+        objects: 'always-multiline',
+        imports: 'always-multiline',
+        exports: 'always-multiline',
+        functions: 'never',
+      },
+    ],
+    'comma-spacing': [
+      'error',
+      {
+        before: false,
+        after: true,
+      },
+    ],
     'comma-style': ['error', 'last'],
     'computed-property-spacing': ['error', 'never'],
     'consistent-this': 'error',
@@ -196,34 +206,46 @@ module.exports = {
     'func-call-spacing': 'error',
     'func-name-matching': 'error',
     'func-names': 'error',
-    'func-style': ['error', 'declaration', {
-      allowArrowFunctions: true,
-    }],
-    'function-paren-newline': ['error', 'consistent'],
-    'id-length': ['error', {
-      min: 2,
-      max: 30,
-      exceptions: [
-        'i',
-        'R',
-        '_',
-        '__',
-      ],
-    }],
-    'indent': ['error', 2],
-    'key-spacing': ['error', {
-      beforeColon: false,
-      afterColon: true,
-      mode: 'strict',
-    }],
-    'keyword-spacing': ['error', {
-      before: true,
-      after: true,
-    }],
+    'func-style': [
+      'error',
+      'declaration',
+      {
+        allowArrowFunctions: true,
+      },
+    ],
+    'function-paren-newline': 0,
+    'id-length': [
+      'error',
+      {
+        min: 2,
+        max: 30,
+        exceptions: ['i', 'R', '_', '__'],
+      },
+    ],
+    indent: 0,
+    'key-spacing': [
+      'error',
+      {
+        beforeColon: false,
+        afterColon: true,
+        mode: 'strict',
+      },
+    ],
+    'keyword-spacing': [
+      'error',
+      {
+        before: true,
+        after: true,
+      },
+    ],
     'linebreak-style': ['error', 'unix'],
-    'lines-between-class-members': ['error', 'always', {
-      exceptAfterSingleLine: true,
-    }],
+    'lines-between-class-members': [
+      'error',
+      'always',
+      {
+        exceptAfterSingleLine: true,
+      },
+    ],
     'max-depth': ['error', 4],
     'max-len': ['error', 120, 2],
     'max-lines': 'error',
@@ -234,18 +256,24 @@ module.exports = {
     'multiline-comment-style': ['error', 'separate-lines'],
     'new-cap': 0,
     'new-parens': 'error',
-    'newline-per-chained-call': ['error', {
-      ignoreChainWithDepth: 3,
-    }],
+    'newline-per-chained-call': [
+      'error',
+      {
+        ignoreChainWithDepth: 3,
+      },
+    ],
     'no-bitwise': 'error',
     'no-lonely-if': 'error',
     'no-mixed-operators': 'error',
     'no-mixed-spaces-and-tabs': 'error',
     'no-multi-assign': 'error',
-    'no-multiple-empty-lines': ['error', {
-      max: 2,
-      maxEOF: 1,
-    }],
+    'no-multiple-empty-lines': [
+      'error',
+      {
+        max: 2,
+        maxEOF: 1,
+      },
+    ],
     'no-negated-condition': 'error',
     'no-nested-ternary': 'error',
     'no-new-object': 'error',
@@ -255,13 +283,19 @@ module.exports = {
     'no-underscore-dangle': 'error',
     'no-unneeded-ternary': 'error',
     'no-whitespace-before-property': 'error',
-    'object-curly-newline': ['error', {
-      consistent: true,
-    }],
+    'object-curly-newline': [
+      'error',
+      {
+        consistent: true,
+      },
+    ],
     'object-curly-spacing': ['error', 'always'],
-    'object-property-newline': ['error', {
-      allowAllPropertiesOnSameLine: true,
-    }],
+    'object-property-newline': [
+      'error',
+      {
+        allowAllPropertiesOnSameLine: true,
+      },
+    ],
     'one-var': ['error', 'never'],
     'one-var-declaration-per-line': 'error',
     'operator-assignment': ['error', 'always'],
@@ -269,21 +303,27 @@ module.exports = {
     'padded-blocks': ['error', 'never'],
     'prefer-object-spread': 'error',
     'quote-props': ['error', 'consistent'],
-    'quotes': ['error', 'single', 'avoid-escape'],
-    'semi': ['error', 'never'],
-    'semi-spacing': ['error', {
-      before: false,
-      after: true,
-    }],
+    quotes: ['error', 'single', 'avoid-escape'],
+    semi: ['error', 'never'],
+    'semi-spacing': [
+      'error',
+      {
+        before: false,
+        after: true,
+      },
+    ],
     'semi-style': ['error', 'first'],
     'space-before-blocks': ['error', 'always'],
     'space-before-function-paren': 0,
     'space-in-parens': ['error', 'never'],
     'space-infix-ops': 'error',
-    'space-unary-ops': ['error', {
-      words: true,
-      nonwords: false,
-    }],
+    'space-unary-ops': [
+      'error',
+      {
+        words: true,
+        nonwords: false,
+      },
+    ],
     'switch-colon-spacing': 'error',
     'template-tag-spacing': 'error',
     'wrap-regex': 'error',
@@ -293,7 +333,7 @@ module.exports = {
     //
 
     'arrow-body-style': 'error',
-    'arrow-parens': ['error', 'as-needed'],
+    'arrow-parens': 0,
     'arrow-spacing': 'error',
     'generator-star-spacing': 'error',
     'no-new-symbol': 'error',
@@ -331,40 +371,72 @@ module.exports = {
     // Eslint Plugin Import
     //
 
-    'import/no-unresolved': ['error', {
-      commonjs: true,
-    }],
+    'import/no-unresolved': [
+      'error',
+      {
+        commonjs: true,
+      },
+    ],
     'import/named': 0,
     'import/default': 'error',
     'import/first': 'error',
     'import/namespace': 'error',
     'import/no-absolute-path': 'error',
     'import/export': 'error',
-    'import/extensions': ['warn', 'never', { "css": "always" }],
-    'import/no-anonymous-default-export': ['warn', {
-      allowObject: true,
-      allowArray: true,
-    }],
+    'import/extensions': ['warn', 'never', { css: 'always' }],
+    'import/no-anonymous-default-export': [
+      'warn',
+      {
+        allowObject: true,
+        allowArray: true,
+      },
+    ],
     'import/no-extraneous-dependencies': 'error',
     'import/no-mutable-exports': 'error',
     'import/no-named-as-default': 'warn',
     'import/no-named-default': 'warn',
     'import/no-named-as-default-member': 'warn',
     'import/no-self-import': 'error',
-    'import/no-cycle': ['error', {
-      maxDepth: 8,
-    }],
+    'import/no-cycle': [
+      'error',
+      {
+        maxDepth: 8,
+      },
+    ],
     'import/no-duplicates': 'error',
     'import/order': [
       'error',
       {
-        'groups': ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'],
-        'alphabetize': {
-          'order': 'asc',
-          'caseInsensitive': true,
+        groups: [
+          'builtin',
+          'external',
+          'internal',
+          'parent',
+          'sibling',
+          'index',
+        ],
+        alphabetize: {
+          order: 'asc',
+          caseInsensitive: true,
         },
       },
     ],
     'import/no-default-export': 'error',
   },
+  overrides: [
+    // We want /pages to work in Next.js
+    {
+      files: ['pages/**/*.{ts,tsx}'],
+      rules: {
+        'import/no-default-export': 0,
+      },
+    },
+    // We want Storybook stories work in all projects
+    {
+      files: ['*.stories.ts'],
+      rules: {
+        'import/no-default-export': 0,
+      },
+    },
+  ],
 }
