@@ -14,8 +14,12 @@ module.exports = {
     // React Native Plugin
     //
 
-    'react-native/css-property-no-unknown': true,
-
+    'property-no-unknown': [
+      true,
+      {
+        ignoreProperties: ['resize-mode', 'text-align-vertical'],
+      },
+    ],
 
     //
     // React Native Environment
