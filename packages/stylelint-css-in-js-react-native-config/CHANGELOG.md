@@ -1,3 +1,12 @@
+# [@linters/stylelint-css-in-js-react-native-config-v1.6.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.5.0...@linters/stylelint-css-in-js-react-native-config-v1.6.0) (2020-12-11)
+
+
+### Features
+
+* add exceptions for css-property-no-unknown ([b0299f3](https://github.com/developer239/linters/commit/b0299f35bd6d667f51b5507a845ccf4f84279492))
+* turn off function-whitelist ([de531f8](https://github.com/developer239/linters/commit/de531f8f0cc8beb621d739e663a73b1f4622dae5))
+* turn off selector-max-type ([9b42fde](https://github.com/developer239/linters/commit/9b42fde2cfb767bece0ff12c7e73173d10f8e32b))
+
 # [@linters/stylelint-css-in-js-react-native-config-v1.5.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.4.0...@linters/stylelint-css-in-js-react-native-config-v1.5.0) (2020-09-20)
 
 
