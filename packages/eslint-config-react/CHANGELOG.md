@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-v1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.7.1...@linters/eslint-config-react-v1.8.0) (2020-12-11)
+
+
+### Features
+
+* update rules ([c2e00d4](https://github.com/developer239/linters/commit/c2e00d43d91fd088615eec5dab00f9d8d87356b9))
+
 # [@linters/eslint-config-react-v1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.7.0...@linters/eslint-config-react-v1.7.1) (2020-11-07)
 
 
