@@ -1,3 +1,10 @@
+# [@linters/eslint-config-ramda-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda-v1.4.0...@linters/eslint-config-ramda-v1.5.0) (2020-12-11)
+
+
+### Features
+
+* update dependencies ([cc60ab3](https://github.com/developer239/linters/commit/cc60ab39ae9454b463be90b60bdc46d3285f51ad))
+
 # [@linters/eslint-config-ramda-v1.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda-v1.3.0...@linters/eslint-config-ramda-v1.4.0) (2020-11-07)
 
 
