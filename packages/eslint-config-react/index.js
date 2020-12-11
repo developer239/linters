@@ -31,7 +31,6 @@ module.exports = {
     },
   },
   rules: {
-
     //
     // Eslint Plugin React Rules
     //
@@ -97,7 +96,6 @@ module.exports = {
     'react/style-prop-object': 'error',
     'react/void-dom-elements-no-children': 'error',
 
-
     //
     // JSX Specific Rules
     //
@@ -115,11 +113,11 @@ module.exports = {
       },
     ],
     'react/jsx-equals-spacing': ['error', 'never'],
-    'react/jsx-filename-extension': [1, { 'extensions': ['.tsx', '.jsx'] }],
+    'react/jsx-filename-extension': [1, { extensions: ['.tsx', '.jsx'] }],
     'react/jsx-first-prop-new-line': ['error', 'multiline'],
     'react/jsx-handler-names': 'error',
-    'react/jsx-indent': ['error', 2],
-    'react/jsx-indent-props': ['error', 2],
+    'react/jsx-indent': 0,
+    'react/jsx-indent-props': 0,
     'react/jsx-key': 'error',
     'react/jsx-max-depth': [
       'error',
@@ -156,23 +154,26 @@ module.exports = {
     'react/jsx-tag-spacing': [
       'error',
       {
-        'closingSlash': 'allow',
-        'beforeSelfClosing': 'always',
-        'afterOpening': 'allow',
-        'beforeClosing': 'allow'
-      }
+        closingSlash: 'allow',
+        beforeSelfClosing: 'always',
+        afterOpening: 'allow',
+        beforeClosing: 'allow',
+      },
     ],
     'react/jsx-uses-react': 'error',
     'react/jsx-uses-vars': 'error',
-    'react/jsx-wrap-multilines': ['error', {
-      declaration: 'parens-new-line',
-      assignment: 'parens-new-line',
-      return: 'parens-new-line',
-      arrow: 'parens-new-line',
-      condition: 'parens-new-line',
-      logical: 'parens-new-line',
-      prop: 'parens-new-line',
-    }],
+    'react/jsx-wrap-multilines': [
+      'error',
+      {
+        declaration: 'parens-new-line',
+        assignment: 'parens-new-line',
+        return: 'parens-new-line',
+        arrow: 'parens-new-line',
+        condition: 'parens-new-line',
+        logical: 'parens-new-line',
+        prop: 'parens-new-line',
+      },
+    ],
 
     //
     // React Hooks Rules
