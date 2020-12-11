@@ -1,3 +1,10 @@
+# [@linters/eslint-config-v1.10.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.9.0...@linters/eslint-config-v1.10.0) (2020-12-11)
+
+
+### Features
+
+* update rules ([bdd31a1](https://github.com/developer239/linters/commit/bdd31a1e65a6e68dca3232a216b5952fee893798))
+
 # [@linters/eslint-config-v1.9.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.8.1...@linters/eslint-config-v1.9.0) (2020-12-11)
 
 
