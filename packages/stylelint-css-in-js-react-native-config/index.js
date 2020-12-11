@@ -34,36 +34,8 @@ module.exports = {
       {
         severity: 'error',
         message:
-          'this at-rule is not supported when using styled-components with React Native.'
-      }
-    ],
-    'function-whitelist': [
-      [
-        'rgb',
-        'rgba',
-        'hsl',
-        'hsla',
-        'perspective',
-        'rotate',
-        'rotateX',
-        'rotateY',
-        'rotateZ',
-        'scale',
-        'scaleX',
-        'scaleY',
-        'translate',
-        'translateX',
-        'translateY',
-        'skew',
-        'skewX',
-        'skewY',
-        'matrix'
-      ],
-      {
-        severity: 'error',
-        message:
-          'this function is not supported when using styled-components with React Native.'
-      }
+          'this at-rule is not supported when using styled-components with React Native.',
+      },
     ],
     'unit-whitelist': [
       ['px', 'deg', '%'],
