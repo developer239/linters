@@ -1,3 +1,10 @@
+# [@linters/eslint-config-v1.9.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.8.1...@linters/eslint-config-v1.9.0) (2020-12-11)
+
+
+### Features
+
+* update dependencies ([cc60ab3](https://github.com/developer239/linters/commit/cc60ab39ae9454b463be90b60bdc46d3285f51ad))
+
 # [@linters/eslint-config-v1.8.1](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.8.0...@linters/eslint-config-v1.8.1) (2020-11-07)
 
 
