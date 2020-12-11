@@ -1,8 +1,6 @@
 module.exports = {
   plugins: ['stylelint-react-native'],
-  extends: [
-    '@linters/stylelint-css-in-js-config',
-  ],
+  extends: ['@linters/stylelint-css-in-js-config'],
   rules: {
     //
     // Disable base rules
@@ -14,8 +12,12 @@ module.exports = {
     // React Native Plugin
     //
 
-    'react-native/css-property-no-unknown': true,
-
+    'property-no-unknown': [
+      true,
+      {
+        ignoreProperties: ['resize-mode', 'text-align-vertical'],
+      },
+    ],
 
     //
     // React Native Environment
@@ -30,52 +32,24 @@ module.exports = {
       {
         severity: 'error',
         message:
-          'this at-rule is not supported when using styled-components with React Native.'
-      }
-    ],
-    'function-whitelist': [
-      [
-        'rgb',
-        'rgba',
-        'hsl',
-        'hsla',
-        'perspective',
-        'rotate',
-        'rotateX',
-        'rotateY',
-        'rotateZ',
-        'scale',
-        'scaleX',
-        'scaleY',
-        'translate',
-        'translateX',
-        'translateY',
-        'skew',
-        'skewX',
-        'skewY',
-        'matrix'
-      ],
-      {
-        severity: 'error',
-        message:
-          'this function is not supported when using styled-components with React Native.'
-      }
+          'this at-rule is not supported when using styled-components with React Native.',
+      },
     ],
     'unit-whitelist': [
       ['px', 'deg', '%'],
       {
         severity: 'error',
         message:
-          'this unit is not supported when using styled-components with React Native.'
-      }
+          'this unit is not supported when using styled-components with React Native.',
+      },
     ],
     'selector-pseudo-class-whitelist': [
       [],
       {
         severity: 'error',
         message:
-          'pseudo class selectors are not supported when using styled-components with React Native.'
-      }
+          'pseudo class selectors are not supported when using styled-components with React Native.',
+      },
     ],
     // stylelint-processor-styled-components creates
     // a wrapping class selector for the component.
@@ -84,40 +58,32 @@ module.exports = {
       {
         severity: 'error',
         message:
-          'class selectors are not supported when using styled-components with React Native.'
-      }
+          'class selectors are not supported when using styled-components with React Native.',
+      },
     ],
     'selector-max-universal': [
       0,
       {
         severity: 'error',
         message:
-          'universal selectors are not supported when using styled-components with React Native.'
-      }
+          'universal selectors are not supported when using styled-components with React Native.',
+      },
     ],
     'selector-max-attribute': [
       0,
       {
         severity: 'error',
         message:
-          'attribute selectors are not supported when using styled-components with React Native.'
-      }
-    ],
-    'selector-max-type': [
-      0,
-      {
-        severity: 'error',
-        message:
-          'type selectors are not supported when using styled-components with React Native.'
-      }
+          'attribute selectors are not supported when using styled-components with React Native.',
+      },
     ],
     'selector-max-id': [
       0,
       {
         severity: 'error',
         message:
-          'id selectors are not supported when using styled-components with React Native.'
-      }
-    ]
-  }
+          'id selectors are not supported when using styled-components with React Native.',
+      },
+    ],
+  },
 }
