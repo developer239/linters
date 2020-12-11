@@ -76,16 +76,8 @@ module.exports = {
       {
         severity: 'error',
         message:
-          'attribute selectors are not supported when using styled-components with React Native.'
-      }
-    ],
-    'selector-max-type': [
-      0,
-      {
-        severity: 'error',
-        message:
-          'type selectors are not supported when using styled-components with React Native.'
-      }
+          'attribute selectors are not supported when using styled-components with React Native.',
+      },
     ],
     'selector-max-id': [
       0,
