@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-node",
   "description": "The eslint configuration for node.js application you have been looking for.",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {

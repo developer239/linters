@@ -1,3 +1,5 @@
+# [@linters/eslint-config-node-v1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-node-v1.7.0...@linters/eslint-config-node-v1.7.1) (2020-12-11)
+
 # [@linters/eslint-config-node-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node-v1.6.0...@linters/eslint-config-node-v1.7.0) (2020-11-07)
 
 
