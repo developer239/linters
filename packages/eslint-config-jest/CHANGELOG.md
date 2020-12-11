@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.5.0...@linters/eslint-config-jest-v1.6.0) (2020-12-11)
+
+
+### Features
+
+* update dependencies ([cc60ab3](https://github.com/developer239/linters/commit/cc60ab39ae9454b463be90b60bdc46d3285f51ad))
+
 # [@linters/eslint-config-jest-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.4.2...@linters/eslint-config-jest-v1.5.0) (2020-11-07)
 
 

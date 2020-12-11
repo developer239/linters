@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-jest",
   "description": "The eslint for jest tests you have been looking for.",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
