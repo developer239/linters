@@ -43,7 +43,7 @@ module.exports = {
       true,
       {
         severity: 'warning',
-      }
+      },
     ],
     'declaration-block-no-redundant-longhand-properties': true,
     'declaration-no-important': true,
@@ -60,7 +60,7 @@ module.exports = {
     // Stylistic issues
     //
 
-    'color-hex-case': 'upper',
+    'color-hex-case': 'lower',
     'font-weight-notation': 'numeric',
     'function-comma-newline-after': 'always-multi-line',
     'function-max-empty-lines': 0,
@@ -91,8 +91,8 @@ module.exports = {
     'selector-no-qualifying-type': true,
     'selector-pseudo-element-colon-notation': 'double',
 
-    'indentation': 2,
-    'linebreaks': 'unix',
+    indentation: 2,
+    linebreaks: 'unix',
     'max-empty-lines': 1,
     'max-line-length': 150,
     'no-eol-whitespace': true,
@@ -100,5 +100,5 @@ module.exports = {
     'function-name-case': 'lower',
     'value-keyword-case': 'lower',
     'no-empty-first-line': true,
-  }
+  },
 }
