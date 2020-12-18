@@ -135,14 +135,6 @@ module.exports = {
         prefix: ['is', 'should', 'has', 'can', 'did', 'will'],
       },
       {
-        selector: 'parameter',
-        format: null,
-        custom: {
-          regex: '^_+$|^[a-z][A-Za-z1-9$]*$',
-          match: true,
-        },
-      },
-      {
         selector: 'typeParameter',
         format: ['PascalCase'],
         custom: {
