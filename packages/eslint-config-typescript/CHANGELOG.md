@@ -1,3 +1,10 @@
+# [@linters/eslint-config-typescript-v1.12.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.11.0...@linters/eslint-config-typescript-v1.12.0) (2020-12-18)
+
+
+### Features
+
+* remove parameter naming convention rule ([1cea3bf](https://github.com/developer239/linters/commit/1cea3bf5ab16c3dd8c2e54b0d51acbf069e6739e))
+
 # [@linters/eslint-config-typescript-v1.11.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.10.0...@linters/eslint-config-typescript-v1.11.0) (2020-12-11)
 
 
