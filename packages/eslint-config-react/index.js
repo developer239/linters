@@ -104,7 +104,7 @@ module.exports = {
     'react/jsx-child-element-spacing': 'error',
     'react/jsx-closing-bracket-location': ['error', 'line-aligned'],
     'react/jsx-closing-tag-location': 'error',
-    'react/jsx-curly-newline': 'error',
+    'react/jsx-curly-newline': 0,
     'react/jsx-curly-spacing': [
       'error',
       {
