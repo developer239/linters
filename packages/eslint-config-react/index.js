@@ -133,12 +133,7 @@ module.exports = {
     'react/jsx-no-target-blank': ['error', { enforceDynamicLinks: 'always' }],
     'react/jsx-no-undef': 'error',
     'react/jsx-no-useless-fragment': 'error',
-    'react/jsx-one-expression-per-line': [
-      'error',
-      {
-        allow: 'single-child',
-      },
-    ],
+    'react/jsx-one-expression-per-line': 0,
     'react/jsx-curly-brace-presence': ['error', 'never'],
     'react/jsx-fragments': 'error',
     'react/jsx-pascal-case': [
