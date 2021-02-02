@@ -1,3 +1,5 @@
+# [@linters/stylelint-config-v1.3.1](https://github.com/developer239/linters/compare/@linters/stylelint-config-v1.3.0...@linters/stylelint-config-v1.3.1) (2021-02-02)
+
 # [@linters/stylelint-config-v1.3.0](https://github.com/developer239/linters/compare/@linters/stylelint-config-v1.2.0...@linters/stylelint-config-v1.3.0) (2020-12-11)
 
 
