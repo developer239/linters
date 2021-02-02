@@ -1,3 +1,5 @@
+# [@linters/eslint-config-ramda-v1.5.1](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda-v1.5.0...@linters/eslint-config-ramda-v1.5.1) (2021-02-02)
+
 # [@linters/eslint-config-ramda-v1.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda-v1.4.0...@linters/eslint-config-ramda-v1.5.0) (2020-12-11)
 
 
