@@ -1,3 +1,5 @@
+# [@linters/semantic-release-v1.7.1](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.7.0...@linters/semantic-release-v1.7.1) (2021-02-02)
+
 # [@linters/semantic-release-v1.7.0](https://github.com/developer239/linters/compare/@linters/semantic-release-v1.6.0...@linters/semantic-release-v1.7.0) (2020-12-11)
 
 
