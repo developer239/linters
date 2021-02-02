@@ -353,7 +353,7 @@ module.exports = {
     'object-shorthand': 'error',
     'prefer-arrow-callback': 'error',
     'prefer-const': 'error',
-    'prefer-destructuring': 'error',
+    'prefer-destructuring': ['error', { object: true, array: false }],
     'prefer-numeric-literals': 'error',
     'prefer-rest-params': 'error',
     'prefer-template': 'error',
