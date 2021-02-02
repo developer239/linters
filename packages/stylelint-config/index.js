@@ -36,7 +36,7 @@ module.exports = {
 
     'color-named': 'never',
     'number-max-precision': 3,
-    'unit-blacklist': ['px'],
+    'unit-disallowed-list': ['px'],
     'shorthand-property-no-redundant-values': true,
     'value-no-vendor-prefix': true,
     'property-no-vendor-prefix': [
