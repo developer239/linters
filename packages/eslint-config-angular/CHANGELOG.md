@@ -1,3 +1,11 @@
+# [@linters/eslint-config-angular-v1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.7.0...@linters/eslint-config-angular-v1.7.1) (2021-02-02)
+
+
+### Bug Fixes
+
+* add forgotten builder dependency ([2485be2](https://github.com/developer239/linters/commit/2485be222c26283aabaf6885ddde611dc69d9ac3))
+* rename components config file ([36c5536](https://github.com/developer239/linters/commit/36c5536beaa946ef2b23c226f5190afe230ed14c))
+
 # [@linters/eslint-config-angular-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.6.0...@linters/eslint-config-angular-v1.7.0) (2021-02-02)
 
 
