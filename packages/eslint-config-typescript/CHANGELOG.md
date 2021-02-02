@@ -1,3 +1,10 @@
+# [@linters/eslint-config-typescript-v1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.12.0...@linters/eslint-config-typescript-v1.13.0) (2021-02-02)
+
+
+### Features
+
+* add new prefix for boolean variables ([a92ec19](https://github.com/developer239/linters/commit/a92ec1948afc9978a8bb06b2ca51dcdaae3ba18b))
+
 # [@linters/eslint-config-typescript-v1.12.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.11.0...@linters/eslint-config-typescript-v1.12.0) (2020-12-18)
 
 
