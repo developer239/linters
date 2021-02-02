@@ -1214,6 +1214,16 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
+"@linters/eslint-config-react@1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.8.0.tgz#2588c1d1ddd61642831178e41ceca7e5e9ba5e3b"
+  integrity sha512-RUBSAMnmDC3krtfbFgO+wfxsyYxidj5oyz/8TIgc0h4Ani87FBZyOAI/s0/PIBtMPYPL5Pp7OKhEqK/Afi1oZw==
+  dependencies:
+    "@linters/eslint-config" "1.10.0"
+    babel-eslint "10.1.0"
+    eslint-plugin-react "7.21.5"
+    eslint-plugin-react-hooks "4.2.0"
+
 "@linters/eslint-config-typescript@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@linters/eslint-config-typescript/-/eslint-config-typescript-1.9.0.tgz#f747f37e37d6743f68231d334631019f44bd81cb"
