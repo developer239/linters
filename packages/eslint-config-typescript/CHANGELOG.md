@@ -1,3 +1,5 @@
+# [@linters/eslint-config-typescript-v1.13.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.13.0...@linters/eslint-config-typescript-v1.13.1) (2021-02-02)
+
 # [@linters/eslint-config-typescript-v1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript-v1.12.0...@linters/eslint-config-typescript-v1.13.0) (2021-02-02)
 
 
