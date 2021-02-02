@@ -1229,24 +1229,6 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
-"@linters/eslint-config-typescript@1.13.1":
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config-typescript/-/eslint-config-typescript-1.13.1.tgz#0438ca8507bac42baef59fe52e4c1a8fd9afc60a"
-  integrity sha512-QSj13rlxz1cwwxxSrTn7c/TLYi89UCtCyMo277d/qfvBq7nNKWXP1PTuZzjC2ibaEPicGHTI5rRBLZk8tCnwqQ==
-  dependencies:
-    "@linters/eslint-config" "1.11.1"
-    "@typescript-eslint/eslint-plugin" "4.14.2"
-    "@typescript-eslint/parser" "4.14.2"
-    eslint-import-resolver-typescript "2.3.0"
-
-"@linters/eslint-config@1.11.1":
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.11.1.tgz#4b4b04edace90861877a3bd828120e47373d5b01"
-  integrity sha512-YfI347uAQDqwrfmHz32Fa3sREKu+497BWy08m3k/LJcjUn8x16obQvHd/IPBLv4W7RDHRlPT/wuxkeLuD+AAHw==
-  dependencies:
-    eslint-plugin-absolute-import "1.4.4"
-    eslint-plugin-import "2.22.1"
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
