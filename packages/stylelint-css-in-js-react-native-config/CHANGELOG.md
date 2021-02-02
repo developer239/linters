@@ -1,3 +1,5 @@
+# [@linters/stylelint-css-in-js-react-native-config-v1.6.1](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.6.0...@linters/stylelint-css-in-js-react-native-config-v1.6.1) (2021-02-02)
+
 # [@linters/stylelint-css-in-js-react-native-config-v1.6.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config-v1.5.0...@linters/stylelint-css-in-js-react-native-config-v1.6.0) (2020-12-11)
 
 
