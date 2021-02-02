@@ -1,3 +1,10 @@
+# [@linters/eslint-config-angular-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.6.0...@linters/eslint-config-angular-v1.7.0) (2021-02-02)
+
+
+### Features
+
+* create basic angular eslint configurations ([e1be490](https://github.com/developer239/linters/commit/e1be4905662493b2cba563ecfb3875292c8d73d4))
+
 # [@linters/eslint-config-angular-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.5.0...@linters/eslint-config-angular-v1.6.0) (2020-12-11)
 
 
