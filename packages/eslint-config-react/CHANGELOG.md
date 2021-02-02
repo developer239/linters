@@ -1,3 +1,5 @@
+# [@linters/eslint-config-react-v1.8.2](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.8.1...@linters/eslint-config-react-v1.8.2) (2021-02-02)
+
 # [@linters/eslint-config-react-v1.8.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.8.0...@linters/eslint-config-react-v1.8.1) (2020-12-26)
 
 # [@linters/eslint-config-react-v1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.7.1...@linters/eslint-config-react-v1.8.0) (2020-12-11)
