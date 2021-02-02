@@ -152,4 +152,13 @@ module.exports = {
     '@typescript-eslint/no-shadow': 2,
     '@typescript-eslint/no-unused-vars': 2,
   },
+  overrides: [
+    // Storybook
+    {
+      files: ['*.stories.ts'],
+      rules: {
+        "@typescript-eslint/require-await": 0,
+      },
+    },
+  ],
 }
