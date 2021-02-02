@@ -1,3 +1,11 @@
+# [@linters/eslint-config-v1.11.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.10.0...@linters/eslint-config-v1.11.0) (2021-02-02)
+
+
+### Features
+
+* turn off some rules in test files ([0dd68f6](https://github.com/developer239/linters/commit/0dd68f61d4706816310e2ff0761ed2b2e862fd79))
+* update prefer-destructuring ([9d3eb6b](https://github.com/developer239/linters/commit/9d3eb6b0c306073c5f8a8631b94a497137f08ac2))
+
 # [@linters/eslint-config-v1.10.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.9.0...@linters/eslint-config-v1.10.0) (2020-12-11)
 
 
