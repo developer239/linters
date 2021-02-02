@@ -247,7 +247,15 @@ module.exports = {
       },
     ],
     'max-depth': ['error', 4],
-    'max-len': ['error', 120, 2],
+    "max-len": [
+      "error",
+      120,
+      2,
+      {
+        "ignorePattern": "^import\\W.*",
+        "ignoreUrls": true
+      }
+    ],
     'max-lines': 'error',
     'max-lines-per-function': ['error', 120],
     'max-nested-callbacks': ['error', 4],
