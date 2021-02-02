@@ -1,3 +1,5 @@
+# [@linters/eslint-config-v1.11.1](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.11.0...@linters/eslint-config-v1.11.1) (2021-02-02)
+
 # [@linters/eslint-config-v1.11.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.10.0...@linters/eslint-config-v1.11.0) (2021-02-02)
 
 
