@@ -441,7 +441,7 @@ module.exports = {
     },
     // Test files
     {
-      files: ['*.{spec,test}'],
+      files: ['*.{spec,test}.ts'],
       rules: {
         'prefer-destructuring': 1,
         'max-nested-callbacks': ['error', 8],
