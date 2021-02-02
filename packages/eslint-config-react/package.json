@@ -17,7 +17,7 @@
     "eslint-plugin-import": ">=2.18.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "1.11.1",
+    "@linters/eslint-config": "1.11.2",
     "babel-eslint": "10.1.0",
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0"
