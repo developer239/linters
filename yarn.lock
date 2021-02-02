@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@angular-eslint/builder@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@angular-eslint/builder/-/builder-1.1.0.tgz#91b355b73a503929ba66ef03017718510eea8a2c"
+  integrity sha512-VXQY+lLqN7KqqyoV/p5avp1qxavtspy3266QetMzy6Dh+6BYWznA3YPO8TMgEG/JwpFLXuLBdc8YUg8hVeZCcA==
+
 "@angular-eslint/eslint-plugin-template@1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@angular-eslint/eslint-plugin-template/-/eslint-plugin-template-1.1.0.tgz#35ce7063980a1f12f6a1c6d386b781421c4022bc"
