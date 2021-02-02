@@ -48,7 +48,7 @@ module.exports = {
     'declaration-block-no-redundant-longhand-properties': true,
     'declaration-no-important': true,
     'declaration-block-single-line-max-declarations': 1,
-    'media-feature-name-blacklist': ['/^max-/'],
+    'media-feature-name-disallowed-list': ['/^max-/'],
     'media-feature-name-no-vendor-prefix': true,
     'at-rule-no-vendor-prefix': true,
     'max-nesting-depth': 3,
