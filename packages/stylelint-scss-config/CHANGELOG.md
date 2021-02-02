@@ -1,3 +1,5 @@
+# [@linters/stylelint-scss-config-v1.4.2](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.4.1...@linters/stylelint-scss-config-v1.4.2) (2021-02-02)
+
 # [@linters/stylelint-scss-config-v1.4.1](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.4.0...@linters/stylelint-scss-config-v1.4.1) (2020-12-11)
 
 # [@linters/stylelint-scss-config-v1.4.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config-v1.3.0...@linters/stylelint-scss-config-v1.4.0) (2020-09-20)
