@@ -1,3 +1,5 @@
+# [@linters/eslint-config-angular-v1.7.3](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.7.2...@linters/eslint-config-angular-v1.7.3) (2021-02-02)
+
 # [@linters/eslint-config-angular-v1.7.2](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.7.1...@linters/eslint-config-angular-v1.7.2) (2021-02-02)
 
 # [@linters/eslint-config-angular-v1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-angular-v1.7.0...@linters/eslint-config-angular-v1.7.1) (2021-02-02)
