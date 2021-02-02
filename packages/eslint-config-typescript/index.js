@@ -21,15 +21,12 @@ module.exports = {
     //
     // Does Not Work Well With Eslint
     //
-
     'valid-jsdoc': 'off',
     'no-undef': 'off',
     'no-unused-vars': 'off',
-
     //
     // General rules
     //
-
     '@typescript-eslint/adjacent-overload-signatures': 'error',
     '@typescript-eslint/array-type': [
       'error',
@@ -132,7 +129,7 @@ module.exports = {
         selector: 'variable',
         types: ['boolean'],
         format: ['PascalCase'],
-        prefix: ['is', 'should', 'has', 'can', 'did', 'will'],
+        prefix: ['is', 'should', 'has', 'can', 'did', 'will', 'expected'],
       },
       {
         selector: 'typeParameter',
