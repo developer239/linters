@@ -1,3 +1,10 @@
+# [@linters/eslint-config-jest-v1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.6.0...@linters/eslint-config-jest-v1.7.0) (2021-02-02)
+
+
+### Features
+
+* turn off done callback rule ([3eb2aef](https://github.com/developer239/linters/commit/3eb2aef70f687479d24ae971f9ba28a7fdb4904b))
+
 # [@linters/eslint-config-jest-v1.6.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest-v1.5.0...@linters/eslint-config-jest-v1.6.0) (2020-12-11)
 
 
