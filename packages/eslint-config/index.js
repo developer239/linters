@@ -424,20 +424,22 @@ module.exports = {
     'import/no-default-export': 'error',
   },
   overrides: [
-    // We want /pages to work in Next.js
+    // Next.js
     {
       files: ['pages/**/*.{ts,tsx}'],
       rules: {
         'import/no-default-export': 0,
       },
     },
-    // We want Storybook stories work in all projects
+    // Storybook
     {
       files: ['*.stories.ts'],
       rules: {
         'import/no-default-export': 0,
+        "require-await": 0
       },
     },
+    // Test files
     {
       files: ['*.{spec,test}'],
       rules: {
