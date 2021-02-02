@@ -438,5 +438,12 @@ module.exports = {
         'import/no-default-export': 0,
       },
     },
+    {
+      files: ['*.{spec,test}'],
+      rules: {
+        'prefer-destructuring': 1,
+        'max-nested-callbacks': ['error', 8],
+      },
+    },
   ],
 }
