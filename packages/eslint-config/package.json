@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config",
   "description": "The base eslint config you have been looking for.",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {

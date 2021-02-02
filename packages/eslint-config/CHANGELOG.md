@@ -1,3 +1,11 @@
+# [@linters/eslint-config-v1.11.2](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.11.1...@linters/eslint-config-v1.11.2) (2021-02-02)
+
+
+### Bug Fixes
+
+* max-length ignore imports ([6da909c](https://github.com/developer239/linters/commit/6da909c3de4618f11fb64ff12b17ac1648899974))
+* test files override path ([03069c5](https://github.com/developer239/linters/commit/03069c5dad360fd857e2fdd8dff4ea97ca68ce9e))
+
 # [@linters/eslint-config-v1.11.1](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.11.0...@linters/eslint-config-v1.11.1) (2021-02-02)
 
 # [@linters/eslint-config-v1.11.0](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.10.0...@linters/eslint-config-v1.11.0) (2021-02-02)
