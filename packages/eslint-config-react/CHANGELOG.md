@@ -1,3 +1,10 @@
+# [@linters/eslint-config-react-v1.8.5](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.8.4...@linters/eslint-config-react-v1.8.5) (2021-02-06)
+
+
+### Bug Fixes
+
+* make react/jsx-wrap-multilines work with prettier ([beecfbd](https://github.com/developer239/linters/commit/beecfbd67a20d701080cb5d11e7abc65dd8159c4))
+
 # [@linters/eslint-config-react-v1.8.4](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.8.3...@linters/eslint-config-react-v1.8.4) (2021-02-02)
 
 # [@linters/eslint-config-react-v1.8.3](https://github.com/developer239/linters/compare/@linters/eslint-config-react-v1.8.2...@linters/eslint-config-react-v1.8.3) (2021-02-02)
