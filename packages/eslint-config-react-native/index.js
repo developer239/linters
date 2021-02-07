@@ -1,5 +1,5 @@
 module.exports = {
-  extends: require.resolve('@linters/eslint-config-react'),
+  extends: require.resolve('../eslint-config-react'),
   env: {
     'react-native/react-native': true,
   },
