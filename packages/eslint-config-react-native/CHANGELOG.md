@@ -1,3 +1,5 @@
+# [@linters/eslint-config-react-native-v1.6.7](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.6.6...@linters/eslint-config-react-native-v1.6.7) (2021-02-07)
+
 # [@linters/eslint-config-react-native-v1.6.6](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.6.5...@linters/eslint-config-react-native-v1.6.6) (2021-02-02)
 
 # [@linters/eslint-config-react-native-v1.6.5](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native-v1.6.4...@linters/eslint-config-react-native-v1.6.5) (2021-02-02)
