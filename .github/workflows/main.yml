@@ -40,6 +40,10 @@ jobs:
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
         run: yarn lerna:bootstrap
 
+      - name: Check if there are changes
+        id: changes
+        uses: UnicornGlobal/has-changes-action@v1.0.11
+
       - name: Bump versions and publish packages
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
         run: |
