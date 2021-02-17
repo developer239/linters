@@ -4,7 +4,7 @@
     "lerna:bootstrap": "lerna bootstrap",
     "lerna:version": "lerna version",
     "lerna:publish": "lerna publish from-package",
-    "format": "prettier --write 'packages/**/*.{ts,md,json}'",
+    "format": "prettier --write 'packages/**/*.{js,md,json}'",
     "lint:js": "eslint --ext .js packages"
   },
   "devDependencies": {
