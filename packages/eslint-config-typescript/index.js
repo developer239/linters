@@ -157,7 +157,7 @@ module.exports = {
     {
       files: ['*.stories.ts'],
       rules: {
-        "@typescript-eslint/require-await": 0,
+        '@typescript-eslint/require-await': 0,
       },
     },
   ],

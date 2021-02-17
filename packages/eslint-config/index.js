@@ -247,14 +247,14 @@ module.exports = {
       },
     ],
     'max-depth': ['error', 4],
-    "max-len": [
-      "error",
+    'max-len': [
+      'error',
       120,
       2,
       {
-        "ignorePattern": "^import\\W.*",
-        "ignoreUrls": true
-      }
+        ignorePattern: '^import\\W.*',
+        ignoreUrls: true,
+      },
     ],
     'max-lines': 'error',
     'max-lines-per-function': ['error', 120],
@@ -444,7 +444,7 @@ module.exports = {
       files: ['*.stories.ts'],
       rules: {
         'import/no-default-export': 0,
-        "require-await": 0
+        'require-await': 0,
       },
     },
     // Test files

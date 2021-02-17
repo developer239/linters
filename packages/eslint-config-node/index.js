@@ -9,9 +9,7 @@ module.exports = {
     'import/resolver': {
       node: {
         ...base.settings['import/resolver'].node,
-        paths: [
-          'server',
-        ],
+        paths: ['server'],
         extensions: [
           ...base.settings['import/resolver'].node.extensions,
           '.node',
@@ -23,10 +21,7 @@ module.exports = {
     es6: true,
     node: true,
   },
-  plugins: [
-    'node',
-    'security',
-  ],
+  plugins: ['node', 'security'],
   rules: {
     //
     // Possible Errors
@@ -43,10 +38,13 @@ module.exports = {
     'node/no-unpublished-require': 'error',
     'node/no-unsupported-features/es-builtins': 'error',
     'node/no-unsupported-features/es-syntax': 0,
-    'node/no-unsupported-features/node-builtins': ['error', {
-      'version': '>=12.0.0',
-      'ignores': [],
-    }],
+    'node/no-unsupported-features/node-builtins': [
+      'error',
+      {
+        version: '>=12.0.0',
+        ignores: [],
+      },
+    ],
     'node/process-exit-as-throw': 'error',
     'node/shebang': 'error',
 
@@ -54,9 +52,12 @@ module.exports = {
     // Best Practices
     //
 
-    'node/no-deprecated-api': ['error', {
-      'version': '>=12.0.0',
-    }],
+    'node/no-deprecated-api': [
+      'error',
+      {
+        version: '>=12.0.0',
+      },
+    ],
 
     //
     // Stylistic Issues

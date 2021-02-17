@@ -33,7 +33,6 @@ module.exports = {
   },
   overrides: [typescript, components, templates],
 }
-
 ```
 
 Make sure that `lint` configuration in `angular.json` uses `@angular-eslint/builder`:

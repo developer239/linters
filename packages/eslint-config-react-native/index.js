@@ -3,9 +3,7 @@ module.exports = {
   env: {
     'react-native/react-native': true,
   },
-  plugins: [
-    'react-native',
-  ],
+  plugins: ['react-native'],
   rules: {
     'react-native/no-color-literals': 'error',
     'react-native/no-inline-styles': 'error',
@@ -14,5 +12,5 @@ module.exports = {
     'react-native/no-unused-styles': 'error',
     'react-native/sort-styles': 0,
     'react-native/split-platform-components': 'error',
-  }
+  },
 }

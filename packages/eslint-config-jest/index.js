@@ -1,12 +1,14 @@
 module.exports = {
   extends: ['plugin:jest-formatting/strict'],
   plugins: ['jest', 'jest-formatting'],
-  overrides: [{
-    files: ['**/__tests__/**/*.[jt]s?(x)', '**/?(*.)+(spec|test).[jt]s?(x)'],
-    env: {
-      'jest/globals': true,
+  overrides: [
+    {
+      files: ['**/__tests__/**/*.[jt]s?(x)', '**/?(*.)+(spec|test).[jt]s?(x)'],
+      env: {
+        'jest/globals': true,
+      },
     },
-  }],
+  ],
   rules: {
     //
     // Recommended
