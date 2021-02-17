@@ -1,7 +1,7 @@
 {
   "name": "@linters/stylelint-scss-config",
   "description": "The SCSS style lint config you have been looking for.",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
@@ -12,7 +12,7 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@linters/stylelint-config": "^1.4.0",
+    "@linters/stylelint-config": "^1.4.1",
     "stylelint-config-rational-order": "0.1.2",
     "stylelint-scss": "3.18.0"
   },
