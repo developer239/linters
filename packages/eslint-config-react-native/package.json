@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-react-native",
   "description": "The eslint config for react native applications you have been looking for.",
-  "version": "1.6.8",
+  "version": "1.7.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {

@@ -1,3 +1,41 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.12.0 (2021-02-17)
+
+
+### Bug Fixes
+
+* max-length ignore imports ([6da909c](https://github.com/developer239/linters/commit/6da909c3de4618f11fb64ff12b17ac1648899974))
+* remove carets from dependency versions ([b74b8b3](https://github.com/developer239/linters/commit/b74b8b3b4c4c2e3afe3c1c9130262844ae515364))
+* remove unused imports plugin ([0442ac2](https://github.com/developer239/linters/commit/0442ac25bd06d7f9dd7d682e6b82b203fbfa8596))
+* test files override path ([03069c5](https://github.com/developer239/linters/commit/03069c5dad360fd857e2fdd8dff4ea97ca68ce9e))
+
+
+### Features
+
+* add semantic-release to eslint-config ([d51fb68](https://github.com/developer239/linters/commit/d51fb681c420c98bb8386e70bff954353e357eb6))
+* bump dependencies 💣 ([9a81b77](https://github.com/developer239/linters/commit/9a81b773be6e80179c959a4672a7e037721bbd5c))
+* flatten project structure ([c6af765](https://github.com/developer239/linters/commit/c6af765b1de34223f2703e128c80838f0cb9e0fd))
+* make more libraries up-to-date ([bf166f9](https://github.com/developer239/linters/commit/bf166f9d7432b41588f7d7d883248273fcf9c03f))
+* mass release all packages ([a7ab198](https://github.com/developer239/linters/commit/a7ab198fe829a1621f9dcb6c4adf04d406331b9e))
+* move packages back to packages folder ([7567c72](https://github.com/developer239/linters/commit/7567c72db65a8fbe356e72fe59d8ba2c64e13305))
+* remove eslint-plugin-unused-imports ([453ef30](https://github.com/developer239/linters/commit/453ef30132c00215356a38e7f1dbf97bedd8eede))
+* test deploy eslint config ([07cdfc1](https://github.com/developer239/linters/commit/07cdfc1918d7c9ee2e37da3fc4e93c784d9775e8))
+* trigger release ([30665f7](https://github.com/developer239/linters/commit/30665f775f98d93c7ebf6727ca09540b31a5a45c))
+* turn off some rules in test files ([0dd68f6](https://github.com/developer239/linters/commit/0dd68f61d4706816310e2ff0761ed2b2e862fd79))
+* update dependencies ([cc60ab3](https://github.com/developer239/linters/commit/cc60ab39ae9454b463be90b60bdc46d3285f51ad))
+* update dependencies ([1e094b1](https://github.com/developer239/linters/commit/1e094b137f6d74d3e9f930a0c90501a1a5b4034e))
+* update import/extensions rule ([ee293e4](https://github.com/developer239/linters/commit/ee293e4dd6b5c092ff7a7a3c244fad5b1a7b54cf))
+* update prefer-destructuring ([9d3eb6b](https://github.com/developer239/linters/commit/9d3eb6b0c306073c5f8a8631b94a497137f08ac2))
+* update rules ([bdd31a1](https://github.com/developer239/linters/commit/bdd31a1e65a6e68dca3232a216b5952fee893798))
+
+
+
+
+
 # [@linters/eslint-config-v1.11.2](https://github.com/developer239/linters/compare/@linters/eslint-config-v1.11.1...@linters/eslint-config-v1.11.2) (2021-02-02)
 
 
