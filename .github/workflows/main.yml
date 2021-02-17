@@ -38,7 +38,7 @@ jobs:
 
       - name: Bootstrap lerna
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
-        run: yarn lerna:bootstrapx
+        run: yarn lerna:bootstrap
 
       - name: Bump versions and publish packages
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
