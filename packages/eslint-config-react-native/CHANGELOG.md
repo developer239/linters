@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native@1.7.0...@linters/eslint-config-react-native@1.7.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* config react native dependencies ([dcded75](https://github.com/developer239/linters/commit/dcded75e22bc5172ffd9362632cd570e20e9ff1e))
+* lockfiles ([b61fb06](https://github.com/developer239/linters/commit/b61fb0660461496f73b8edf106040222433f0617))
+
+
+
+
+
 # 1.7.0 (2021-02-17)
 
 
