@@ -1,4 +1,4 @@
-# ESLint Config Ramda
+# ESLint Config Ramda 🐏
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [typescript](https://github.com/microsoft/TypeScript) applications.
 
