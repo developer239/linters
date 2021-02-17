@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.1](https://github.com/developer239/linters/compare/@linters/semantic-release@1.8.0...@linters/semantic-release@1.8.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* lockfiles ([2d8dad9](https://github.com/developer239/linters/commit/2d8dad915fb03aa7b5d5fb74a496d674d194dfea))
+
+
+
+
+
 # 1.8.0 (2021-02-17)
 
 
