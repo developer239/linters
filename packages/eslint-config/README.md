@@ -4,7 +4,7 @@
 
 ## Plugins
 
-This [configuration](https://github.com/developer239/linters/blob/master/packages/eslint/eslint-config/index.js) uses the following plugins:
+This [configuration](https://github.com/developer239/linters/blob/master/packages/eslint/eslint-config/index.js) uses these plugins:
 
 - [`eslint-plugin-import`](https://github.com/benmosher/eslint-plugin-import)
 - [`eslint-plugin-absolute-import`](https://github.com/mcclowes/eslint-plugin-absolute-import)
