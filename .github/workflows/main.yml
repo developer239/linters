@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        if: contains(github.event.commits[0].message, '[skip-ci]') == false
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
@@ -32,6 +31,7 @@ jobs:
         run: yarn install
 
       - name: Config git user
+        if: contains(github.event.commits[0].message, '[skip-ci]') == false
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
