@@ -93,20 +93,20 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@linters/eslint-config-react@1.8.4":
-  version "1.8.4"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.8.4.tgz#11a79f9968eef4326ec770a304f3e4b0619dfa63"
-  integrity sha512-bBNy0EVVmAAPzffxvetJtpMpusnnvh/xVKreTojA8QftI434HIAI2ZlrcohgU6BAKrvPZp21kM/IIhEEu7DgVQ==
+"@linters/eslint-config-react@^1.9.2":
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config-react/-/eslint-config-react-1.9.2.tgz#dc8d05f5f48159106b84556fee36e7c1236bd4e7"
+  integrity sha512-PQ77X5hkiKb1hUiKKUstAU8mTIiSL6sMCarj6mc4fXs5w/mFpeLsIOjAGIKAsKp9MpQtrBgLmOKA6XFgVItSHw==
   dependencies:
-    "@linters/eslint-config" "1.11.2"
+    "@linters/eslint-config" "^1.12.2"
     babel-eslint "10.1.0"
     eslint-plugin-react "7.22.0"
     eslint-plugin-react-hooks "4.2.0"
 
-"@linters/eslint-config@1.11.2":
-  version "1.11.2"
-  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.11.2.tgz#a08a1c3f4c01796873d6c1a1b113fe8435ef4f9f"
-  integrity sha512-AAsimY1G82RAxbOAsz2mZEgsPpcDwcITKxwDN7dCdWfJ+/77vhprwhNIQAzX1gP+AmRy7eugy8EpEM1NLvfuLw==
+"@linters/eslint-config@^1.12.2":
+  version "1.12.2"
+  resolved "https://registry.yarnpkg.com/@linters/eslint-config/-/eslint-config-1.12.2.tgz#885aacf0786995b5e5b86a59054ad1ab0e0dbb97"
+  integrity sha512-zZd6Nw0j5BZccFvmStFJCpfC7Ufa5fh4zi/vj41lBF8BH1LexYyzSAlNBEjcOCc5Ve7hH0RfQKtl/zhTBDLRgQ==
   dependencies:
     eslint-plugin-absolute-import "1.4.4"
     eslint-plugin-import "2.22.1"
