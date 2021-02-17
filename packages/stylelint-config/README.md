@@ -1,4 +1,4 @@
-# StyleLint Config
+# Style Lint Config
 
 [**stylelint**](https://github.com/stylelint/stylelint) modern linter that helps you avoid errors and enforce conventions in your styles.
 
