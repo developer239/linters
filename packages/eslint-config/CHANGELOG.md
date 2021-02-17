@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.2](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.1...@linters/eslint-config@1.12.2) (2021-02-17)
+
+
+### Bug Fixes
+
+* remove semantic release dev dependencies ([60e1211](https://github.com/developer239/linters/commit/60e1211e1c61ecd86de51e407b060163a1a0244d))
+
+
+
+
+
 ## [1.12.1](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.0...@linters/eslint-config@1.12.1) (2021-02-17)
 
 
