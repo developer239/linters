@@ -3,7 +3,7 @@
   "scripts": {
     "lerna:bootstrap": "lerna bootstrap",
     "lerna:version": "lerna version",
-    "lerna:publish": "lerna publish from-git"
+    "lerna:publish": "lerna publish from-package"
   },
   "devDependencies": {
     "lerna": "3.22.1"
