@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.1](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.0...@linters/eslint-config@1.12.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* lockfiles ([14222bf](https://github.com/developer239/linters/commit/14222bf19bf602696d9bf5de9944eec900602c80))
+* lockfiles ([d51d610](https://github.com/developer239/linters/commit/d51d6101bf8955e10d185e83f37906796844ba8f))
+
+
+
+
+
 # 1.12.0 (2021-02-17)
 
 
