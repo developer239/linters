@@ -40,9 +40,12 @@ jobs:
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
         run: yarn lerna:bootstrap
 
-      - name: Show diff
+      - name: Bootstrap lerna
         run: |
+          git status
           git diff HEAD
+          git add .
+          git commit -m "fix: lockfiles"
 
       - name: Bump versions and publish packages
         if: contains(github.event.commits[0].message, '[skip-ci]') == false
