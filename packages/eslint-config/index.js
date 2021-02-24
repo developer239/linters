@@ -310,7 +310,7 @@ module.exports = {
     'operator-linebreak': 0,
     'padded-blocks': ['error', 'never'],
     'prefer-object-spread': 'error',
-    'quote-props': ['error', 'consistent'],
+    'quote-props': 'off',
     quotes: ['error', 'single', 'avoid-escape'],
     semi: ['error', 'never'],
     'semi-spacing': [
