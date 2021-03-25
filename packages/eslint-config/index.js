@@ -444,7 +444,7 @@ module.exports = {
     },
     // Storybook
     {
-      files: ['*.stories.ts'],
+      files: ['*.stories.{ts,tsx}'],
       rules: {
         'import/no-default-export': 0,
         'require-await': 0,
