@@ -218,7 +218,7 @@ module.exports = {
       'error',
       {
         min: 2,
-        max: 30,
+        max: 40,
         exceptions: ['i', 'R', '_', '__'],
       },
     ],
