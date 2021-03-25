@@ -68,7 +68,7 @@ module.exports = {
     '@typescript-eslint/no-magic-numbers': 0,
     '@typescript-eslint/no-misused-new': 'error',
     '@typescript-eslint/no-misused-promises': 'error',
-    '@typescript-eslint/no-namespace': 0,
+    '@typescript-eslint/no-namespace': 'error',
     '@typescript-eslint/no-non-null-assertion': 1,
     '@typescript-eslint/no-parameter-properties': 0,
     '@typescript-eslint/no-require-imports': 1,
