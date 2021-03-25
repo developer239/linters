@@ -63,7 +63,7 @@ module.exports = {
     '@typescript-eslint/no-extra-parens': 0,
     '@typescript-eslint/no-extraneous-class': 0,
     '@typescript-eslint/no-floating-promises': 'error',
-    '@typescript-eslint/no-for-in-array': 0,
+    '@typescript-eslint/no-for-in-array': 'error',
     '@typescript-eslint/no-inferrable-types': 'error',
     '@typescript-eslint/no-magic-numbers': 0,
     '@typescript-eslint/no-misused-new': 'error',
