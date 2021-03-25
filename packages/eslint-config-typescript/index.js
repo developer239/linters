@@ -113,7 +113,7 @@ module.exports = {
     '@typescript-eslint/semi': ['error', 'never'],
     '@typescript-eslint/space-before-function-paren': 0,
     '@typescript-eslint/triple-slash-reference': 'error',
-    '@typescript-eslint/typedef': 0,
+    '@typescript-eslint/typedef': 1,
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unbound-method': 0,
     '@typescript-eslint/unified-signatures': 'error',
