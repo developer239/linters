@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.5...@linters/eslint-config@1.13.0) (2021-03-25)
+
+
+### Bug Fixes
+
+* ignore __REDUX_DEVTOOLS_EXTENSION_COMPOSE__ in no-underscore-dangle ([d08d7ff](https://github.com/developer239/linters/commit/d08d7ff366d96ba684739d30d321c2681e6148ae))
+* use storybook overrides in tsx files ([6af5b12](https://github.com/developer239/linters/commit/6af5b128513c635f1883ca19ae8b1f64ad5c80a3))
+
+
+### Features
+
+* set default-param-last to warning ([96ed893](https://github.com/developer239/linters/commit/96ed89364c452139ef032ea5850a411e7356e9dc))
+* turn off no-prototype-builtins ([c348165](https://github.com/developer239/linters/commit/c3481650ff45bf669df65f5a36cb94d28a7ac813))
+* update complexity to 10 ([2e5221f](https://github.com/developer239/linters/commit/2e5221fd63cbb8199fbed41e115f68fc31f462e9))
+* update id-length max to 40 ([1559474](https://github.com/developer239/linters/commit/1559474eedf0ce7f9f9e5299f89b3e67370636a1))
+* update max-nested-callbacks to 6 ([e65ef92](https://github.com/developer239/linters/commit/e65ef92099821f22bc2f794a65bb093b4c456221))
+
+
+
+
+
 ## [1.12.5](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.4...@linters/eslint-config@1.12.5) (2021-03-06)
 
 **Note:** Version bump only for package @linters/eslint-config

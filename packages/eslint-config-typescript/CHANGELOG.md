@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.14.5...@linters/eslint-config-typescript@1.15.0) (2021-03-25)
+
+
+### Bug Fixes
+
+* @typescript-eslint/no-unused-vars options ([4ac6db7](https://github.com/developer239/linters/commit/4ac6db794fbcb01fe88af78d1aca7470d8a14c9f))
+
+
+### Features
+
+* set @typescript-eslint/no-for-in-array to error ([be5fd70](https://github.com/developer239/linters/commit/be5fd709136322dd64f93a11bf946372fcdb1c6f))
+* set @typescript-eslint/no-namespace to error ([dfba09d](https://github.com/developer239/linters/commit/dfba09d91b1b304daf2895d300392b097fbd0b1b))
+* set @typescript-eslint/prefer-for-of to error ([7d01feb](https://github.com/developer239/linters/commit/7d01feb81affdfdfafd0707fae09ecc961999e3a))
+* set @typescript-eslint/triple-slash-reference to error ([ea97df7](https://github.com/developer239/linters/commit/ea97df784807893bf30a399f52fa41a37a830097))
+* set @typescript-eslint/typedef to warning ([1818cdd](https://github.com/developer239/linters/commit/1818cdd389e7b0b8928b3b67f78e80f0dee1d340))
+
+
+
+
+
 ## [1.14.5](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.14.4...@linters/eslint-config-typescript@1.14.5) (2021-03-06)
 
 **Note:** Version bump only for package @linters/eslint-config-typescript

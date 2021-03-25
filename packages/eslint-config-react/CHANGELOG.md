@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.9.5...@linters/eslint-config-react@1.10.0) (2021-03-25)
+
+
+### Features
+
+* update react/jsx-max-depth to 7 ([fc41417](https://github.com/developer239/linters/commit/fc4141714b12e2e4f33f535999c1a8544c0d8134))
+
+
+
+
+
 ## [1.9.5](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.9.4...@linters/eslint-config-react@1.9.5) (2021-03-06)
 
 **Note:** Version bump only for package @linters/eslint-config-react

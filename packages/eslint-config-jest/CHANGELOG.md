@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.2](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.8.1...@linters/eslint-config-jest@1.8.2) (2021-03-25)
+
+
+### Bug Fixes
+
+* ignore jest/expect-expect in cypress folder ([f21ca23](https://github.com/developer239/linters/commit/f21ca2325d844000e9818adbfeae1e669de7cef6))
+
+
+
+
+
 ## [1.8.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.8.0...@linters/eslint-config-jest@1.8.1) (2021-02-17)
 
 **Note:** Version bump only for package @linters/eslint-config-jest
