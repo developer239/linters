@@ -112,7 +112,7 @@ module.exports = {
     '@typescript-eslint/restrict-template-expressions': 0,
     '@typescript-eslint/semi': ['error', 'never'],
     '@typescript-eslint/space-before-function-paren': 0,
-    '@typescript-eslint/triple-slash-reference': 1,
+    '@typescript-eslint/triple-slash-reference': 'error',
     '@typescript-eslint/typedef': 0,
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unbound-method': 0,
