@@ -288,7 +288,10 @@ module.exports = {
     'no-plusplus': 'error',
     'no-tabs': 'error',
     'no-trailing-spaces': 'error',
-    'no-underscore-dangle': 'error',
+    'no-underscore-dangle': [
+      'error',
+      { allow: ['__REDUX_DEVTOOLS_EXTENSION_COMPOSE__'] },
+    ],
     'no-unneeded-ternary': 'error',
     'no-whitespace-before-property': 'error',
     'object-curly-newline': [
