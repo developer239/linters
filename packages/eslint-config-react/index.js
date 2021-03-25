@@ -122,7 +122,7 @@ module.exports = {
     'react/jsx-max-depth': [
       'error',
       {
-        max: 4,
+        max: 7,
       },
     ],
     'react/jsx-max-props-per-line': 0,
