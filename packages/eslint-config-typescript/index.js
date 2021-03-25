@@ -152,7 +152,12 @@ module.exports = {
     '@typescript-eslint/no-shadow': 2,
     '@typescript-eslint/no-unused-vars': [
       2,
-      { vars: 'all', args: 'after-used', ignoreRestSiblings: true },
+      {
+        vars: 'all',
+        args: 'after-used',
+        ignoreRestSiblings: true,
+        varsIgnorePattern: '^_',
+      },
     ],
   },
   overrides: [
