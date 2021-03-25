@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.15.0...@linters/eslint-config-typescript@1.15.1) (2021-03-25)
+
+
+### Bug Fixes
+
+* @typescript-eslint/no-unused-vars ignore ^_ ([43a8947](https://github.com/developer239/linters/commit/43a8947fa3ddced29ceeda7217729bde190ac2ad))
+
+
+
+
+
 # [1.15.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.14.5...@linters/eslint-config-typescript@1.15.0) (2021-03-25)
 
 
