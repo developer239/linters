@@ -8,6 +8,13 @@ module.exports = {
         'jest/globals': true,
       },
     },
+    // Don't expect expects in cypress
+    {
+      files: ['cypress/**/*.{ts,tsx}'],
+      rules: {
+        'jest/expect-expect': 0,
+      },
+    },
   ],
   rules: {
     //
