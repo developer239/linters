@@ -150,7 +150,10 @@ module.exports = {
     ],
     'no-shadow': 0,
     '@typescript-eslint/no-shadow': 2,
-    '@typescript-eslint/no-unused-vars': 2,
+    '@typescript-eslint/no-unused-vars': [
+      2,
+      { vars: 'all', args: 'after-used', ignoreRestSiblings: true },
+    ],
   },
   overrides: [
     // Storybook
