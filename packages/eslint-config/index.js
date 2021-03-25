@@ -41,7 +41,7 @@ module.exports = {
     'no-irregular-whitespace': 'error',
     'no-misleading-character-class': 'error',
     'no-obj-calls': 'error',
-    'no-prototype-builtins': 'error',
+    'no-prototype-builtins': 0,
     'no-regex-spaces': 'error',
     'no-setter-return': 'error',
     'no-sparse-arrays': 'error',
