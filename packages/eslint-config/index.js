@@ -66,7 +66,7 @@ module.exports = {
     'consistent-return': 1,
     curly: 'error',
     'default-case': 1,
-    'default-param-last': 'error',
+    'default-param-last': 1,
     'dot-notation': 'error',
     eqeqeq: 'error',
     'grouped-accessor-pairs': 'error',
