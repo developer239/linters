@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.2](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.15.1...@linters/eslint-config-typescript@1.15.2) (2021-10-11)
+
+**Note:** Version bump only for package @linters/eslint-config-typescript
+
+
+
+
+
 ## [1.15.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.15.0...@linters/eslint-config-typescript@1.15.1) (2021-03-25)
 
 

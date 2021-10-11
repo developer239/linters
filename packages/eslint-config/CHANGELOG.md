@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.13.1](https://github.com/developer239/linters/compare/@linters/eslint-config@1.13.0...@linters/eslint-config@1.13.1) (2021-10-11)
+
+
+### Bug Fixes
+
+* remove plugin absolute import ([502061c](https://github.com/developer239/linters/commit/502061cece27a5ba72d37afb2624f5549fc9d248))
+
+
+
+
+
 # [1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config@1.12.5...@linters/eslint-config@1.13.0) (2021-03-25)
 
 
