@@ -15,7 +15,6 @@
     "eslint": ">=6"
   },
   "dependencies": {
-    "eslint-plugin-absolute-import": "1.4.4",
     "eslint-plugin-import": "2.22.1"
   },
   "keywords": [

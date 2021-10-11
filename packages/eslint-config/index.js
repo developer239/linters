@@ -1,5 +1,5 @@
 module.exports = {
-  plugins: ['import', 'absolute-import'],
+  plugins: ['import'],
   settings: {
     'import/resolver': {
       node: {
@@ -371,12 +371,6 @@ module.exports = {
     'rest-spread-spacing': ['error', 'never'],
     'symbol-description': 'error',
     'template-curly-spacing': 'error',
-
-    //
-    // Eslint Plugin Absolute Import
-    //
-
-    'absolute-import/no-relative-path': 1,
 
     //
     // Eslint Plugin Import
