@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.9.0...@linters/eslint-config-jest@1.10.0) (2022-01-30)
+
+
+### Features
+
+* update jest eslint rules ([86704c2](https://github.com/developer239/linters/commit/86704c2094f4a5d9070d3f347e21425a96684599))
+
+
+
+
+
 # [1.9.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.8.2...@linters/eslint-config-jest@1.9.0) (2022-01-30)
 
 
