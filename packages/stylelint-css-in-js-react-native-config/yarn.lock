@@ -2,18 +2,6 @@
 # yarn lockfile v1
 
 
-"@linters/stylelint-config@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.4.2.tgz#79ae22ef735e24475d694c3c3e8b4e2444141e4b"
-  integrity sha512-+icb4yqguQ9kPEaleMx1STiR3b7VfPTT/k5IT+nLNxItV9FDZhWzbuIgl8OjmMMCV9oOKbbaLnFf3KDuJvrAiA==
-
-"@linters/stylelint-css-in-js-config@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@linters/stylelint-css-in-js-config/-/stylelint-css-in-js-config-1.4.2.tgz#29b362f5d05904a315f9506c465cd8cb5d894434"
-  integrity sha512-YDHPlBH00R8d6nsCaaGrcGvPe+7vvcJ3ljrzEAAKqtirmg0HzO9EzaMA/4KdX4W56lpDslLoFhxjOXq466eXDw==
-  dependencies:
-    "@linters/stylelint-config" "^1.4.2"
-
 react-native-known-styling-properties@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-native-known-styling-properties/-/react-native-known-styling-properties-1.1.0.tgz#04e961be62bfff64753b7fbbfb5d50af2f0e4421"
