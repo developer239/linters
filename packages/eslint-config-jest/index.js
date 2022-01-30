@@ -30,7 +30,7 @@ module.exports = {
     'jest/no-mocks-import': 0,
     'jest/no-done-callback': 0,
     'jest/no-test-prefixes': 'error',
-    'jest/valid-describe': 'error',
+    'jest/valid-describe-callback': 'error',
     'jest/valid-expect-in-promise': 'error',
     'jest/valid-expect': 'error',
 
@@ -39,7 +39,7 @@ module.exports = {
     //
 
     'jest/consistent-test-it': 'error',
-    'jest/lowercase-name': 'error',
+    'jest/prefer-lowercase-title': 0,
     'jest/no-hooks': 0,
     'jest/no-large-snapshots': 'error',
     'jest/no-test-return-statement': 'error',
@@ -56,8 +56,6 @@ module.exports = {
     //
 
     'jest/no-alias-methods': 'error',
-    'jest/prefer-to-be-null': 'error',
-    'jest/prefer-to-be-undefined': 'error',
     'jest/prefer-to-contain': 'error',
     'jest/prefer-to-have-length': 'error',
   },
