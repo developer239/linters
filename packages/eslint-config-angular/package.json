@@ -14,10 +14,10 @@
     "eslint": ">=6"
   },
   "dependencies": {
-    "@angular-eslint/builder": "1.1.0",
-    "@angular-eslint/eslint-plugin": "1.1.0",
-    "@angular-eslint/eslint-plugin-template": "1.1.0",
-    "@angular-eslint/template-parser": "1.1.0",
+    "@angular-eslint/builder": "13.0.1",
+    "@angular-eslint/eslint-plugin": "13.0.1",
+    "@angular-eslint/eslint-plugin-template": "13.0.1",
+    "@angular-eslint/template-parser": "13.0.1",
     "@linters/eslint-config-typescript": "^1.15.2"
   },
   "keywords": [

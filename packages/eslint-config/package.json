@@ -15,7 +15,7 @@
     "eslint": ">=6"
   },
   "dependencies": {
-    "eslint-plugin-import": "2.22.1"
+    "eslint-plugin-import": "2.25.4"
   },
   "keywords": [
     "eslint",

@@ -17,6 +17,6 @@
     "semantic-release"
   ],
   "dependencies": {
-    "@commitlint/config-conventional": "11.0.0"
+    "@commitlint/config-conventional": "16.0.0"
   }
 }
