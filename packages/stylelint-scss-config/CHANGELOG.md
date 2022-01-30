@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.5.2...@linters/stylelint-scss-config@1.6.0) (2022-01-30)
+
+
+### Bug Fixes
+
+* lock files ([5a2a0df](https://github.com/developer239/linters/commit/5a2a0df19535044034e1ea7f76a9ffb0121a145d))
+
+
+### Features
+
+* update dependencies ([4bb5087](https://github.com/developer239/linters/commit/4bb5087d3ac881b9b4fd92408fe854f79fb71fa1))
+
+
+
+
+
 ## [1.5.2](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.5.1...@linters/stylelint-scss-config@1.5.2) (2021-02-17)
 
 **Note:** Version bump only for package @linters/stylelint-scss-config

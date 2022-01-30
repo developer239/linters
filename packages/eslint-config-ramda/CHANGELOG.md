@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda@1.6.3...@linters/eslint-config-ramda@1.7.0) (2022-01-30)
+
+
+### Features
+
+* update dependencies ([4bb5087](https://github.com/developer239/linters/commit/4bb5087d3ac881b9b4fd92408fe854f79fb71fa1))
+
+
+
+
+
 ## [1.6.3](https://github.com/developer239/linters/compare/@linters/eslint-config-ramda@1.6.2...@linters/eslint-config-ramda@1.6.3) (2021-02-17)
 
 **Note:** Version bump only for package @linters/eslint-config-ramda

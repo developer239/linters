@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-storybook",
   "description": "The eslint for config for Storybook stories you have been looking for.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
