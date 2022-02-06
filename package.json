@@ -5,7 +5,9 @@
     "lerna:version": "lerna version",
     "lerna:publish": "lerna publish from-package",
     "format": "prettier --write 'packages/**/*.{js,md,json}'",
-    "lint:js": "eslint --ext .js packages"
+    "lint:js": "eslint --ext .js packages",
+    "fix:node_modules": "lerna exec -- rm -rf node_modules",
+    "fix:lockfiles": "npm run fix:node_modules && npm run lerna:bootstrap"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
