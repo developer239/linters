@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/developer239/linters/compare/@linters/stylelint-config@1.4.2...@linters/stylelint-config@1.5.0) (2022-02-06)
+
+
+### Features
+
+* update stylelint config ([e5e1786](https://github.com/developer239/linters/commit/e5e17865db2322fed04d38ebcc3ca11817f6ea79))
+
+
+
+
+
 ## [1.4.2](https://github.com/developer239/linters/compare/@linters/stylelint-config@1.4.1...@linters/stylelint-config@1.4.2) (2021-02-17)
 
 **Note:** Version bump only for package @linters/stylelint-config
