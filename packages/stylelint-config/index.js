@@ -6,7 +6,6 @@ module.exports = {
 
     'color-no-invalid-hex': true,
     'font-family-no-duplicate-names': true,
-    'function-calc-no-invalid': true,
     'function-calc-no-unspaced-operator': true,
     'function-linear-gradient-no-nonstandard-direction': true,
     'unit-no-unknown': true,

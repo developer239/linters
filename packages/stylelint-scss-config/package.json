@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@linters/stylelint-config": "^1.4.2",
+    "postcss-scss": "^4.0.3",
     "stylelint-config-rational-order": "0.1.2",
     "stylelint-scss": "4.1.0"
   },
