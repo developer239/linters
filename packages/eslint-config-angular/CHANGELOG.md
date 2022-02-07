@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.10.1](https://github.com/developer239/linters/compare/@linters/eslint-config-angular@1.10.0...@linters/eslint-config-angular@1.10.1) (2022-02-07)
+
+
+### Bug Fixes
+
+* angular config ([db88d01](https://github.com/developer239/linters/commit/db88d013243d7f644fd716297048b2b2a2b42d7c))
+* lockfile ([7b7b5e6](https://github.com/developer239/linters/commit/7b7b5e672a13762b347fdbccee9748116d115ac3))
+
+
+
+
+
 # [1.10.0](https://github.com/developer239/linters/compare/@linters/eslint-config-angular@1.9.0...@linters/eslint-config-angular@1.10.0) (2022-02-07)
 
 
