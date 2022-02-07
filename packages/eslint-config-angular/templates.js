@@ -1,6 +1,6 @@
 module.exports = {
   files: ['*.component.html'],
-  extends: ['plugin:@angular-eslint/template/process-inline-templates'],
+  plugins: ['@angular-eslint/template'],
   parser: '@angular-eslint/template-parser',
   rules: {
     '@angular-eslint/template/accessibility-alt-text': 1,

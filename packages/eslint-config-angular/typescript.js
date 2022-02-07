@@ -7,6 +7,7 @@ module.exports = {
   extends: [
     '@linters/eslint-config-typescript',
   ],
+  plugins: ['@typescript-eslint'],
   rules: {
     '@typescript-eslint/explicit-member-accessibility': [
       2,
