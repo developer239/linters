@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native@1.8.0...@linters/eslint-config-react-native@1.8.1) (2022-02-07)
+
+**Note:** Version bump only for package @linters/eslint-config-react-native
+
+
+
+
+
 # [1.8.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native@1.7.6...@linters/eslint-config-react-native@1.8.0) (2022-01-30)
 
 

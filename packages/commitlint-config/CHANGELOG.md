@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/developer239/linters/compare/@linters/commitlint-config@1.6.0...@linters/commitlint-config@1.7.0) (2022-02-07)
+
+
+### Features
+
+* make tools up-to-date ([b0819f2](https://github.com/developer239/linters/commit/b0819f2db5f21fcc3f9ce8689f34a31585e13fcb))
+
+
+
+
+
 # [1.6.0](https://github.com/developer239/linters/compare/@linters/commitlint-config@1.5.1...@linters/commitlint-config@1.6.0) (2022-01-30)
 
 
