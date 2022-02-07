@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-yarn add @linters/commitlint-config -D
+yarn add @commitlint/cli @linters/commitlint-config -D
 ```
 
 ## Usage

@@ -11,7 +11,7 @@ This configuration uses the following plugins:
 ## Install
 
 ```bash
-$ yarn add @linters/eslint-config-angular -D
+$ yarn add eslint @linters/eslint-config-angular -D
 ```
 
 ## Usage
@@ -22,18 +22,13 @@ special eslint rules too.
 Rename a _.eslintrc.json_ to _.eslintrc.js_ and replace its contents:
 
 ```js
-const typescript = require('@linters/eslint-config-angular/typescript')
-const components = require('@linters/eslint-config-angular/components')
-const templates = require('@linters/eslint-config-angular/templates')
-
 module.exports = {
-  root: true,
-  env: {
-    es6: true,
-  },
-  overrides: [typescript, components, templates],
+  extends: ['@linters/eslint-config-angular'],
 }
+
 ```
+
+## TSLint Projects
 
 Make sure that `lint` configuration in `angular.json` uses `@angular-eslint/builder`:
 

@@ -13,7 +13,7 @@ This [configuration](https://github.com/developer239/linters/blob/master/package
 ## Install
 
 ```bash
-$ yarn add eslint eslint-plugin-import @linters/eslint-config -D
+$ yarn add eslint @linters/eslint-config -D
 ```
 
 ## Usage

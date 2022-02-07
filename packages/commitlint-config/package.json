@@ -16,6 +16,9 @@
     "config",
     "semantic-release"
   ],
+  "peerDependencies": {
+    "@commitlint/cli": ">=16.0.0"
+  },
   "dependencies": {
     "@commitlint/config-conventional": "16.0.0"
   }

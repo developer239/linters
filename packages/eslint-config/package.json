@@ -12,7 +12,7 @@
     "npm": ">=6"
   },
   "peerDependencies": {
-    "eslint": ">=6"
+    "eslint": ">=8.0.0"
   },
   "dependencies": {
     "eslint-plugin-import": "2.25.4"
