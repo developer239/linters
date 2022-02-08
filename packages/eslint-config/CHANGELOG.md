@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.1](https://github.com/developer239/linters/compare/@linters/eslint-config@1.15.0...@linters/eslint-config@1.15.1) (2022-02-08)
+
+
+### Bug Fixes
+
+* codebase ([f7d8d75](https://github.com/developer239/linters/commit/f7d8d75480c764a40786a7bd12a29bd86233f60b))
+
+
+
+
+
 # [1.15.0](https://github.com/developer239/linters/compare/@linters/eslint-config@1.14.0...@linters/eslint-config@1.15.0) (2022-02-07)
 
 

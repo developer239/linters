@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.7.0...@linters/stylelint-scss-config@1.8.0) (2022-02-08)
+
+
+### Bug Fixes
+
+* codebase ([f7d8d75](https://github.com/developer239/linters/commit/f7d8d75480c764a40786a7bd12a29bd86233f60b))
+
+
+### Features
+
+* make more package up-to-date ([3225dff](https://github.com/developer239/linters/commit/3225dff73d8179678ca9220975a4659887a2f2aa))
+
+
+
+
+
 # [1.7.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.6.0...@linters/stylelint-scss-config@1.7.0) (2022-02-06)
 
 

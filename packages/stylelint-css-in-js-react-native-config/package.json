@@ -1,7 +1,7 @@
 {
   "name": "@linters/stylelint-css-in-js-react-native-config",
   "description": "The style lint config for react native applications you have been looking for.",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
@@ -12,7 +12,7 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@linters/stylelint-css-in-js-config": "^1.4.3",
+    "@linters/stylelint-css-in-js-config": "^1.5.0",
     "stylelint-react-native": "2.4.0"
   },
   "peerDependencies": {
