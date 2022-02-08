@@ -12,8 +12,7 @@
     "npm": ">=6"
   },
   "peerDependencies": {
-    "eslint": ">=6",
-    "eslint-plugin-import": ">=2.18.0"
+    "eslint": ">=8.0.0"
   },
   "dependencies": {
     "@linters/eslint-config": "^1.15.0",

@@ -13,11 +13,10 @@
   },
   "peerDependencies": {
     "@babel/core": ">=7.0.0",
-    "eslint": ">=8.0.0",
-    "eslint-plugin-import": ">=2.18.0"
+    "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@babel/eslint-parser": "^7.17.0",
+    "@babel/eslint-parser": "7.17.0",
     "@linters/eslint-config": "^1.15.0",
     "eslint-plugin-react": "7.28.0",
     "eslint-plugin-react-hooks": "4.3.0"

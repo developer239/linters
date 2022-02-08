@@ -12,7 +12,7 @@
     "npm": ">=6"
   },
   "peerDependencies": {
-    "semantic-release": ">=15"
+    "semantic-release": ">=19.0.0"
   },
   "dependencies": {
     "@semantic-release/changelog": "6.0.1",

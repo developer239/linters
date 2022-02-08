@@ -9,6 +9,7 @@ module.exports = {
     es6: true,
   },
   parserOptions: {
+    requireConfigFile: false,
     ecmaVersion: 2018,
     sourceType: 'module',
     ecmaFeatures: {
