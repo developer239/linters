@@ -12,7 +12,7 @@ This configuration uses the following plugins:
 ## Install
 
 ```bash
-$ yarn add eslint eslint-plugin-import @linters/eslint-config-react-native -D
+$ yarn add eslint @linters/eslint-config-react-native -D
 ```
 
 ## Usage

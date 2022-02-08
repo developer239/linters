@@ -15,7 +15,7 @@
     "@linters/stylelint-config": "^1.6.0"
   },
   "peerDependencies": {
-    "prettier": ">=2.0.0"
+    "stylelint": "<14.0.0"
   },
   "keywords": [
     "config",
