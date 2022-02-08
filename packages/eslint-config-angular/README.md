@@ -54,5 +54,4 @@ Rename a _.eslintrc.json_ to _.eslintrc.js_ and replace its contents:
 module.exports = {
   extends: ['@linters/eslint-config-angular'],
 }
-
 ```

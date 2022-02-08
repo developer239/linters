@@ -62,13 +62,13 @@ module.exports = {
     'array-callback-return': 'error',
     'block-scoped-var': 'error',
     'class-methods-use-this': 0,
-    complexity: ['error', 10],
+    'complexity': ['error', 10],
     'consistent-return': 1,
-    curly: 'error',
+    'curly': 'error',
     'default-case': 1,
     'default-param-last': 1,
     'dot-notation': 'error',
-    eqeqeq: 'error',
+    'eqeqeq': 'error',
     'grouped-accessor-pairs': 'error',
     'guard-for-in': 'error',
     'max-classes-per-file': 0,
@@ -131,12 +131,12 @@ module.exports = {
     'prefer-named-capture-group': 'warn',
     'prefer-promise-reject-errors': 'error',
     'prefer-regex-literals': 'warn',
-    radix: 'error',
+    'radix': 'error',
     'require-await': 'error',
     'require-unicode-regexp': 'error',
     'vars-on-top': 'error',
     'wrap-iife': 'error',
-    yoda: 'error',
+    'yoda': 'error',
 
     //
     // Variables
@@ -180,7 +180,7 @@ module.exports = {
         allowSingleLine: true,
       },
     ],
-    camelcase: 'warn',
+    'camelcase': 'warn',
     'capitalized-comments': 0,
     'comma-dangle': [
       'error',
@@ -222,7 +222,7 @@ module.exports = {
         exceptions: ['i', 'R', '_', '__'],
       },
     ],
-    indent: 0,
+    'indent': 0,
     'key-spacing': [
       'error',
       {
@@ -314,8 +314,8 @@ module.exports = {
     'padded-blocks': ['error', 'never'],
     'prefer-object-spread': 'error',
     'quote-props': 'off',
-    quotes: ['error', 'single', 'avoid-escape'],
-    semi: ['error', 'never'],
+    'quotes': ['error', 'single', 'avoid-escape'],
+    'semi': ['error', 'never'],
     'semi-spacing': [
       'error',
       {

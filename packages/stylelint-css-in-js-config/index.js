@@ -1,7 +1,5 @@
 module.exports = {
-  extends: [
-    '@linters/stylelint-config',
-  ],
+  extends: ['@linters/stylelint-config'],
   rules: {
     //
     // Turn off base rules
@@ -28,5 +26,5 @@ module.exports = {
     'function-name-case': null,
     'value-keyword-case': null,
     'no-empty-first-line': null,
-  }
+  },
 }

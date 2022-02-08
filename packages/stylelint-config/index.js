@@ -90,8 +90,8 @@ module.exports = {
     'selector-no-qualifying-type': true,
     'selector-pseudo-element-colon-notation': 'double',
 
-    indentation: 2,
-    linebreaks: 'unix',
+    'indentation': 2,
+    'linebreaks': 'unix',
     'max-empty-lines': 1,
     'max-line-length': 150,
     'no-eol-whitespace': true,

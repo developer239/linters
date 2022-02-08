@@ -1,6 +1,6 @@
-const typescript = require('./typescript')
 const components = require('./components')
 const templates = require('./templates')
+const typescript = require('./typescript')
 
 module.exports = {
   root: true,

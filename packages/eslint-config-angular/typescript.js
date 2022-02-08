@@ -4,9 +4,7 @@ module.exports = {
     project: ['tsconfig.*?.json'],
     createDefaultProgram: true,
   },
-  extends: [
-    '@linters/eslint-config-typescript',
-  ],
+  extends: ['@linters/eslint-config-typescript'],
   plugins: ['@angular-eslint'],
   rules: {
     '@typescript-eslint/explicit-member-accessibility': [
