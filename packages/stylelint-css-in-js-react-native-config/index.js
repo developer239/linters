@@ -6,7 +6,7 @@ module.exports = {
     // Disable base rules
     //
 
-    'unit-blacklist': ['rem'],
+    'unit-blacklist': 0,
 
     //
     // React Native Plugin

@@ -1,6 +1,12 @@
+const config = require('@linters/stylelint-config')
+
+delete config.rules['unit-disallowed-list']
+delete config.rules['media-feature-name-disallowed-list']
+
 module.exports = {
-  extends: ['@linters/stylelint-config'],
+  ...config,
   rules: {
+    ...config.rules,
     //
     // Turn off base rules
     //
