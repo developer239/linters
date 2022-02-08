@@ -1,6 +1,6 @@
 # Eslint Config React
 
-[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [react](https://github.com/facebook/react) applications.
+[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [React](https://github.com/facebook/react) applications.
 
 ## Plugins
 
@@ -13,7 +13,7 @@ This configuration uses the following plugins:
 ## Install
 
 ```bash
-$ yarn add eslint eslint-plugin-import @linters/eslint-config-react -D
+$ yarn add eslint @linters/eslint-config-react -D
 ```
 
 ## Usage

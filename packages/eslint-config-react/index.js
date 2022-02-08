@@ -2,7 +2,7 @@ const base = require('@linters/eslint-config')
 
 module.exports = {
   extends: require.resolve('@linters/eslint-config'),
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
   plugins: ['react', 'react-hooks'],
   env: {
     browser: true,
