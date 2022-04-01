@@ -176,6 +176,11 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@linters/stylelint-config@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.6.1.tgz#fc690bc4a1126fd3a44904dea4204a5a95c7e846"
+  integrity sha512-z31UBXw8V0TTWsajSVroy81yposq1DGGQ76u4y7TIqG9cAYaXbijkMsDgUJ3vn1g8/YJzxZrZTZO+QdMGTsjfg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -1485,9 +1490,9 @@ minimist-options@^3.0.1:
     is-plain-obj "^1.1.0"
 
 minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
