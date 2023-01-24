@@ -176,6 +176,11 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@linters/stylelint-config@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.6.1.tgz#fc690bc4a1126fd3a44904dea4204a5a95c7e846"
+  integrity sha512-z31UBXw8V0TTWsajSVroy81yposq1DGGQ76u4y7TIqG9cAYaXbijkMsDgUJ3vn1g8/YJzxZrZTZO+QdMGTsjfg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -1748,10 +1753,10 @@ postcss-scss@^2.0.0:
   dependencies:
     postcss "^7.0.6"
 
-postcss-scss@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/postcss-scss/-/postcss-scss-4.0.3.tgz#36c23c19a804274e722e83a54d20b838ab4767ac"
-  integrity sha512-j4KxzWovfdHsyxwl1BxkUal/O4uirvHgdzMKS1aWJBAV0qh2qj5qAZqpeBfVUYGWv+4iK9Az7SPyZ4fyNju1uA==
+postcss-scss@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/postcss-scss/-/postcss-scss-4.0.6.tgz#5d62a574b950a6ae12f2aa89b60d63d9e4432bfd"
+  integrity sha512-rLDPhJY4z/i4nVFZ27j9GqLxj1pwxE80eAzUNRMXtcpipFYIeowerzBgG3yJhMtObGEXidtIgbUpQ3eLDsf5OQ==
 
 postcss-selector-parser@^3.1.0:
   version "3.1.2"
@@ -2182,10 +2187,10 @@ stylelint-order@^2.2.1:
     postcss "^7.0.2"
     postcss-sorting "^4.1.0"
 
-stylelint-scss@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-4.1.0.tgz#39b808696f8152081163d970449257ff80b5c041"
-  integrity sha512-BNYTo7MMamhFOlcaAWp2dMpjg6hPyM/FFqfDIYzmYVLMmQJqc8lWRIiTqP4UX5bresj9Vo0dKC6odSh43VP2NA==
+stylelint-scss@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-4.3.0.tgz#638800faf823db11fff60d537c81051fe74c90fa"
+  integrity sha512-GvSaKCA3tipzZHoz+nNO7S02ZqOsdBzMiCx9poSmLlb3tdJlGddEX/8QzCOD8O7GQan9bjsvLMsO5xiw6IhhIQ==
   dependencies:
     lodash "^4.17.21"
     postcss-media-query-parser "^0.2.3"

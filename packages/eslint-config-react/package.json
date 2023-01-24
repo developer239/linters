@@ -16,10 +16,10 @@
     "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@babel/eslint-parser": "7.17.0",
+    "@babel/eslint-parser": "7.19.1",
     "@linters/eslint-config": "^1.15.1",
-    "eslint-plugin-react": "7.28.0",
-    "eslint-plugin-react-hooks": "4.3.0"
+    "eslint-plugin-react": "7.32.1",
+    "eslint-plugin-react-hooks": "4.6.0"
   },
   "keywords": [
     "eslint",
