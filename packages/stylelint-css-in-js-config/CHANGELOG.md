@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.4](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.3...@linters/stylelint-css-in-js-config@1.5.4) (2023-01-24)
+
+
+### Bug Fixes
+
+* add ucommited changes ([20d4de5](https://github.com/developer239/linters/commit/20d4de5efb524710af16f5236a9bb0575a81335a))
+
+
+
+
+
 ## [1.5.3](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.2...@linters/stylelint-css-in-js-config@1.5.3) (2022-02-08)
 
 **Note:** Version bump only for package @linters/stylelint-css-in-js-config

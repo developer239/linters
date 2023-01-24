@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.2](https://github.com/developer239/linters/compare/@linters/stylelint-config@1.6.1...@linters/stylelint-config@1.6.2) (2023-01-24)
+
+
+### Bug Fixes
+
+* add ucommited changes ([20d4de5](https://github.com/developer239/linters/commit/20d4de5efb524710af16f5236a9bb0575a81335a))
+
+
+
+
+
 ## [1.6.1](https://github.com/developer239/linters/compare/@linters/stylelint-config@1.6.0...@linters/stylelint-config@1.6.1) (2022-02-08)
 
 

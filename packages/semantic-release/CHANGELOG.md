@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0](https://github.com/developer239/linters/compare/@linters/semantic-release@1.10.0...@linters/semantic-release@1.11.0) (2023-01-24)
+
+
+### Features
+
+* update dependencies ([90090a3](https://github.com/developer239/linters/commit/90090a3cfe7279901f8b69f2bf85a70a479280a6))
+
+
+
+
+
 # [1.10.0](https://github.com/developer239/linters/compare/@linters/semantic-release@1.9.0...@linters/semantic-release@1.10.0) (2022-02-08)
 
 

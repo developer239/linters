@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/developer239/linters/compare/@linters/prettier-config@1.4.0...@linters/prettier-config@1.4.1) (2023-01-24)
+
+
+### Bug Fixes
+
+* add ucommited changes ([20d4de5](https://github.com/developer239/linters/commit/20d4de5efb524710af16f5236a9bb0575a81335a))
+
+
+
+
+
 # [1.4.0](https://github.com/developer239/linters/compare/@linters/prettier-config@1.3.2...@linters/prettier-config@1.4.0) (2022-02-08)
 
 

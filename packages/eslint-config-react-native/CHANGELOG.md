@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native@1.8.4...@linters/eslint-config-react-native@1.9.0) (2023-01-24)
+
+
+### Bug Fixes
+
+* lockfiles ([58701c4](https://github.com/developer239/linters/commit/58701c442006eba3bfffcbac87825ed4c37ded0d))
+* semantic release lockfile ([3b4971c](https://github.com/developer239/linters/commit/3b4971cf436ac396027583aa3976f2ec18a82d53))
+
+
+### Features
+
+* update dependencies ([90090a3](https://github.com/developer239/linters/commit/90090a3cfe7279901f8b69f2bf85a70a479280a6))
+
+
+
+
+
 ## [1.8.4](https://github.com/developer239/linters/compare/@linters/eslint-config-react-native@1.8.3...@linters/eslint-config-react-native@1.8.4) (2022-02-08)
 
 
