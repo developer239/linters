@@ -26,7 +26,6 @@ module.exports = {
     'jest/no-focused-tests': 'error',
     'jest/no-identical-title': 'error',
     'jest/no-jasmine-globals': 'error',
-    'jest/no-jest-import': 'error',
     'jest/no-mocks-import': 0,
     'jest/no-done-callback': 0,
     'jest/no-test-prefixes': 'error',
