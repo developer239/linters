@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "@linters/eslint-config": "^1.15.1",
-    "@typescript-eslint/eslint-plugin": "5.10.1",
-    "@typescript-eslint/parser": "5.10.1",
-    "eslint-import-resolver-typescript": "2.5.0"
+    "@typescript-eslint/eslint-plugin": "5.49.0",
+    "@typescript-eslint/parser": "5.49.0",
+    "eslint-import-resolver-typescript": "3.5.3"
   },
   "keywords": [
     "eslint",

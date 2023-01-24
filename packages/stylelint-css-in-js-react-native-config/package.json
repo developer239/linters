@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@linters/stylelint-css-in-js-config": "^1.5.3",
-    "stylelint-react-native": "2.4.0"
+    "stylelint-react-native": "2.5.0"
   },
   "peerDependencies": {
     "stylelint": "<14.0.0"

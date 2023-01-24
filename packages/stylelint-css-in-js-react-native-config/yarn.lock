@@ -2,14 +2,26 @@
 # yarn lockfile v1
 
 
-react-native-known-styling-properties@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-known-styling-properties/-/react-native-known-styling-properties-1.1.0.tgz#04e961be62bfff64753b7fbbfb5d50af2f0e4421"
-  integrity sha512-VYR9Sy0VV/v43OzkojCDRQ85HIfwM+hJ8x9avdEMRZ5s68Lmfsy+U4u85LNOYbrMKZ1zpZd4Zvk+vB0IW4LRmA==
+"@linters/stylelint-config@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.6.1.tgz#fc690bc4a1126fd3a44904dea4204a5a95c7e846"
+  integrity sha512-z31UBXw8V0TTWsajSVroy81yposq1DGGQ76u4y7TIqG9cAYaXbijkMsDgUJ3vn1g8/YJzxZrZTZO+QdMGTsjfg==
 
-stylelint-react-native@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/stylelint-react-native/-/stylelint-react-native-2.4.0.tgz#9044806f43c2aea10fba77b19e0a85d3a56103ea"
-  integrity sha512-7Wuls86IKoP8iymVyMP6t6LhjFc9H3n+0FRhD1fffPTCMz5gvcIWS4ehgzRHQE3uDXO2yzpnmbfgVXOp6Mka/w==
+"@linters/stylelint-css-in-js-config@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@linters/stylelint-css-in-js-config/-/stylelint-css-in-js-config-1.5.3.tgz#f297e7aa960bad60e3015581d9742c1b58c0cdb7"
+  integrity sha512-0wSGsqjKE/dh7R1OJe6TvL4yjqRTHSptITFUh86WlINmzgPtnku06fmCtz4af0i0b08VORg3nOopc45FxhnQrA==
   dependencies:
-    react-native-known-styling-properties "^1.1.0"
+    "@linters/stylelint-config" "^1.6.1"
+
+react-native-known-styling-properties@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-known-styling-properties/-/react-native-known-styling-properties-1.2.0.tgz#5370f87af605c6c516178bac4eb1493cdf160f36"
+  integrity sha512-nrsxo8t1FjMJILe9hoRC1WtfXw7gBs/Cq7Gcts8soDDhN0RjoFu9bJtphJGYC2fs9B2ANYOdEoP4B4tiinkwgw==
+
+stylelint-react-native@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/stylelint-react-native/-/stylelint-react-native-2.5.0.tgz#c9c5ab6d18dccf06700c4d742a6aba3eaec72b28"
+  integrity sha512-1o7uUd3HKtjfvi2lRhP1hwKJHXRdLT6LAgpG8WnNyNBmuP2K61OWKIimXapVtW/bWmcXakSiANDHtfO9xrXbWg==
+  dependencies:
+    react-native-known-styling-properties "^1.2.0"

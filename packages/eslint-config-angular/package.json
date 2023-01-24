@@ -15,9 +15,9 @@
     "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@angular-eslint/eslint-plugin": "13.0.1",
-    "@angular-eslint/eslint-plugin-template": "13.0.1",
-    "@angular-eslint/template-parser": "13.0.1",
+    "@angular-eslint/eslint-plugin": "15.2.0",
+    "@angular-eslint/eslint-plugin-template": "15.2.0",
+    "@angular-eslint/template-parser": "15.2.0",
     "@linters/eslint-config-typescript": "^1.17.0"
   },
   "keywords": [
