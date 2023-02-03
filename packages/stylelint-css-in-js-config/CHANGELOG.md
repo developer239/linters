@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.1](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.6.0...@linters/stylelint-css-in-js-config@1.6.1) (2023-02-03)
+
+
+### Bug Fixes
+
+* lock postcss-css-in-js version ([f61df29](https://github.com/developer239/linters/commit/f61df296b87b44f42f1a0b95ce7d9c9e267db23d))
+
+
+
+
+
 # [1.6.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.6...@linters/stylelint-css-in-js-config@1.6.0) (2023-02-03)
 
 
