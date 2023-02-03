@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.5](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.4...@linters/stylelint-css-in-js-config@1.5.5) (2023-02-03)
+
+
+### Bug Fixes
+
+* add stylelint-processor-styled-components ([9923c05](https://github.com/developer239/linters/commit/9923c05481ddc62e9b01c965d047e8159cd3e24a))
+
+
+
+
+
 ## [1.5.4](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.3...@linters/stylelint-css-in-js-config@1.5.4) (2023-01-24)
 
 
