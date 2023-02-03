@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.6...@linters/stylelint-css-in-js-config@1.6.0) (2023-02-03)
+
+
+### Bug Fixes
+
+* lockfile ([45526a0](https://github.com/developer239/linters/commit/45526a0e7d169d9cb3e7683da2ca194552c21a34))
+
+
+### Features
+
+* improve css in js configuration for RN and WEB ([126d91b](https://github.com/developer239/linters/commit/126d91b6ea25eb590fd7aa157df32d6c5858f015))
+
+
+
+
+
 ## [1.5.6](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-config@1.5.5...@linters/stylelint-css-in-js-config@1.5.6) (2023-02-03)
 
 
