@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.1](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.9.0...@linters/stylelint-scss-config@1.9.1) (2023-02-03)
+
+
+### Bug Fixes
+
+* explicitly install postcss as dependency ([648a1f1](https://github.com/developer239/linters/commit/648a1f1a13a7be051359268e4cd44763877e586c))
+* lockfile ([2f2668f](https://github.com/developer239/linters/commit/2f2668fb26c5e51fa5ccacea7dd148179f66a21e))
+
+
+
+
+
 # [1.9.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.8.1...@linters/stylelint-scss-config@1.9.0) (2023-01-24)
 
 
