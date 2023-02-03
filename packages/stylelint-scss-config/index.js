@@ -12,6 +12,9 @@ module.exports = {
 
         'at-rule-no-unknown': null,
         'selector-type-no-unknown': null,
+        'no-empty-source': null,
+        // TODO: fix false positive
+        'no-unknown-animations': null,
 
         //
         // Stylelint SCSS
