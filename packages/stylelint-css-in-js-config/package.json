@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@linters/stylelint-config": "^1.6.3",
-    "@stylelint/postcss-css-in-js": "^0.38.0",
+    "@stylelint/postcss-css-in-js": "0.38.0",
     "postcss": "^8.4.21",
     "postcss-syntax": "^0.36.2"
   },
