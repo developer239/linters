@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.9.1...@linters/stylelint-scss-config@1.10.0) (2023-02-03)
+
+
+### Features
+
+* update scss config ([6426694](https://github.com/developer239/linters/commit/6426694edf0270c09847bd43573415e92d0d0eb8))
+
+
+
+
+
 ## [1.9.1](https://github.com/developer239/linters/compare/@linters/stylelint-scss-config@1.9.0...@linters/stylelint-scss-config@1.9.1) (2023-02-03)
 
 
