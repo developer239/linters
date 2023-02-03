@@ -12,7 +12,7 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@linters/stylelint-css-in-js-config": "^1.5.5",
+    "@linters/stylelint-config": "^1.6.2",
     "stylelint-react-native": "2.5.0"
   },
   "peerDependencies": {
