@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.10.3](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config@1.10.2...@linters/stylelint-css-in-js-react-native-config@1.10.3) (2023-02-03)
+
+
+### Bug Fixes
+
+* stylelint-css-in-js-react-native-config ([b6e2703](https://github.com/developer239/linters/commit/b6e270320ee7753279a355d7713836d7ebb324b0))
+
+
+
+
+
 ## [1.10.2](https://github.com/developer239/linters/compare/@linters/stylelint-css-in-js-react-native-config@1.10.1...@linters/stylelint-css-in-js-react-native-config@1.10.2) (2023-02-03)
 
 
