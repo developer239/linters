@@ -12,5 +12,6 @@ module.exports = {
     'react-native/no-unused-styles': 'error',
     'react-native/sort-styles': 0,
     'react-native/split-platform-components': 'error',
+    'react/react-in-jsx-scope': 0,
   },
 }
