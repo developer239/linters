@@ -6,8 +6,6 @@ module.exports = {
     // Disable base rules
     //
 
-    'unit-blacklist': 0,
-
     //
     // React Native Plugin
     //
@@ -27,30 +25,6 @@ module.exports = {
     'property-no-vendor-prefix': true,
     'no-empty-source': null,
     'no-missing-end-of-source-newline': null,
-    'at-rule-whitelist': [
-      [],
-      {
-        severity: 'error',
-        message:
-          'this at-rule is not supported when using styled-components with React Native.',
-      },
-    ],
-    'unit-whitelist': [
-      ['px', 'deg', '%'],
-      {
-        severity: 'error',
-        message:
-          'this unit is not supported when using styled-components with React Native.',
-      },
-    ],
-    'selector-pseudo-class-whitelist': [
-      [],
-      {
-        severity: 'error',
-        message:
-          'pseudo class selectors are not supported when using styled-components with React Native.',
-      },
-    ],
     // stylelint-processor-styled-components creates
     // a wrapping class selector for the component.
     'selector-max-class': [
