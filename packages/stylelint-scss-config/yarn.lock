@@ -230,11 +230,6 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@linters/stylelint-config@^1.6.2":
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/@linters/stylelint-config/-/stylelint-config-1.6.2.tgz#66ca0fd9d47700f19b133df0bdcb394b5bb223e3"
-  integrity sha512-9u7afkdVOfsLy9nbzu+fTzBmOHGS5hBk5VlhPlwDy8AO7xB0tIV3rew4hOaPGYRHurpYf+QHXxWaD7MNM7blDQ==
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
