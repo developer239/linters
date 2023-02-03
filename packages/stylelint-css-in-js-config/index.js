@@ -5,6 +5,7 @@ delete config.rules['media-feature-name-disallowed-list']
 
 module.exports = {
   ...config,
+  processors: ['stylelint-processor-styled-components'],
   rules: {
     ...config.rules,
     //

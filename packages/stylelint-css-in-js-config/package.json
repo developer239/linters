@@ -12,7 +12,8 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@linters/stylelint-config": "^1.6.2"
+    "@linters/stylelint-config": "^1.6.2",
+    "stylelint-processor-styled-components": "^1.10.0"
   },
   "peerDependencies": {
     "stylelint": "<14.0.0"
