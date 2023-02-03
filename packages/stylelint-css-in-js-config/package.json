@@ -1,7 +1,7 @@
 {
   "name": "@linters/stylelint-css-in-js-config",
   "description": "The css-in-js config you have been looking for.",
-  "version": "1.5.6",
+  "version": "1.5.5",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@linters/stylelint-config": "^1.6.3",
-    "stylelint-processor-styled-components": "^1.10.0"
+    "@stylelint/postcss-css-in-js": "^0.38.0",
+    "postcss": "^8.4.21",
+    "postcss-syntax": "^0.36.2"
   },
   "peerDependencies": {
     "stylelint": ">=14.0.0"
