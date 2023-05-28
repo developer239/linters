@@ -53,7 +53,7 @@ module.exports = {
         },
       },
     ],
-    '@typescript-eslint/member-ordering': 1,
+    '@typescript-eslint/member-ordering': 0,
     '@typescript-eslint/no-array-constructor': 'error',
     '@typescript-eslint/no-dynamic-delete': 'error',
     '@typescript-eslint/no-empty-function': 'error',
