@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.19.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.19.0...@linters/eslint-config-typescript@1.19.1) (2023-05-28)
+
+
+### Bug Fixes
+
+* turn off member ordering ([63785cc](https://github.com/developer239/linters/commit/63785ccb30d0cb05d257809aa210c5868aa8cf5d))
+
+
+
+
+
 # [1.19.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.18.0...@linters/eslint-config-typescript@1.19.0) (2023-05-28)
 
 
