@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.20.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.19.1...@linters/eslint-config-typescript@1.20.0) (2023-12-25)
+
+
+### Features
+
+* update eslint and typescript ([0968fb8](https://github.com/developer239/linters/commit/0968fb88f2f88fd357e46d89537d752708e4aa52))
+
+
+
+
+
 ## [1.19.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.19.0...@linters/eslint-config-typescript@1.19.1) (2023-05-28)
 
 
