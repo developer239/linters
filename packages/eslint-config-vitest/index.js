@@ -25,7 +25,6 @@ module.exports = {
       {
         maxSize: 50,
         inlineMaxSize: 0,
-        allowedSnapshots: [],
       },
     ],
     'vitest/no-mocks-import': 2,
@@ -42,7 +41,7 @@ module.exports = {
     'vitest/prefer-expect-resolves': 2,
     'vitest/prefer-hooks-in-order': 2,
     'vitest/prefer-hooks-on-top': 0,
-    'vitest/prefer-lowercase-title': 2,
+    'vitest/prefer-lowercase-title': 0,
     'vitest/prefer-mock-promise-shorthand': 2,
     'vitest/prefer-snapshot-hint': 0,
     'vitest/prefer-spy-on': 2,
