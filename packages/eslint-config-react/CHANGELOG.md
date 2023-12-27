@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.14.0...@linters/eslint-config-react@1.15.0) (2023-12-27)
+
+
+### Features
+
+* update eslint config react ([f557092](https://github.com/developer239/linters/commit/f557092290a5234a0bc7955a0f1dd1f80d3c96da))
+
+
+
+
+
 # [1.14.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.13.0...@linters/eslint-config-react@1.14.0) (2023-01-24)
 
 
