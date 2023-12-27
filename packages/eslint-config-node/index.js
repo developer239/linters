@@ -93,4 +93,12 @@ module.exports = {
     'security/detect-pseudoRandomBytes': 'error',
     'security/detect-unsafe-regex': 'error',
   },
+  overrides: [
+    {
+      files: ['*.{spec,test}.ts'],
+      rules: {
+        'node/no-unpublished-import': 0,
+      },
+    },
+  ],
 }
