@@ -85,7 +85,7 @@ module.exports = {
     'react/prefer-read-only-props': 'error',
     'react/prefer-stateless-function': 'error',
     'react/prop-types': 0,
-    'react/react-in-jsx-scope': 'error',
+    'react/react-in-jsx-scope': 0,
     'react/require-default-props': 'error',
     'react/require-optimization': 0,
     'react/require-render-return': 'error',
