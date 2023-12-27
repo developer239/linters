@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.12.0...@linters/eslint-config-node@1.13.0) (2023-12-27)
+
+
+### Features
+
+* turn off unpublished import in test files ([f545264](https://github.com/developer239/linters/commit/f545264a021843b8f1c3dfd38344184184cd0f1a))
+
+
+
+
+
 # [1.12.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.11.0...@linters/eslint-config-node@1.12.0) (2023-01-24)
 
 
