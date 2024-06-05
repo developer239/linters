@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.4](https://github.com/developer239/linters/compare/@linters/eslint-config-angular@1.12.3...@linters/eslint-config-angular@1.12.4) (2024-06-05)
+
+**Note:** Version bump only for package @linters/eslint-config-angular
+
+
+
+
+
 ## [1.12.3](https://github.com/developer239/linters/compare/@linters/eslint-config-angular@1.12.2...@linters/eslint-config-angular@1.12.3) (2023-12-25)
 
 **Note:** Version bump only for package @linters/eslint-config-angular

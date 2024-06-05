@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-angular",
   "description": "The eslint config for Angular applications you have been looking for.",
-  "version": "1.12.3",
+  "version": "1.12.4",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
@@ -18,7 +18,7 @@
     "@angular-eslint/eslint-plugin": "15.2.0",
     "@angular-eslint/eslint-plugin-template": "15.2.0",
     "@angular-eslint/template-parser": "15.2.0",
-    "@linters/eslint-config-typescript": "^1.20.0"
+    "@linters/eslint-config-typescript": "^1.20.1"
   },
   "keywords": [
     "eslint",

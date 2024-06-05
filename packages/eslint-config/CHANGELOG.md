@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.17.0](https://github.com/developer239/linters/compare/@linters/eslint-config@1.16.0...@linters/eslint-config@1.17.0) (2024-06-05)
+
+
+### Features
+
+* update base config rules ([4e602ac](https://github.com/developer239/linters/commit/4e602ac9d2555eb1dabc8b6410f031ff02b1d2c9))
+
+
+
+
+
 # [1.16.0](https://github.com/developer239/linters/compare/@linters/eslint-config@1.15.1...@linters/eslint-config@1.16.0) (2023-01-24)
 
 

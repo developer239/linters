@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.13.1](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.13.0...@linters/eslint-config-node@1.13.1) (2024-06-05)
+
+**Note:** Version bump only for package @linters/eslint-config-node
+
+
+
+
+
 # [1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.12.0...@linters/eslint-config-node@1.13.0) (2023-12-27)
 
 

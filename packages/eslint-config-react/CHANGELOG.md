@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.1](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.15.0...@linters/eslint-config-react@1.15.1) (2024-06-05)
+
+**Note:** Version bump only for package @linters/eslint-config-react
+
+
+
+
+
 # [1.15.0](https://github.com/developer239/linters/compare/@linters/eslint-config-react@1.14.0...@linters/eslint-config-react@1.15.0) (2023-12-27)
 
 

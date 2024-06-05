@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-react",
   "description": "The eslint configuration for react applications you have been looking for.",
-  "version": "1.15.0",
+  "version": "1.15.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "publishConfig": {
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "7.23.3",
-    "@linters/eslint-config": "^1.16.0",
+    "@linters/eslint-config": "^1.17.0",
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0"
   },
