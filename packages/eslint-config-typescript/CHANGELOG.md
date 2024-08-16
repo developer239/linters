@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.20.2](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.20.1...@linters/eslint-config-typescript@1.20.2) (2024-08-16)
+
+
+### Bug Fixes
+
+* only run ts rules on ts files ([0de8e16](https://github.com/developer239/linters/commit/0de8e1635405829be53f7d905ebe15edc0130ac8))
+
+
+
+
+
 ## [1.20.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.20.0...@linters/eslint-config-typescript@1.20.1) (2024-06-05)
 
 **Note:** Version bump only for package @linters/eslint-config-typescript
