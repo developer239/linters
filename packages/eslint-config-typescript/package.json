@@ -1,24 +1,24 @@
 {
   "name": "@linters/eslint-config-typescript",
   "description": "The typescript eslint configuration rules you have been looking for.",
-  "version": "1.20.2",
+  "version": "2.0.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
   "engines": {
-    "node": ">=12",
-    "npm": ">=6"
+    "node": ">=18.18.0"
   },
   "peerDependencies": {
-    "eslint": ">=8.0.0"
+    "eslint": ">=9.0.0",
+    "typescript": ">=5.0.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "^1.17.0",
-    "@typescript-eslint/eslint-plugin": "6.16.0",
-    "@typescript-eslint/parser": "6.16.0",
-    "eslint-import-resolver-typescript": "3.6.1"
+    "@linters/eslint-config": "2.0.0",
+    "typescript-eslint": "8.20.0",
+    "eslint-import-resolver-typescript": "3.7.0"
   },
   "keywords": [
     "eslint",
@@ -33,6 +33,7 @@
     "typecheck",
     "angular",
     "react",
-    "vue"
+    "vue",
+    "flat-config"
   ]
 }

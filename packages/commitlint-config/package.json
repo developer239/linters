@@ -1,13 +1,13 @@
 {
   "name": "@linters/commitlint-config",
   "description": "The commitlint config you have been looking for.",
-  "version": "1.8.0",
+  "version": "2.0.0",
   "repository": "https://github.com/developer239/linters",
   "engines": {
-    "node": ">=12",
-    "npm": ">=6"
+    "node": ">=18.18.0"
   },
   "main": "index.js",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
@@ -17,9 +17,9 @@
     "semantic-release"
   ],
   "peerDependencies": {
-    "@commitlint/cli": ">=16.0.0"
+    "@commitlint/cli": ">=19.0.0"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "17.4.2"
+    "@commitlint/config-conventional": "19.6.0"
   }
 }

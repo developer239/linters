@@ -1,23 +1,23 @@
 {
   "name": "@linters/eslint-config-node",
   "description": "The eslint configuration for node.js application you have been looking for.",
-  "version": "1.13.1",
+  "version": "2.0.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
   "engines": {
-    "node": ">=12",
-    "npm": ">=6"
+    "node": ">=18.18.0"
   },
   "peerDependencies": {
-    "eslint": ">=8.0.0"
+    "eslint": ">=9.0.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "^1.17.0",
-    "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-security": "1.6.0"
+    "@linters/eslint-config": "2.0.0",
+    "eslint-plugin-n": "17.15.1",
+    "eslint-plugin-security": "3.0.1"
   },
   "keywords": [
     "eslint",
@@ -29,6 +29,7 @@
     "basic",
     "typescript",
     "types",
-    "node"
+    "node",
+    "flat-config"
   ]
 }

@@ -1,21 +1,22 @@
 {
   "name": "@linters/eslint-config-vitest",
   "description": "The eslint for vitest tests you have been looking for.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
   "engines": {
-    "node": ">=12",
-    "npm": ">=6"
+    "node": ">=18.18.0"
   },
   "peerDependencies": {
-    "eslint": ">=8.0.0"
+    "eslint": ">=9.0.0"
   },
   "dependencies": {
-    "eslint-plugin-vitest": "0.3.20"
+    "@vitest/eslint-plugin": "1.1.25",
+    "@typescript-eslint/utils": "8.20.0"
   },
   "keywords": [
     "eslint",
@@ -27,6 +28,7 @@
     "typescript",
     "node",
     "react",
-    "react-native"
+    "react-native",
+    "flat-config"
   ]
 }

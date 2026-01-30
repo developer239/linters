@@ -1,21 +1,23 @@
 {
   "name": "@linters/eslint-config",
   "description": "The base eslint config you have been looking for.",
-  "version": "1.17.0",
+  "version": "2.0.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
   "engines": {
-    "node": ">=12",
-    "npm": ">=6"
+    "node": ">=18.18.0"
   },
   "peerDependencies": {
-    "eslint": ">=8.0.0"
+    "eslint": ">=9.0.0"
   },
   "dependencies": {
-    "eslint-plugin-import": "2.27.5"
+    "@eslint/js": "9.18.0",
+    "eslint-plugin-import-x": "4.6.1",
+    "globals": "15.14.0"
   },
   "keywords": [
     "eslint",
@@ -23,6 +25,7 @@
     "eslint-plugin-import",
     "semantic-release",
     "config",
-    "general"
+    "general",
+    "flat-config"
   ]
 }
