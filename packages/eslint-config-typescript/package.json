@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@linters/eslint-config": "2.0.0",
-    "typescript-eslint": "8.20.0",
-    "eslint-import-resolver-typescript": "3.7.0"
+    "typescript-eslint": "8.53.0",
+    "eslint-import-resolver-typescript": "4.4.4"
   },
   "keywords": [
     "eslint",
