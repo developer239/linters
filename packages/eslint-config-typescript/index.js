@@ -10,7 +10,10 @@ const typescriptRules = {
   'no-redeclare': 'off',
   'no-loop-func': 'off',
 
+  //
   // TypeScript-specific rules
+  //
+
   '@typescript-eslint/adjacent-overload-signatures': 'error',
   '@typescript-eslint/array-type': [
     'error',
@@ -22,15 +25,32 @@ const typescriptRules = {
   '@typescript-eslint/await-thenable': 'error',
   '@typescript-eslint/consistent-type-assertions': 'error',
   '@typescript-eslint/consistent-type-definitions': ['error', 'interface'],
-  '@typescript-eslint/explicit-function-return-type': 'off',
-  '@typescript-eslint/explicit-member-accessibility': 'off',
+  '@typescript-eslint/explicit-function-return-type': [
+    'error',
+    {
+      allowExpressions: true,
+      allowTypedFunctionExpressions: true,
+      allowHigherOrderFunctions: true,
+      allowDirectConstAssertionInArrowFunctions: true,
+      allowConciseArrowFunctionExpressionsStartingWithVoid: false,
+    },
+  ],
+  '@typescript-eslint/explicit-member-accessibility': [
+    'error',
+    {
+      accessibility: 'explicit',
+      overrides: {
+        constructors: 'no-public',
+      },
+    },
+  ],
   '@typescript-eslint/member-ordering': 'off',
   '@typescript-eslint/no-array-constructor': 'error',
   '@typescript-eslint/no-dynamic-delete': 'error',
   '@typescript-eslint/no-empty-function': 'error',
   '@typescript-eslint/no-empty-object-type': 'error',
   '@typescript-eslint/no-explicit-any': 'off',
-  '@typescript-eslint/no-extra-non-null-assertion': 'warn',
+  '@typescript-eslint/no-extra-non-null-assertion': 'error',
   '@typescript-eslint/no-extraneous-class': 'off',
   '@typescript-eslint/no-floating-promises': 'error',
   '@typescript-eslint/no-for-in-array': 'error',
@@ -39,7 +59,7 @@ const typescriptRules = {
   '@typescript-eslint/no-misused-promises': 'error',
   '@typescript-eslint/no-namespace': 'error',
   '@typescript-eslint/no-non-null-assertion': 'warn',
-  '@typescript-eslint/no-require-imports': 'warn',
+  '@typescript-eslint/no-require-imports': 'error',
   '@typescript-eslint/no-this-alias': [
     'error',
     {
@@ -48,7 +68,7 @@ const typescriptRules = {
   ],
   '@typescript-eslint/no-unnecessary-qualifier': 'error',
   '@typescript-eslint/no-unnecessary-type-arguments': 'error',
-  '@typescript-eslint/no-unnecessary-type-assertion': 'off',
+  '@typescript-eslint/no-unnecessary-type-assertion': 'error',
   '@typescript-eslint/no-use-before-define': [
     'error',
     {
@@ -116,6 +136,66 @@ const typescriptRules = {
       varsIgnorePattern: '^_',
     },
   ],
+  '@typescript-eslint/return-await': ['error', 'in-try-catch'],
+  '@typescript-eslint/parameter-properties': 'off',
+
+  //
+  // New rules for better type safety and AI code quality
+  //
+
+  // Catches dead code and impossible conditions
+  '@typescript-eslint/no-unnecessary-condition': 'error',
+  // Prevents void misuse
+  '@typescript-eslint/no-confusing-void-expression': [
+    'error',
+    {
+      ignoreArrowShorthand: true,
+      ignoreVoidOperator: true,
+    },
+  ],
+  // Forces explicit boolean checks
+  '@typescript-eslint/strict-boolean-expressions': [
+    'error',
+    {
+      allowString: false,
+      allowNumber: false,
+      allowNullableObject: true,
+      allowNullableBoolean: true,
+      allowNullableString: false,
+      allowNullableNumber: false,
+      allowAny: false,
+    },
+  ],
+  // Bans Function type
+  '@typescript-eslint/no-unsafe-function-type': 'error',
+  // Bans String, Number, Boolean wrapper types
+  '@typescript-eslint/no-wrapper-object-types': 'error',
+  // Catches redundant union types like string | any
+  '@typescript-eslint/no-redundant-type-constituents': 'error',
+  // Removes unnecessary empty exports
+  '@typescript-eslint/no-useless-empty-export': 'error',
+  // Only throw Error objects
+  '@typescript-eslint/only-throw-error': 'error',
+  // Removes unnecessary === true comparisons
+  '@typescript-eslint/no-unnecessary-boolean-literal-compare': 'error',
+  // Disallow void outside return types
+  '@typescript-eslint/no-invalid-void-type': 'error',
+  // Catches redundant a! ?? b
+  '@typescript-eslint/no-non-null-asserted-nullish-coalescing': 'error',
+  // Ensure all enum/union cases handled in switch
+  '@typescript-eslint/switch-exhaustiveness-check': 'error',
+  // Disallow any in function arguments
+  '@typescript-eslint/no-unsafe-argument': 'error',
+  // Disallow assigning any
+  '@typescript-eslint/no-unsafe-assignment': 'error',
+  // Disallow calling any
+  '@typescript-eslint/no-unsafe-call': 'error',
+  // Disallow member access on any
+  '@typescript-eslint/no-unsafe-member-access': 'error',
+  // Disallow returning any
+  '@typescript-eslint/no-unsafe-return': 'error',
+  // Configurable type banning
+  '@typescript-eslint/no-restricted-types': 'error',
 }
 
 const typescriptConfig = [
@@ -141,6 +221,7 @@ const typescriptConfig = [
     files: ['**/*.stories.{ts,tsx}'],
     rules: {
       '@typescript-eslint/require-await': 'off',
+      '@typescript-eslint/explicit-function-return-type': 'off',
     },
   },
   // Test files override
@@ -149,6 +230,13 @@ const typescriptConfig = [
     rules: {
       '@typescript-eslint/no-non-null-assertion': 'off',
       '@typescript-eslint/no-use-before-define': 'off',
+      '@typescript-eslint/no-unsafe-assignment': 'off',
+      '@typescript-eslint/no-unsafe-member-access': 'off',
+      '@typescript-eslint/no-unsafe-call': 'off',
+      '@typescript-eslint/no-unsafe-argument': 'off',
+      '@typescript-eslint/no-unsafe-return': 'off',
+      '@typescript-eslint/explicit-function-return-type': 'off',
+      '@typescript-eslint/explicit-member-accessibility': 'off',
     },
   },
 ]

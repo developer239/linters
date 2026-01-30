@@ -223,6 +223,7 @@ const baseRules = {
   'prefer-rest-params': 'error',
   'prefer-template': 'error',
   'symbol-description': 'error',
+  'no-new-symbol': 'error',
 
   //
   // Eslint Plugin Import-X
