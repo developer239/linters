@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.13.1...@linters/eslint-config-node@2.1.0) (2026-01-30)
+
+
+### Bug Fixes
+
+* lockfiles ([abf890b](https://github.com/developer239/linters/commit/abf890b4e272b30e541ce6319c5a62fd6fa3177e))
+
+
+### Features
+
+* update eslint ([60d73ba](https://github.com/developer239/linters/commit/60d73ba22bb01bd7d90bd3964e84e235deeea7c8))
+
+
+
+
+
 ## [1.13.1](https://github.com/developer239/linters/compare/@linters/eslint-config-node@1.13.0...@linters/eslint-config-node@1.13.1) (2024-06-05)
 
 **Note:** Version bump only for package @linters/eslint-config-node

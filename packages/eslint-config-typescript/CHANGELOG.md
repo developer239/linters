@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.20.2...@linters/eslint-config-typescript@2.1.0) (2026-01-30)
+
+
+### Bug Fixes
+
+* lockfiles ([abf890b](https://github.com/developer239/linters/commit/abf890b4e272b30e541ce6319c5a62fd6fa3177e))
+
+
+### Features
+
+* more eslint rules ([77ce239](https://github.com/developer239/linters/commit/77ce23968f26e464cdb34b2b8494bb7bbc9063a6))
+* update eslint ([60d73ba](https://github.com/developer239/linters/commit/60d73ba22bb01bd7d90bd3964e84e235deeea7c8))
+
+
+
+
+
 ## [1.20.2](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@1.20.1...@linters/eslint-config-typescript@1.20.2) (2024-08-16)
 
 

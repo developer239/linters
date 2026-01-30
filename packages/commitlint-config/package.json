@@ -1,7 +1,7 @@
 {
   "name": "@linters/commitlint-config",
   "description": "The commitlint config you have been looking for.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/developer239/linters",
   "engines": {
     "node": ">=18.18.0"

@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-node",
   "description": "The eslint configuration for node.js application you have been looking for.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,7 @@
     "eslint": ">=9.0.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "2.0.0",
+    "@linters/eslint-config": "^2.1.0",
     "eslint-plugin-n": "17.23.2",
     "eslint-plugin-security": "3.0.1"
   },
