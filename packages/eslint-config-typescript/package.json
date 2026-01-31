@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-typescript",
   "description": "The typescript eslint configuration rules you have been looking for.",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "type": "module",
@@ -16,7 +16,7 @@
     "typescript": ">=5.0.0"
   },
   "dependencies": {
-    "@linters/eslint-config": "^2.1.0",
+    "@linters/eslint-config": "^2.1.1",
     "eslint-import-resolver-typescript": "4.4.4",
     "typescript-eslint": "8.53.0"
   },

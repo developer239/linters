@@ -1,7 +1,7 @@
 {
   "name": "@linters/prettier-config",
   "description": "The prettier config you have been looking for.",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "type": "module",
