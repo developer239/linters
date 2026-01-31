@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.12.1...@linters/eslint-config-jest@1.13.0) (2026-01-31)
+
+
+### Features
+
+* improve docs ([fe5832b](https://github.com/developer239/linters/commit/fe5832b0d170e059ff9773003aeb3d96cfe6cc6b))
+
+
+
+
+
 ## [1.12.1](https://github.com/developer239/linters/compare/@linters/eslint-config-jest@1.12.0...@linters/eslint-config-jest@1.12.1) (2023-01-24)
 
 
