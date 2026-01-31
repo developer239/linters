@@ -4,7 +4,7 @@
   "version": "2.2.0",
   "repository": "https://github.com/developer239/linters",
   "engines": {
-    "node": ">=18.18.0"
+    "node": ">=22.0.0"
   },
   "main": "index.js",
   "type": "module",
