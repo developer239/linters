@@ -1,7 +1,7 @@
 {
   "name": "@linters/eslint-config-nest",
   "description": "The eslint for Nest.js you have been looking for.",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "repository": "https://github.com/developer239/linters",
   "main": "index.js",
   "type": "module",
