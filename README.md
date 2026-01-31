@@ -15,46 +15,19 @@ support your favorite framework.
 
 ### Linters
 
-| Tool         | Package                                                                    | Version                                                                   |
-| ------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Base         | [@linters/eslint-config](packages/eslint-config)                           | [![@linters/eslint-config][es-badge]][es-npm]                             |
-| Base         | [@linters/eslint-config-typescript](packages/eslint-config-typescript)     | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]              |
-| Node         | [@linters/eslint-config-node](packages/eslint-config-node)                 | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]                |
-| React        | [@linters/eslint-config-react](packages/eslint-config-react)               | [![@linters/eslint-config-react][esreact-badge]][esreact-npm]             |
-| React Native | [@linters/eslint-config-react-native](packages/eslint-config-react-native) | [![@linters/eslint-config-react-native][esreacrn-badge]][esreacrn-npm]    |
-| Angular      | [@linters/eslint-config-angular](packages/eslint-config-angular)           | [![@linters/eslint-config-angular][esng-badge]][esng-npm]                 |
-| Functional   | [@linters/eslint-config-functional](packages/eslint-config-functional)     | [![@linters/eslint-config-functional][esfc-badge]][esfc-npm]              |
-| Jest         | [@linters/eslint-config-jest](packages/eslint-config-jest)                 | [![@linters/eslint-config-jest][esjest-badge]][esjest-npm]                |
-| Vitest       | [@linters/eslint-config-vitest](packages/eslint-config-vitest)             | [![@linters/eslint-config-vitest][esvitest-badge]][esvitest-npm]          |
-| Storybook    | [@linters/eslint-config-storybook](packages/eslint-config-storybook)       | [![@linters/eslint-config-storybook][esstorybook-badge]][esstorybook-npm] |
-| Ramda        | [@linters/eslint-config-ramda](packages/eslint-config-ramda)               | [![@linters/eslint-config-ramda][esrm-badge]][esrm-npm]                   |
+| Tool   | Package                                                                | Version                                                          |
+| ------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Base   | [@linters/eslint-config](packages/eslint-config)                       | [![@linters/eslint-config][es-badge]][es-npm]                    |
+| Base   | [@linters/eslint-config-typescript](packages/eslint-config-typescript) | [![@linters/eslint-config-typescript][ests-badge]][ests-npm]     |
+| Node   | [@linters/eslint-config-node](packages/eslint-config-node)             | [![@linters/eslint-config-node][esnode-badge]][esnode-npm]       |
+| Vitest | [@linters/eslint-config-vitest](packages/eslint-config-vitest)         | [![@linters/eslint-config-vitest][esvitest-badge]][esvitest-npm] |
+| Nest   | [@linters/eslint-config-nest](packages/eslint-config-nest)             | [![@linters/eslint-config-nest][nest-badge]][nest-npm]           |
 
 ### Prettier
 
 | Tool     | Package                                              | Version                                         |
 | -------- | ---------------------------------------------------- | ----------------------------------------------- |
 | Prettier | [@linters/prettier-config](packages/prettier-config) | [![@linters/prettier-config][pr-badge]][pr-npm] |
-
-### Styles
-
-| Tool      | Package                                                                                              | Version                                                                         |
-| --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Default   | [@linters/stylelint-config](packages/stylelint-config)                                               | [![@linters/stylelint-config][sl-badge]][sl-npm]                                |
-| CSS-in-JS | [@linters/stylelint-css-in-js-config](packages/stylelint-css-in-js-config)                           | [![@linters/stylelint-css-in-js-config][sljs-badge]][sljs-npm]                  |
-| CSS-in-JS | [@linters/stylelint-css-in-js-react-native-config](packages/stylelint-css-in-js-react-native-config) | [![@linters/stylelint-css-in-js-react-native-config][sljsrn-badge]][sljsrn-npm] |
-| SCSS      | [@linters/stylelint-scss-config](packages/stylelint-scss-config)                                     | [![@linters/stylelint-scss-config][slscss-badge]][slscss-npm]                   |
-
-### Git Hooks
-
-| Tool  | Package                                                | Version                                          |
-| ----- | ------------------------------------------------------ | ------------------------------------------------ |
-| Other | [@linters/semantic-release](packages/semantic-release) | [![@linters/semantic-release][sr-badge]][sr-npm] |
-
-### Other Tools
-
-| Tool  | Package                                                | Version                                          |
-| ----- | ------------------------------------------------------ | ------------------------------------------------ |
-| Other | [@linters/semantic-release](packages/semantic-release) | [![@linters/semantic-release][sr-badge]][sr-npm] |
 
 ## Contributing
 
@@ -98,3 +71,5 @@ See the [contributing docs](/CONTRIBUTING.md) for more information
 [slscss-npm]: https://badge.fury.io/js/%40linters%2Fstylelint-scss-config
 [pr-badge]: https://badge.fury.io/js/%40linters%2Fprettier-config.svg
 [pr-npm]: https://badge.fury.io/js/%40linters%2Fprettier-config
+[nest-badge]: https://badge.fury.io/js/%40linters%2Feslint-config-nest.svg
+[nest-npm]: https://badge.fury.io/js/%40linters%2Feslint-config-nest
