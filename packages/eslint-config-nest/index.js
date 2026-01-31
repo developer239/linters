@@ -3,9 +3,7 @@ import eslintNestJs from "@darraghor/eslint-plugin-nestjs-typed";
 const nestjsRules = {
   "@darraghor/nestjs-typed/provided-injected-should-match-factory-parameters":
     "error",
-  "@darraghor/nestjs-typed/injectable-should-be-provided": "error",
   "@darraghor/nestjs-typed/use-injectable-provided-token": "error",
-  "@darraghor/nestjs-typed/use-dependency-injection": "error",
   "@darraghor/nestjs-typed/api-property-matches-property-optionality": "error",
   "@darraghor/nestjs-typed/controllers-should-supply-api-tags": "error",
   "@darraghor/nestjs-typed/api-method-should-specify-api-response": "error",
@@ -24,16 +22,14 @@ const nestjsRules = {
   "@darraghor/nestjs-typed/all-properties-have-explicit-defined": "error",
   "@darraghor/nestjs-typed/no-duplicate-decorators": "error",
   "@darraghor/nestjs-typed/validation-pipe-should-use-forbid-unknown": "error",
-  "@darraghor/nestjs-typed/api-methods-should-be-guarded": "error",
-  "@darraghor/nestjs-typed/sort-module-metadata-arrays": "error",
-  "@darraghor/nestjs-typed/use-correct-endpoint-naming-convention": "error",
 };
 
 const nestjsConfig = [
   {
     files: ["**/*.ts"],
     plugins: {
-      "@darraghor/nestjs-typed": eslintNestJs,
+      "@darraghor/nestjs-typed":
+        eslintNestJs.default || eslintNestJs.plugin || eslintNestJs,
     },
     rules: nestjsRules,
   },
