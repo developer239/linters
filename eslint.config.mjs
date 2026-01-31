@@ -7,6 +7,8 @@ export default [
   {
     rules: {
       'max-lines': 'off',
+      'import-x/no-default-export': 'off',
+      'id-length': 'off'
     },
   },
   {
