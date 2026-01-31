@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # ESLint Config Functional
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your functional code.
@@ -22,6 +24,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-functional'],
-}
+  extends: ["@linters/eslint-config-functional"],
+};
 ```

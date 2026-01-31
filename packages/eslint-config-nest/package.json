@@ -20,16 +20,8 @@
   },
   "keywords": [
     "eslint",
-    "code-style",
-    "semantic-release",
-    "config",
-    "vitest",
-    "tests",
-    "typescript",
-    "node",
-    "react",
-    "react-native",
-    "flat-config",
-    "nestjs"
+    "eslint-config",
+    "nestjs",
+    "flat-config"
   ]
 }

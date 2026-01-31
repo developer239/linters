@@ -21,11 +21,7 @@
   },
   "keywords": [
     "eslint",
-    "code-style",
-    "eslint-plugin-import",
-    "semantic-release",
-    "config",
-    "general",
+    "eslint-config",
     "flat-config"
   ]
 }

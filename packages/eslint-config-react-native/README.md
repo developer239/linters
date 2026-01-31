@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # Eslint Config React Native
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [react-native](https://github.com/facebook/react-native) applications.
@@ -21,6 +23,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-react-native'],
-}
+  extends: ["@linters/eslint-config-react-native"],
+};
 ```

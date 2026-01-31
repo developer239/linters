@@ -22,18 +22,8 @@
   },
   "keywords": [
     "eslint",
-    "code-style",
-    "eslint-plugin-import",
-    "semantic-release",
-    "config",
-    "general",
-    "basic",
+    "eslint-config",
     "typescript",
-    "types",
-    "typecheck",
-    "angular",
-    "react",
-    "vue",
     "flat-config"
   ]
 }

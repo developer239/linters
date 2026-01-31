@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # ESLint Config Storybook
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your [Storybook](https://github.com/storybookjs/storybook) stories.
@@ -22,6 +24,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-storybook'],
-}
+  extends: ["@linters/eslint-config-storybook"],
+};
 ```

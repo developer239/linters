@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # Semantic Release Config
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) shareable config to publish npm packages with [GitHub](https://github.com).

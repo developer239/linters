@@ -1,29 +1,24 @@
-# Eslint Config Typescript
+# @linters/eslint-config-typescript
 
-[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [TypeScript](https://github.com/microsoft/TypeScript) applications.
+ESLint configuration for TypeScript projects. Extends `@linters/eslint-config`.
 
 ## Plugins
 
-This configuration uses the following plugins:
-
-- `@linters/eslint-config`
-- `@typescript-eslint/eslint-plugin`
-- `eslint-import-resolver-typescript`
+- [typescript-eslint](https://typescript-eslint.io/) - TypeScript-specific linting rules
+- [eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript) - TypeScript import resolution
 
 ## Install
 
 ```bash
-$ yarn add eslint eslint-plugin-import @linters/eslint-config-typescript -D
+yarn add -D eslint typescript @linters/eslint-config-typescript
 ```
 
 ## Usage
 
-The shareable config can be configured in the [**eslint** configuration file](https://eslint.org/docs/user-guide/configuring):
-
-Create a _.eslintrc.js_ file with the following contents:
+Create `eslint.config.js`:
 
 ```js
-module.exports = {
-  extends: ['@linters/eslint-config-typescript'],
-}
+import typescriptConfig from "@linters/eslint-config-typescript";
+
+export default [...typescriptConfig];
 ```

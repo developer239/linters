@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained. Use [@linters/eslint-config-vitest](../eslint-config-vitest) instead.
+
 # ESLint Config Jest
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your tests.
@@ -23,6 +25,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-jest'],
-}
+  extends: ["@linters/eslint-config-jest"],
+};
 ```

@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # ESLint Config Ramda
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your [ramda](https://github.com/ramda/ramda) code.
@@ -22,6 +24,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-ramda'],
-}
+  extends: ["@linters/eslint-config-ramda"],
+};
 ```

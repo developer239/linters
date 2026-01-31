@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # Eslint Config Angular
 
 ## Plugins
@@ -52,6 +54,6 @@ Rename a _.eslintrc.json_ to _.eslintrc.js_ and replace its contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-angular'],
-}
+  extends: ["@linters/eslint-config-angular"],
+};
 ```

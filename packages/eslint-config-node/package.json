@@ -21,14 +21,7 @@
   },
   "keywords": [
     "eslint",
-    "code-style",
-    "eslint-plugin-import",
-    "semantic-release",
-    "config",
-    "general",
-    "basic",
-    "typescript",
-    "types",
+    "eslint-config",
     "node",
     "flat-config"
   ]

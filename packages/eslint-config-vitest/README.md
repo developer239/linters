@@ -1,27 +1,25 @@
-# ESLint Config Vitest
+# @linters/eslint-config-vitest
 
-[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your tests.
+ESLint configuration for Vitest test files.
 
 ## Plugins
 
-This configuration uses the following plugins:
-
-- [`eslint-plugin-vitest`](https://github.com/veritem/eslint-plugin-vitest)
+- [@vitest/eslint-plugin](https://github.com/vitest-dev/eslint-plugin-vitest) - Vitest-specific linting rules
 
 ## Install
 
 ```bash
-$ yarn add @linters/eslint-config-vitest -D
+yarn add -D eslint @linters/eslint-config-vitest
 ```
 
 ## Usage
 
-The shareable config can be configured in the [**eslint** configuration file](https://eslint.org/docs/user-guide/configuring):
-
-Create a _.eslintrc.js_ file with the following contents:
+Create `eslint.config.js`:
 
 ```js
-module.exports = {
-  extends: ['@linters/eslint-config-vitest'],
-}
+import vitestConfig from "@linters/eslint-config-vitest";
+
+export default [...vitestConfig];
 ```
+
+This config only applies to test files (`*.spec.*`, `*.test.*`, `_tests/`, `testing/`).

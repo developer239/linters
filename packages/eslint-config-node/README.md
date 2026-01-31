@@ -1,29 +1,24 @@
-# Eslint Config Node
+# @linters/eslint-config-node
 
-[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [Node](https://github.com/nodejs/node) applications.
+ESLint configuration for Node.js applications. Extends `@linters/eslint-config`.
 
 ## Plugins
 
-This configuration uses the following plugins:
-
-- `@linters/eslint-config`
-- `eslint-plugin-node`
-- `eslint-plugin-security`
+- [eslint-plugin-n](https://github.com/eslint-community/eslint-plugin-n) - Node.js specific rules
+- [eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - security best practices
 
 ## Install
 
 ```bash
-$ yarn add eslint eslint-plugin-import @linters/eslint-config-node -D
+yarn add -D eslint @linters/eslint-config-node
 ```
 
 ## Usage
 
-The shareable config can be configured in the [**eslint** configuration file](https://eslint.org/docs/user-guide/configuring):
-
-Create a _.eslintrc.js_ file with the following contents:
+Create `eslint.config.js`:
 
 ```js
-module.exports = {
-  extends: ['@linters/eslint-config-node'],
-}
+import nodeConfig from "@linters/eslint-config-node";
+
+export default [...nodeConfig];
 ```

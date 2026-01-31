@@ -1,3 +1,5 @@
+> **ARCHIVED:** This package is no longer maintained.
+
 # Eslint Config React
 
 [**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code in [React](https://github.com/facebook/react) applications.
@@ -24,6 +26,6 @@ Create a _.eslintrc.js_ file with the following contents:
 
 ```js
 module.exports = {
-  extends: ['@linters/eslint-config-react'],
-}
+  extends: ["@linters/eslint-config-react"],
+};
 ```
