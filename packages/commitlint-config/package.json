@@ -20,6 +20,6 @@
     "@commitlint/cli": ">=19.0.0"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "19.6.0"
+    "@commitlint/config-conventional": "20.4.0"
   }
 }
