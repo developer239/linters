@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.4.0](https://github.com/developer239/linters/compare/@linters/eslint-config-vitest@2.3.0...@linters/eslint-config-vitest@2.4.0) (2026-03-26)
+
+
+### Features
+
+* update rules to sync with monorepo ([2ee3d82](https://github.com/developer239/linters/commit/2ee3d820b0e03e7094317f90288884490832d1f0))
+
+
+
+
+
 # [2.3.0](https://github.com/developer239/linters/compare/@linters/eslint-config-vitest@2.2.0...@linters/eslint-config-vitest@2.3.0) (2026-01-31)
 
 
