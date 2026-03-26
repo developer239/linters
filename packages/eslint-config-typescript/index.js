@@ -107,7 +107,7 @@ const typescriptRules = {
       selector: "variable",
       types: ["boolean"],
       format: ["PascalCase"],
-      prefix: ["is", "should", "has", "can", "did", "will", "expected"],
+      prefix: ["is", "should", "has", "can", "did", "will", "expected", "does"],
     },
     {
       selector: "typeParameter",
@@ -132,8 +132,9 @@ const typescriptRules = {
     {
       vars: "all",
       args: "after-used",
-      ignoreRestSiblings: true,
+      argsIgnorePattern: "^_",
       varsIgnorePattern: "^_",
+      ignoreRestSiblings: true,
     },
   ],
   "@typescript-eslint/return-await": ["error", "in-try-catch"],

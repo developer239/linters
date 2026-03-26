@@ -24,7 +24,7 @@ const baseRules = {
   "no-empty": "error",
   "no-empty-character-class": "error",
   "no-ex-assign": "error",
-  "no-extra-boolean-cast": "error",
+  "no-extra-boolean-cast": "off",
   "no-extra-parens": "off",
   "no-func-assign": "error",
   "no-import-assign": "error",
