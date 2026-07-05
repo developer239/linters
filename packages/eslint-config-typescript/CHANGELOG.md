@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.5.1](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@2.5.0...@linters/eslint-config-typescript@2.5.1) (2026-07-05)
+
+
+### Bug Fixes
+
+* handle monorepo config lint paths ([0b49536](https://github.com/developer239/linters/commit/0b49536dd4b9843b3d7af97a51a0883248fb9b88))
+
+
+
+
+
 # [2.5.0](https://github.com/developer239/linters/compare/@linters/eslint-config-typescript@2.4.0...@linters/eslint-config-typescript@2.5.0) (2026-07-05)
 
 
