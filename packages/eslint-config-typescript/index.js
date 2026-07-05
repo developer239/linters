@@ -201,6 +201,14 @@ const typescriptRules = {
 
 const typescriptConfig = [
   ...baseConfig,
+  {
+    ignores: [
+      "**/vitest.config.ts",
+      "**/vitest.global-setup.ts",
+      "**/vitest.global-teardown.ts",
+      "**/vitest-test.config.ts",
+    ],
+  },
   ...tseslint.configs.recommended,
   {
     files: ["**/*.ts", "**/*.tsx"],
@@ -260,6 +268,17 @@ const typescriptConfig = [
     ],
     rules: {
       "import-x/no-default-export": "off",
+    },
+  },
+  // CLI packages intentionally perform terminal IO and polling loops
+  {
+    files: ["packages/ci/**/*.{ts,tsx,js,jsx,mjs,cjs}"],
+    rules: {
+      "@typescript-eslint/no-non-null-assertion": "off",
+      "import-x/no-default-export": "off",
+      "no-await-in-loop": "off",
+      "no-console": "off",
+      "require-unicode-regexp": "off",
     },
   },
 ];
