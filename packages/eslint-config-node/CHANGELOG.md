@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://github.com/developer239/linters/compare/@linters/eslint-config-node@2.2.1...@linters/eslint-config-node@2.3.0) (2026-07-05)
+
+
+### Features
+
+* cover monorepo eslint overrides ([a8d5f4a](https://github.com/developer239/linters/commit/a8d5f4ad868b27f67a3f414917b412d1668f9145))
+
+
+
+
+
 ## [2.2.1](https://github.com/developer239/linters/compare/@linters/eslint-config-node@2.2.0...@linters/eslint-config-node@2.2.1) (2026-03-26)
 
 **Note:** Version bump only for package @linters/eslint-config-node
