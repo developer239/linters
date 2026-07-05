@@ -70,7 +70,7 @@ const typescriptRules = {
   "@typescript-eslint/no-unnecessary-type-arguments": "error",
   "@typescript-eslint/no-unnecessary-type-assertion": "error",
   "@typescript-eslint/no-use-before-define": [
-    "error",
+    "warn",
     {
       functions: false,
       classes: false,
@@ -248,6 +248,17 @@ const typescriptConfig = [
     files: ["**/typeorm.config.cjs", ".prettierrc.mjs", "eslint.config.mjs"],
     rules: {
       "@typescript-eslint/no-require-imports": "off",
+      "import-x/no-default-export": "off",
+    },
+  },
+  {
+    files: [
+      "**/vitest.config.ts",
+      "**/vitest.global-setup.ts",
+      "**/vitest.global-teardown.ts",
+      "**/vitest-test.config.ts",
+    ],
+    rules: {
       "import-x/no-default-export": "off",
     },
   },

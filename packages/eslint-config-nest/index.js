@@ -1,6 +1,7 @@
 import eslintNestJs from "@darraghor/eslint-plugin-nestjs-typed";
 
 const nestjsRules = {
+  "max-params": ["error", 10],
   "@darraghor/nestjs-typed/provided-injected-should-match-factory-parameters":
     "error",
   "@darraghor/nestjs-typed/use-injectable-provided-token": "error",

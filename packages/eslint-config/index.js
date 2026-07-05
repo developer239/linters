@@ -324,6 +324,7 @@ const baseConfig = [
     rules: {
       "prefer-destructuring": "off",
       "max-nested-callbacks": ["error", 8],
+      "no-await-in-loop": "off",
     },
   },
   // Database seeds override
